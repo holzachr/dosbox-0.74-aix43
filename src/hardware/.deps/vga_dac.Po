@@ -1,0 +1,18 @@
+vga_dac.o: ../../include/vga.h
+vga_dac.o: ../../include/video.h
+vga_dac.o: ../../include/../src/gui/render_scalers.h
+vga_dac.o: ../../include/render.h
+vga_dac.o: ../../include/inout.h
+vga_dac.o: ../../config.h
+vga_dac.o: ../../include/logging.h
+vga_dac.o: ../../include/dosbox.h
+vga_dac.o: vga_dac.cpp
+../../include/vga.h:
+../../include/video.h:
+../../include/../src/gui/render_scalers.h:
+../../include/render.h:
+../../include/inout.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+vga_dac.cpp:

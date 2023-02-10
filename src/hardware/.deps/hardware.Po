@@ -1,0 +1,214 @@
+hardware.o: /usr/include/sys/lockf.h
+hardware.o: /usr/vacpp/include/sys/lockf.h
+hardware.o: /usr/include/sys/access.h
+hardware.o: /usr/include/unistd.h
+hardware.o: /usr/vacpp/include/unistd.h
+hardware.o: /usr/include/sys/lkup.h
+hardware.o: /usr/include/sys/dir.h
+hardware.o: /usr/vacpp/include/sys/dir.h
+hardware.o: /usr/include/dirent.h
+hardware.o: /usr/include/sys/mode.h
+hardware.o: /usr/include/sys/stat.h
+hardware.o: ../../include/cross.h
+hardware.o: ../../include/video.h
+hardware.o: ../../include/../src/gui/render_scalers.h
+hardware.o: ../../include/render.h
+hardware.o: ../../include/mapper.h
+hardware.o: ../../include/mem.h
+hardware.o: /usr/include/strings.h
+hardware.o: /usr/vacpp/include/strings.h
+hardware.o: ../../include/support.h
+hardware.o: /usr/vacpp/include/string.t
+hardware.o: /usr/vacpp/include/ostream.t
+hardware.o: /usr/vacpp/include/xlocinfo.t
+hardware.o: /usr/vacpp/include/ansic_aix.h
+hardware.o: /usr/include/ctype.h
+hardware.o: /usr/vacpp/include/xlocinfo.h
+hardware.o: /usr/vacpp/include/xlocinfo
+hardware.o: /usr/vacpp/include/istream.t
+hardware.o: /usr/vacpp/include/typeinfo
+hardware.o: /usr/vacpp/include/xlocale
+hardware.o: /usr/vacpp/include/streambuf
+hardware.o: /usr/vacpp/include/climits
+hardware.o: /usr/vacpp/include/cerrno
+hardware.o: /usr/vacpp/include/xlocnum
+hardware.o: /usr/vacpp/include/ios
+hardware.o: /usr/vacpp/include/ostream
+hardware.o: /usr/vacpp/include/istream
+hardware.o: /usr/vacpp/include/string
+hardware.o: /usr/vacpp/include/vector.t
+hardware.o: /usr/vacpp/include/vector
+hardware.o: /usr/vacpp/include/list.t
+hardware.o: /usr/vacpp/include/xstring.t
+hardware.o: /usr/include/errno.h
+hardware.o: /usr/vacpp/include/xstring
+hardware.o: /usr/vacpp/include/stdexcept
+hardware.o: /usr/vacpp/include/memory.t
+hardware.o: /usr/vacpp/include/exception
+hardware.o: /usr/vacpp/include/new
+hardware.o: /usr/vacpp/include/cstdlib
+hardware.o: /usr/vacpp/include/xmemory
+hardware.o: /usr/vacpp/include/xutility.t
+hardware.o: /usr/include/time.h
+hardware.o: /usr/include/wchar.h
+hardware.o: /usr/vacpp/include/cwchar
+hardware.o: /usr/vacpp/include/cstring
+hardware.o: /usr/vacpp/include/iosfwd
+hardware.o: /usr/vacpp/include/utility
+hardware.o: /usr/vacpp/include/iterator
+hardware.o: /usr/vacpp/include/memory
+hardware.o: /usr/include/stddef.h
+hardware.o: /usr/vacpp/include/stddef.h
+hardware.o: /usr/vacpp/include/cstddef
+hardware.o: /usr/vacpp/include/xstddef
+hardware.o: /usr/vacpp/include/functional
+hardware.o: /usr/vacpp/include/list
+hardware.o: ../../include/setup.h
+hardware.o: ../../include/hardware.h
+hardware.o: ../../config.h
+hardware.o: ../../include/logging.h
+hardware.o: ../../include/dosbox.h
+hardware.o: /usr/include/va_list.h
+hardware.o: /usr/include/stdio.h
+hardware.o: /usr/vacpp/include/stdio.h
+hardware.o: /usr/include/sys/localedef31.h
+hardware.o: /usr/include/locale.h
+hardware.o: /usr/vacpp/include/cstdio
+hardware.o: /usr/vacpp/include/locale.h
+hardware.o: /usr/include/sys/lc_core.h
+hardware.o: /usr/include/float.h
+hardware.o: ../../include/pic.h
+hardware.o: /usr/include/limits.h
+hardware.o: /usr/include/sys/limits.h
+hardware.o: /usr/include/sys/localedef.h
+hardware.o: /usr/include/sys/m_signal.h
+hardware.o: /usr/include/sys/mstsave.h
+hardware.o: /usr/include/sys/m_param.h
+hardware.o: /usr/include/sys/context.h
+hardware.o: /usr/include/sys/signal.h
+hardware.o: /usr/vacpp/include/sys/signal.h
+hardware.o: /usr/vacpp/include/xiosbase
+hardware.o: /usr/include/sys/time.h
+hardware.o: /usr/vacpp/include/xutility
+hardware.o: /usr/vacpp/include/sys/time.h
+hardware.o: /usr/include/sys/resource.h
+hardware.o: /usr/include/sys/wait.h
+hardware.o: /usr/vacpp/include/sys/wait.h
+hardware.o: /usr/include/stdlib.h
+hardware.o: /usr/vacpp/include/stdlib.h
+hardware.o: /usr/include/string.h
+hardware.o: /usr/include/sys/vm_types.h
+hardware.o: /usr/include/sys/m_types.h
+hardware.o: /usr/include/sys/inttypes.h
+hardware.o: /usr/include/sys/types.h
+hardware.o: /usr/include/standards.h
+hardware.o: /usr/vacpp/include/yvals.h
+hardware.o: /usr/vacpp/include/string.h
+hardware.o: hardware.cpp
+/usr/include/sys/lockf.h:
+/usr/vacpp/include/sys/lockf.h:
+/usr/include/sys/access.h:
+/usr/include/unistd.h:
+/usr/vacpp/include/unistd.h:
+/usr/include/sys/lkup.h:
+/usr/include/sys/dir.h:
+/usr/vacpp/include/sys/dir.h:
+/usr/include/dirent.h:
+/usr/include/sys/mode.h:
+/usr/include/sys/stat.h:
+../../include/cross.h:
+../../include/video.h:
+../../include/../src/gui/render_scalers.h:
+../../include/render.h:
+../../include/mapper.h:
+../../include/mem.h:
+/usr/include/strings.h:
+/usr/vacpp/include/strings.h:
+../../include/support.h:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/vector:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/xstring.t:
+/usr/include/errno.h:
+/usr/vacpp/include/xstring:
+/usr/vacpp/include/stdexcept:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/new:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/vacpp/include/cstring:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/xstddef:
+/usr/vacpp/include/functional:
+/usr/vacpp/include/list:
+../../include/setup.h:
+../../include/hardware.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/include/va_list.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/float.h:
+../../include/pic.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/include/string.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/standards.h:
+/usr/vacpp/include/yvals.h:
+/usr/vacpp/include/string.h:
+hardware.cpp:

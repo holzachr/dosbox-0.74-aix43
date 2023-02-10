@@ -1,0 +1,288 @@
+bios.o: ../../include/programs.h
+bios.o: /usr/include/sys/lockf.h
+bios.o: /usr/vacpp/include/sys/lockf.h
+bios.o: /usr/include/sys/access.h
+bios.o: /usr/include/unistd.h
+bios.o: /usr/vacpp/include/unistd.h
+bios.o: /usr/include/sys/lkup.h
+bios.o: /usr/include/sys/dir.h
+bios.o: /usr/include/dirent.h
+bios.o: /usr/include/sys/mode.h
+bios.o: /usr/include/sys/stat.h
+bios.o: ../../include/dos_inc.h
+bios.o: /opt/doom/include/SDL/SDL_timer.h
+bios.o: /opt/doom/include/SDL/SDL_loadso.h
+bios.o: /opt/doom/include/SDL/SDL_joystick.h
+bios.o: /opt/doom/include/SDL/SDL_video.h
+bios.o: /opt/doom/include/SDL/SDL_keysym.h
+bios.o: /opt/doom/include/SDL/SDL_keyboard.h
+bios.o: /opt/doom/include/SDL/SDL_active.h
+bios.o: /opt/doom/include/SDL/SDL_events.h
+bios.o: /opt/doom/include/SDL/SDL_cdrom.h
+bios.o: ../../include/support.h
+bios.o: /opt/doom/include/SDL/SDL_rwops.h
+bios.o: /opt/doom/include/SDL/SDL_thread.h
+bios.o: ../../include/cross.h
+bios.o: /opt/doom/include/SDL/SDL_mutex.h
+bios.o: /opt/doom/include/SDL/SDL_endian.h
+bios.o: /opt/doom/include/SDL/SDL_error.h
+bios.o: /usr/include/inttypes.h
+bios.o: /usr/include/strings.h
+bios.o: /usr/vacpp/include/strings.h
+bios.o: /usr/include/stdarg.h
+bios.o: /usr/vacpp/include/stdarg.h
+bios.o: /opt/doom/include/SDL/SDL_platform.h
+bios.o: /opt/doom/include/SDL/SDL_config.h
+bios.o: /opt/doom/include/SDL/SDL_mouse.h
+bios.o: /opt/doom/include/SDL/SDL_stdinc.h
+bios.o: /opt/doom/include/SDL/SDL_main.h
+bios.o: /opt/doom/include/SDL/SDL_quit.h
+bios.o: /opt/doom/include/SDL/SDL.h
+bios.o: ../../include/timer.h
+bios.o: ../../include/serialport.h
+bios.o: /usr/vacpp/include/string.t
+bios.o: /usr/vacpp/include/ostream.t
+bios.o: /usr/vacpp/include/xlocinfo.t
+bios.o: /usr/vacpp/include/ansic_aix.h
+bios.o: /usr/include/ctype.h
+bios.o: /usr/vacpp/include/xlocinfo.h
+bios.o: /usr/vacpp/include/xlocinfo
+bios.o: /usr/vacpp/include/istream.t
+bios.o: /usr/vacpp/include/typeinfo
+bios.o: /usr/vacpp/include/xlocale
+bios.o: /usr/vacpp/include/streambuf
+bios.o: /usr/vacpp/include/climits
+bios.o: /opt/doom/include/SDL/SDL_version.h
+bios.o: /usr/vacpp/include/cerrno
+bios.o: /usr/vacpp/include/xlocnum
+bios.o: /usr/vacpp/include/ios
+bios.o: /usr/vacpp/include/ostream
+bios.o: /usr/vacpp/include/istream
+bios.o: /usr/vacpp/include/string
+bios.o: /usr/vacpp/include/vector.t
+bios.o: /usr/vacpp/include/vector
+bios.o: /usr/vacpp/include/list.t
+bios.o: /usr/vacpp/include/xstring.t
+bios.o: /usr/include/errno.h
+bios.o: /usr/vacpp/include/xstring
+bios.o: /usr/vacpp/include/stdexcept
+bios.o: /usr/vacpp/include/new
+bios.o: /usr/include/sys/localedef31.h
+bios.o: /usr/include/locale.h
+bios.o: /usr/include/sys/lc_core.h
+bios.o: /usr/include/sys/localedef.h
+bios.o: /usr/include/sys/m_signal.h
+bios.o: /usr/include/sys/mstsave.h
+bios.o: /usr/include/sys/m_param.h
+bios.o: /usr/include/sys/context.h
+bios.o: /usr/include/sys/signal.h
+bios.o: /usr/vacpp/include/sys/signal.h
+bios.o: /usr/vacpp/include/xiosbase
+bios.o: /usr/include/sys/time.h
+bios.o: /usr/include/sys/resource.h
+bios.o: /opt/doom/include/SDL/SDL_cpuinfo.h
+bios.o: /usr/include/sys/wait.h
+bios.o: /usr/vacpp/include/sys/wait.h
+bios.o: /opt/doom/include/SDL/begin_code.h
+bios.o: /usr/include/stdlib.h
+bios.o: /usr/vacpp/include/stdlib.h
+bios.o: /usr/vacpp/include/cstdlib
+bios.o: /usr/vacpp/include/xmemory
+bios.o: /usr/vacpp/include/xutility.t
+bios.o: /usr/include/time.h
+bios.o: /usr/include/wchar.h
+bios.o: /usr/vacpp/include/cwchar
+bios.o: /usr/include/string.h
+bios.o: /usr/vacpp/include/cstring
+bios.o: /usr/vacpp/include/locale.h
+bios.o: /usr/vacpp/include/cstdio
+bios.o: /usr/vacpp/include/iosfwd
+bios.o: /usr/vacpp/include/utility
+bios.o: /usr/vacpp/include/sys/time.h
+bios.o: /usr/vacpp/include/xutility
+bios.o: /usr/vacpp/include/iterator
+bios.o: /usr/vacpp/include/memory
+bios.o: /usr/include/stddef.h
+bios.o: /usr/vacpp/include/stddef.h
+bios.o: /usr/vacpp/include/cstddef
+bios.o: /usr/vacpp/include/string.h
+bios.o: /usr/vacpp/include/yvals.h
+bios.o: /usr/vacpp/include/xstddef
+bios.o: /usr/vacpp/include/functional
+bios.o: /opt/doom/include/SDL/SDL_audio.h
+bios.o: /usr/vacpp/include/list
+bios.o: ../../include/setup.h
+bios.o: ../../include/mouse.h
+bios.o: /usr/vacpp/include/sys/dir.h
+bios.o: ../../include/joystick.h
+bios.o: /usr/include/float.h
+bios.o: /usr/include/sys/vm_types.h
+bios.o: /usr/include/sys/m_types.h
+bios.o: /usr/include/sys/inttypes.h
+bios.o: /usr/include/sys/types.h
+bios.o: ../../include/dos_system.h
+bios.o: /usr/include/va_list.h
+bios.o: /usr/include/standards.h
+bios.o: /usr/include/stdio.h
+bios.o: /usr/vacpp/include/stdio.h
+bios.o: ../../include/hardware.h
+bios.o: /usr/include/limits.h
+bios.o: /usr/include/sys/limits.h
+bios.o: ../../include/pic.h
+bios.o: /opt/doom/include/SDL/close_code.h
+bios.o: ../../include/inout.h
+bios.o: ../../include/callback.h
+bios.o: /usr/vacpp/include/exception
+bios.o: ../../include/cpu.h
+bios.o: /usr/vacpp/include/memory.t
+bios.o: ../../include/regs.h
+bios.o: ../../include/bios.h
+bios.o: ../../include/mem.h
+bios.o: ../../config.h
+bios.o: ../../include/logging.h
+bios.o: ../../include/dosbox.h
+bios.o: bios.cpp
+../../include/programs.h:
+/usr/include/sys/lockf.h:
+/usr/vacpp/include/sys/lockf.h:
+/usr/include/sys/access.h:
+/usr/include/unistd.h:
+/usr/vacpp/include/unistd.h:
+/usr/include/sys/lkup.h:
+/usr/include/sys/dir.h:
+/usr/include/dirent.h:
+/usr/include/sys/mode.h:
+/usr/include/sys/stat.h:
+../../include/dos_inc.h:
+/opt/doom/include/SDL/SDL_timer.h:
+/opt/doom/include/SDL/SDL_loadso.h:
+/opt/doom/include/SDL/SDL_joystick.h:
+/opt/doom/include/SDL/SDL_video.h:
+/opt/doom/include/SDL/SDL_keysym.h:
+/opt/doom/include/SDL/SDL_keyboard.h:
+/opt/doom/include/SDL/SDL_active.h:
+/opt/doom/include/SDL/SDL_events.h:
+/opt/doom/include/SDL/SDL_cdrom.h:
+../../include/support.h:
+/opt/doom/include/SDL/SDL_rwops.h:
+/opt/doom/include/SDL/SDL_thread.h:
+../../include/cross.h:
+/opt/doom/include/SDL/SDL_mutex.h:
+/opt/doom/include/SDL/SDL_endian.h:
+/opt/doom/include/SDL/SDL_error.h:
+/usr/include/inttypes.h:
+/usr/include/strings.h:
+/usr/vacpp/include/strings.h:
+/usr/include/stdarg.h:
+/usr/vacpp/include/stdarg.h:
+/opt/doom/include/SDL/SDL_platform.h:
+/opt/doom/include/SDL/SDL_config.h:
+/opt/doom/include/SDL/SDL_mouse.h:
+/opt/doom/include/SDL/SDL_stdinc.h:
+/opt/doom/include/SDL/SDL_main.h:
+/opt/doom/include/SDL/SDL_quit.h:
+/opt/doom/include/SDL/SDL.h:
+../../include/timer.h:
+../../include/serialport.h:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+/opt/doom/include/SDL/SDL_version.h:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/vector:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/xstring.t:
+/usr/include/errno.h:
+/usr/vacpp/include/xstring:
+/usr/vacpp/include/stdexcept:
+/usr/vacpp/include/new:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/include/sys/resource.h:
+/opt/doom/include/SDL/SDL_cpuinfo.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/opt/doom/include/SDL/begin_code.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/include/string.h:
+/usr/vacpp/include/cstring:
+/usr/vacpp/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/string.h:
+/usr/vacpp/include/yvals.h:
+/usr/vacpp/include/xstddef:
+/usr/vacpp/include/functional:
+/opt/doom/include/SDL/SDL_audio.h:
+/usr/vacpp/include/list:
+../../include/setup.h:
+../../include/mouse.h:
+/usr/vacpp/include/sys/dir.h:
+../../include/joystick.h:
+/usr/include/float.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+../../include/dos_system.h:
+/usr/include/va_list.h:
+/usr/include/standards.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+../../include/hardware.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+../../include/pic.h:
+/opt/doom/include/SDL/close_code.h:
+../../include/inout.h:
+../../include/callback.h:
+/usr/vacpp/include/exception:
+../../include/cpu.h:
+/usr/vacpp/include/memory.t:
+../../include/regs.h:
+../../include/bios.h:
+../../include/mem.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+bios.cpp:

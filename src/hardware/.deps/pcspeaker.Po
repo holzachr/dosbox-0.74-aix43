@@ -1,0 +1,242 @@
+pcspeaker.o: /usr/vacpp/include/string.t
+pcspeaker.o: /usr/vacpp/include/ostream.t
+pcspeaker.o: /usr/vacpp/include/xlocinfo.t
+pcspeaker.o: /usr/vacpp/include/ansic_aix.h
+pcspeaker.o: /usr/vacpp/include/xlocinfo.h
+pcspeaker.o: /usr/vacpp/include/xlocinfo
+pcspeaker.o: /usr/vacpp/include/istream.t
+pcspeaker.o: /usr/vacpp/include/typeinfo
+pcspeaker.o: /usr/vacpp/include/xlocale
+pcspeaker.o: /usr/vacpp/include/streambuf
+pcspeaker.o: /usr/vacpp/include/climits
+pcspeaker.o: /usr/vacpp/include/xlocnum
+pcspeaker.o: /usr/vacpp/include/ios
+pcspeaker.o: /usr/vacpp/include/ostream
+pcspeaker.o: /usr/vacpp/include/istream
+pcspeaker.o: /usr/vacpp/include/string
+pcspeaker.o: /usr/vacpp/include/vector.t
+pcspeaker.o: /usr/vacpp/include/vector
+pcspeaker.o: /usr/vacpp/include/list.t
+pcspeaker.o: /usr/vacpp/include/xstring.t
+pcspeaker.o: /usr/vacpp/include/stdexcept
+pcspeaker.o: /usr/vacpp/include/memory.t
+pcspeaker.o: /usr/vacpp/include/exception
+pcspeaker.o: /usr/vacpp/include/new
+pcspeaker.o: /usr/vacpp/include/cstdlib
+pcspeaker.o: /usr/vacpp/include/xmemory
+pcspeaker.o: /usr/vacpp/include/xutility.t
+pcspeaker.o: /usr/include/time.h
+pcspeaker.o: /usr/include/wchar.h
+pcspeaker.o: /usr/vacpp/include/cstring
+pcspeaker.o: /usr/vacpp/include/iosfwd
+pcspeaker.o: /usr/vacpp/include/utility
+pcspeaker.o: /usr/vacpp/include/iterator
+pcspeaker.o: /usr/vacpp/include/memory
+pcspeaker.o: /usr/vacpp/include/cstddef
+pcspeaker.o: /usr/vacpp/include/xstddef
+pcspeaker.o: /usr/vacpp/include/functional
+pcspeaker.o: ../../include/setup.h
+pcspeaker.o: /usr/vacpp/include/cerrno
+pcspeaker.o: /opt/doom/include/SDL/SDL_version.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_timer.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_loadso.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_joystick.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_video.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_keysym.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_keyboard.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_active.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_events.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_cdrom.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_rwops.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_thread.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_mutex.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_endian.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_error.h
+pcspeaker.o: /usr/vacpp/include/list
+pcspeaker.o: /opt/doom/include/SDL/SDL_audio.h
+pcspeaker.o: /opt/doom/include/SDL/close_code.h
+pcspeaker.o: /usr/include/ctype.h
+pcspeaker.o: /usr/include/inttypes.h
+pcspeaker.o: /usr/include/strings.h
+pcspeaker.o: /usr/vacpp/include/strings.h
+pcspeaker.o: /usr/include/string.h
+pcspeaker.o: /usr/vacpp/include/yvals.h
+pcspeaker.o: /usr/vacpp/include/string.h
+pcspeaker.o: /usr/include/stdarg.h
+pcspeaker.o: /usr/vacpp/include/stdarg.h
+pcspeaker.o: /usr/include/stddef.h
+pcspeaker.o: /usr/vacpp/include/stddef.h
+pcspeaker.o: /usr/include/va_list.h
+pcspeaker.o: /usr/include/stdio.h
+pcspeaker.o: /usr/vacpp/include/stdio.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_platform.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_config.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_mouse.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_stdinc.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_main.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_quit.h
+pcspeaker.o: /opt/doom/include/SDL/SDL.h
+pcspeaker.o: ../../include/timer.h
+pcspeaker.o: ../../include/mixer.h
+pcspeaker.o: ../../config.h
+pcspeaker.o: ../../include/logging.h
+pcspeaker.o: ../../include/dosbox.h
+pcspeaker.o: /usr/include/sys/localedef31.h
+pcspeaker.o: /usr/include/locale.h
+pcspeaker.o: /usr/vacpp/include/cstdio
+pcspeaker.o: /usr/vacpp/include/locale.h
+pcspeaker.o: /usr/include/sys/lc_core.h
+pcspeaker.o: /usr/include/sys/localedef.h
+pcspeaker.o: /usr/include/sys/m_signal.h
+pcspeaker.o: /usr/include/sys/mstsave.h
+pcspeaker.o: /usr/include/sys/m_param.h
+pcspeaker.o: /usr/include/sys/context.h
+pcspeaker.o: /usr/include/sys/signal.h
+pcspeaker.o: /usr/vacpp/include/sys/signal.h
+pcspeaker.o: /usr/vacpp/include/xiosbase
+pcspeaker.o: /usr/include/sys/time.h
+pcspeaker.o: /usr/vacpp/include/xutility
+pcspeaker.o: /usr/vacpp/include/sys/time.h
+pcspeaker.o: /usr/include/sys/resource.h
+pcspeaker.o: /usr/include/sys/vm_types.h
+pcspeaker.o: /usr/include/sys/m_types.h
+pcspeaker.o: /usr/include/sys/inttypes.h
+pcspeaker.o: /usr/include/sys/types.h
+pcspeaker.o: /opt/doom/include/SDL/SDL_cpuinfo.h
+pcspeaker.o: /usr/include/sys/wait.h
+pcspeaker.o: /usr/vacpp/include/sys/wait.h
+pcspeaker.o: /opt/doom/include/SDL/begin_code.h
+pcspeaker.o: /usr/include/stdlib.h
+pcspeaker.o: /usr/vacpp/include/stdlib.h
+pcspeaker.o: /usr/include/math.h
+pcspeaker.o: /usr/vacpp/include/xstring
+pcspeaker.o: /usr/include/errno.h
+pcspeaker.o: ../../include/pic.h
+pcspeaker.o: /usr/include/limits.h
+pcspeaker.o: /usr/include/sys/limits.h
+pcspeaker.o: /usr/include/standards.h
+pcspeaker.o: /usr/include/float.h
+pcspeaker.o: /usr/vacpp/include/math.h
+pcspeaker.o: /usr/vacpp/include/cwchar
+pcspeaker.o: pcspeaker.cpp
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/vector:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/xstring.t:
+/usr/vacpp/include/stdexcept:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/new:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cstring:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/xstddef:
+/usr/vacpp/include/functional:
+../../include/setup.h:
+/usr/vacpp/include/cerrno:
+/opt/doom/include/SDL/SDL_version.h:
+/opt/doom/include/SDL/SDL_timer.h:
+/opt/doom/include/SDL/SDL_loadso.h:
+/opt/doom/include/SDL/SDL_joystick.h:
+/opt/doom/include/SDL/SDL_video.h:
+/opt/doom/include/SDL/SDL_keysym.h:
+/opt/doom/include/SDL/SDL_keyboard.h:
+/opt/doom/include/SDL/SDL_active.h:
+/opt/doom/include/SDL/SDL_events.h:
+/opt/doom/include/SDL/SDL_cdrom.h:
+/opt/doom/include/SDL/SDL_rwops.h:
+/opt/doom/include/SDL/SDL_thread.h:
+/opt/doom/include/SDL/SDL_mutex.h:
+/opt/doom/include/SDL/SDL_endian.h:
+/opt/doom/include/SDL/SDL_error.h:
+/usr/vacpp/include/list:
+/opt/doom/include/SDL/SDL_audio.h:
+/opt/doom/include/SDL/close_code.h:
+/usr/include/ctype.h:
+/usr/include/inttypes.h:
+/usr/include/strings.h:
+/usr/vacpp/include/strings.h:
+/usr/include/string.h:
+/usr/vacpp/include/yvals.h:
+/usr/vacpp/include/string.h:
+/usr/include/stdarg.h:
+/usr/vacpp/include/stdarg.h:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/include/va_list.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/opt/doom/include/SDL/SDL_platform.h:
+/opt/doom/include/SDL/SDL_config.h:
+/opt/doom/include/SDL/SDL_mouse.h:
+/opt/doom/include/SDL/SDL_stdinc.h:
+/opt/doom/include/SDL/SDL_main.h:
+/opt/doom/include/SDL/SDL_quit.h:
+/opt/doom/include/SDL/SDL.h:
+../../include/timer.h:
+../../include/mixer.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/opt/doom/include/SDL/SDL_cpuinfo.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/opt/doom/include/SDL/begin_code.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/include/math.h:
+/usr/vacpp/include/xstring:
+/usr/include/errno.h:
+../../include/pic.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+/usr/include/standards.h:
+/usr/include/float.h:
+/usr/vacpp/include/math.h:
+/usr/vacpp/include/cwchar:
+pcspeaker.cpp:

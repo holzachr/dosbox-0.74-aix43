@@ -1,0 +1,14 @@
+vga_s3.o: ../../include/mem.h
+vga_s3.o: ../../include/vga.h
+vga_s3.o: ../../include/inout.h
+vga_s3.o: ../../config.h
+vga_s3.o: ../../include/logging.h
+vga_s3.o: ../../include/dosbox.h
+vga_s3.o: vga_s3.cpp
+../../include/mem.h:
+../../include/vga.h:
+../../include/inout.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+vga_s3.cpp:

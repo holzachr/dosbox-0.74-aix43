@@ -1,0 +1,184 @@
+cross.o: /usr/include/pwd.h
+cross.o: /usr/include/strings.h
+cross.o: /usr/vacpp/include/strings.h
+cross.o: ../../include/support.h
+cross.o: /usr/include/sys/lockf.h
+cross.o: /usr/vacpp/include/sys/lockf.h
+cross.o: /usr/include/sys/access.h
+cross.o: /usr/include/unistd.h
+cross.o: /usr/vacpp/include/unistd.h
+cross.o: /usr/include/sys/lkup.h
+cross.o: /usr/include/sys/dir.h
+cross.o: /usr/vacpp/include/sys/dir.h
+cross.o: /usr/include/dirent.h
+cross.o: /usr/vacpp/include/string.t
+cross.o: /usr/vacpp/include/ostream.t
+cross.o: /usr/vacpp/include/xlocinfo.t
+cross.o: /usr/vacpp/include/ansic_aix.h
+cross.o: /usr/include/ctype.h
+cross.o: /usr/vacpp/include/xlocinfo.h
+cross.o: /usr/vacpp/include/xlocinfo
+cross.o: /usr/vacpp/include/istream.t
+cross.o: /usr/vacpp/include/typeinfo
+cross.o: /usr/vacpp/include/xstring.t
+cross.o: /usr/vacpp/include/xutility.t
+cross.o: /usr/include/time.h
+cross.o: /usr/include/wchar.h
+cross.o: /usr/vacpp/include/cwchar
+cross.o: /usr/vacpp/include/iosfwd
+cross.o: /usr/vacpp/include/utility
+cross.o: /usr/vacpp/include/new
+cross.o: /usr/vacpp/include/xmemory
+cross.o: /usr/include/stddef.h
+cross.o: /usr/vacpp/include/stddef.h
+cross.o: /usr/vacpp/include/cstddef
+cross.o: /usr/vacpp/include/xstddef
+cross.o: /usr/vacpp/include/exception
+cross.o: /usr/vacpp/include/stdexcept
+cross.o: /usr/include/string.h
+cross.o: /usr/vacpp/include/cstring
+cross.o: /usr/vacpp/include/xlocale
+cross.o: /usr/vacpp/include/streambuf
+cross.o: /usr/include/sys/localedef31.h
+cross.o: /usr/include/locale.h
+cross.o: /usr/include/sys/lc_core.h
+cross.o: /usr/include/sys/localedef.h
+cross.o: /usr/include/sys/m_signal.h
+cross.o: /usr/include/sys/mstsave.h
+cross.o: /usr/include/sys/m_param.h
+cross.o: /usr/include/sys/context.h
+cross.o: /usr/include/sys/signal.h
+cross.o: /usr/vacpp/include/sys/signal.h
+cross.o: /usr/vacpp/include/xiosbase
+cross.o: /usr/include/sys/time.h
+cross.o: /usr/vacpp/include/xutility
+cross.o: /usr/vacpp/include/sys/time.h
+cross.o: /usr/include/sys/resource.h
+cross.o: /usr/include/sys/wait.h
+cross.o: /usr/vacpp/include/sys/wait.h
+cross.o: /usr/include/stdlib.h
+cross.o: /usr/vacpp/include/stdlib.h
+cross.o: /usr/vacpp/include/cstdlib
+cross.o: /usr/vacpp/include/locale.h
+cross.o: /usr/vacpp/include/cstdio
+cross.o: /usr/vacpp/include/climits
+cross.o: /usr/vacpp/include/xstring
+cross.o: /usr/include/errno.h
+cross.o: /usr/vacpp/include/cerrno
+cross.o: /usr/vacpp/include/xlocnum
+cross.o: /usr/vacpp/include/ios
+cross.o: /usr/vacpp/include/ostream
+cross.o: /usr/vacpp/include/istream
+cross.o: /usr/vacpp/include/string.h
+cross.o: /usr/vacpp/include/yvals.h
+cross.o: /usr/vacpp/include/string
+cross.o: /usr/include/sys/mode.h
+cross.o: /usr/include/sys/stat.h
+cross.o: /usr/include/float.h
+cross.o: /usr/include/limits.h
+cross.o: /usr/include/sys/limits.h
+cross.o: /usr/include/sys/vm_types.h
+cross.o: /usr/include/sys/m_types.h
+cross.o: /usr/include/sys/inttypes.h
+cross.o: /usr/include/sys/types.h
+cross.o: /usr/include/va_list.h
+cross.o: /usr/include/standards.h
+cross.o: /usr/include/stdio.h
+cross.o: /usr/vacpp/include/stdio.h
+cross.o: ../../include/cross.h
+cross.o: ../../config.h
+cross.o: ../../include/logging.h
+cross.o: ../../include/dosbox.h
+cross.o: cross.cpp
+/usr/include/pwd.h:
+/usr/include/strings.h:
+/usr/vacpp/include/strings.h:
+../../include/support.h:
+/usr/include/sys/lockf.h:
+/usr/vacpp/include/sys/lockf.h:
+/usr/include/sys/access.h:
+/usr/include/unistd.h:
+/usr/vacpp/include/unistd.h:
+/usr/include/sys/lkup.h:
+/usr/include/sys/dir.h:
+/usr/vacpp/include/sys/dir.h:
+/usr/include/dirent.h:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xstring.t:
+/usr/vacpp/include/xutility.t:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/new:
+/usr/vacpp/include/xmemory:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/xstddef:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/stdexcept:
+/usr/include/string.h:
+/usr/vacpp/include/cstring:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/xstring:
+/usr/include/errno.h:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string.h:
+/usr/vacpp/include/yvals.h:
+/usr/vacpp/include/string:
+/usr/include/sys/mode.h:
+/usr/include/sys/stat.h:
+/usr/include/float.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/va_list.h:
+/usr/include/standards.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+../../include/cross.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+cross.cpp:

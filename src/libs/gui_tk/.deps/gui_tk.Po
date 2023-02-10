@@ -1,0 +1,2 @@
+gui_tk.o: gui_tk.cpp
+gui_tk.cpp:

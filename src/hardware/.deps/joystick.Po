@@ -1,0 +1,182 @@
+joystick.o: /usr/include/strings.h
+joystick.o: /usr/vacpp/include/strings.h
+joystick.o: ../../include/support.h
+joystick.o: ../../include/joystick.h
+joystick.o: /usr/vacpp/include/string.t
+joystick.o: /usr/vacpp/include/ostream.t
+joystick.o: /usr/vacpp/include/xlocinfo.t
+joystick.o: /usr/vacpp/include/ansic_aix.h
+joystick.o: /usr/include/ctype.h
+joystick.o: /usr/vacpp/include/xlocinfo.h
+joystick.o: /usr/vacpp/include/xlocinfo
+joystick.o: /usr/vacpp/include/istream.t
+joystick.o: /usr/vacpp/include/typeinfo
+joystick.o: /usr/vacpp/include/xlocale
+joystick.o: /usr/vacpp/include/streambuf
+joystick.o: /usr/vacpp/include/climits
+joystick.o: /usr/vacpp/include/cerrno
+joystick.o: /usr/vacpp/include/xlocnum
+joystick.o: /usr/vacpp/include/ios
+joystick.o: /usr/vacpp/include/ostream
+joystick.o: /usr/vacpp/include/istream
+joystick.o: /usr/vacpp/include/string
+joystick.o: /usr/vacpp/include/vector.t
+joystick.o: /usr/vacpp/include/vector
+joystick.o: /usr/vacpp/include/list.t
+joystick.o: /usr/vacpp/include/xstring.t
+joystick.o: /usr/include/errno.h
+joystick.o: /usr/vacpp/include/xstring
+joystick.o: /usr/vacpp/include/stdexcept
+joystick.o: /usr/vacpp/include/memory.t
+joystick.o: /usr/vacpp/include/exception
+joystick.o: /usr/vacpp/include/new
+joystick.o: /usr/include/sys/localedef31.h
+joystick.o: /usr/include/locale.h
+joystick.o: /usr/include/sys/lc_core.h
+joystick.o: /usr/include/sys/localedef.h
+joystick.o: /usr/include/sys/m_signal.h
+joystick.o: /usr/include/sys/mstsave.h
+joystick.o: /usr/include/sys/m_param.h
+joystick.o: /usr/include/sys/context.h
+joystick.o: /usr/include/sys/signal.h
+joystick.o: /usr/vacpp/include/sys/signal.h
+joystick.o: /usr/vacpp/include/xiosbase
+joystick.o: /usr/include/sys/time.h
+joystick.o: /usr/include/sys/resource.h
+joystick.o: /usr/include/sys/wait.h
+joystick.o: /usr/vacpp/include/sys/wait.h
+joystick.o: /usr/include/stdlib.h
+joystick.o: /usr/vacpp/include/stdlib.h
+joystick.o: /usr/vacpp/include/cstdlib
+joystick.o: /usr/vacpp/include/xmemory
+joystick.o: /usr/vacpp/include/xutility.t
+joystick.o: /usr/include/time.h
+joystick.o: /usr/include/wchar.h
+joystick.o: /usr/vacpp/include/cwchar
+joystick.o: /usr/vacpp/include/cstring
+joystick.o: /usr/include/float.h
+joystick.o: ../../include/pic.h
+joystick.o: /usr/include/limits.h
+joystick.o: /usr/include/sys/limits.h
+joystick.o: /usr/include/va_list.h
+joystick.o: /usr/include/stdio.h
+joystick.o: /usr/vacpp/include/stdio.h
+joystick.o: /usr/vacpp/include/locale.h
+joystick.o: /usr/vacpp/include/cstdio
+joystick.o: /usr/vacpp/include/iosfwd
+joystick.o: /usr/vacpp/include/utility
+joystick.o: /usr/vacpp/include/sys/time.h
+joystick.o: /usr/vacpp/include/xutility
+joystick.o: /usr/vacpp/include/iterator
+joystick.o: /usr/vacpp/include/memory
+joystick.o: /usr/include/stddef.h
+joystick.o: /usr/vacpp/include/stddef.h
+joystick.o: /usr/vacpp/include/cstddef
+joystick.o: /usr/vacpp/include/xstddef
+joystick.o: /usr/vacpp/include/functional
+joystick.o: /usr/vacpp/include/list
+joystick.o: ../../include/setup.h
+joystick.o: ../../include/inout.h
+joystick.o: ../../config.h
+joystick.o: ../../include/logging.h
+joystick.o: ../../include/dosbox.h
+joystick.o: /usr/include/string.h
+joystick.o: /usr/include/sys/vm_types.h
+joystick.o: /usr/include/sys/m_types.h
+joystick.o: /usr/include/sys/inttypes.h
+joystick.o: /usr/include/sys/types.h
+joystick.o: /usr/include/standards.h
+joystick.o: /usr/vacpp/include/yvals.h
+joystick.o: /usr/vacpp/include/string.h
+joystick.o: joystick.cpp
+/usr/include/strings.h:
+/usr/vacpp/include/strings.h:
+../../include/support.h:
+../../include/joystick.h:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/vector:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/xstring.t:
+/usr/include/errno.h:
+/usr/vacpp/include/xstring:
+/usr/vacpp/include/stdexcept:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/new:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/vacpp/include/cstring:
+/usr/include/float.h:
+../../include/pic.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+/usr/include/va_list.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/vacpp/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/xstddef:
+/usr/vacpp/include/functional:
+/usr/vacpp/include/list:
+../../include/setup.h:
+../../include/inout.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/include/string.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/standards.h:
+/usr/vacpp/include/yvals.h:
+/usr/vacpp/include/string.h:
+joystick.cpp:

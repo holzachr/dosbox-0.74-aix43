@@ -1,0 +1,194 @@
+adlib.o: opl.h
+adlib.o: opl.cpp
+adlib.o: dbopl.h
+adlib.o: ../../include/mem.h
+adlib.o: ../../include/mapper.h
+adlib.o: ../../include/hardware.h
+adlib.o: /usr/vacpp/include/string.t
+adlib.o: /usr/vacpp/include/ostream.t
+adlib.o: /usr/vacpp/include/xlocinfo.t
+adlib.o: /usr/vacpp/include/ansic_aix.h
+adlib.o: /usr/include/ctype.h
+adlib.o: /usr/vacpp/include/xlocinfo.h
+adlib.o: /usr/vacpp/include/xlocinfo
+adlib.o: /usr/vacpp/include/istream.t
+adlib.o: /usr/vacpp/include/typeinfo
+adlib.o: /usr/vacpp/include/xlocale
+adlib.o: /usr/vacpp/include/streambuf
+adlib.o: /usr/vacpp/include/climits
+adlib.o: /usr/vacpp/include/cerrno
+adlib.o: /usr/vacpp/include/xlocnum
+adlib.o: /usr/vacpp/include/ios
+adlib.o: /usr/vacpp/include/ostream
+adlib.o: /usr/vacpp/include/istream
+adlib.o: /usr/vacpp/include/string
+adlib.o: /usr/vacpp/include/vector.t
+adlib.o: /usr/vacpp/include/vector
+adlib.o: /usr/vacpp/include/list.t
+adlib.o: /usr/vacpp/include/xstring.t
+adlib.o: /usr/vacpp/include/stdexcept
+adlib.o: /usr/vacpp/include/memory.t
+adlib.o: /usr/vacpp/include/exception
+adlib.o: /usr/vacpp/include/new
+adlib.o: /usr/vacpp/include/cstdlib
+adlib.o: /usr/vacpp/include/xmemory
+adlib.o: /usr/vacpp/include/xutility.t
+adlib.o: /usr/include/time.h
+adlib.o: /usr/include/wchar.h
+adlib.o: /usr/vacpp/include/cwchar
+adlib.o: /usr/vacpp/include/cstring
+adlib.o: /usr/include/va_list.h
+adlib.o: /usr/include/stdio.h
+adlib.o: /usr/vacpp/include/stdio.h
+adlib.o: /usr/vacpp/include/iosfwd
+adlib.o: /usr/vacpp/include/utility
+adlib.o: /usr/vacpp/include/iterator
+adlib.o: /usr/vacpp/include/memory
+adlib.o: /usr/include/stddef.h
+adlib.o: /usr/vacpp/include/stddef.h
+adlib.o: /usr/vacpp/include/cstddef
+adlib.o: /usr/vacpp/include/xstddef
+adlib.o: /usr/vacpp/include/functional
+adlib.o: /usr/vacpp/include/list
+adlib.o: ../../include/setup.h
+adlib.o: ../../include/inout.h
+adlib.o: ../../include/mixer.h
+adlib.o: ../../config.h
+adlib.o: ../../include/logging.h
+adlib.o: ../../include/dosbox.h
+adlib.o: adlib.h
+adlib.o: /usr/include/math.h
+adlib.o: /usr/vacpp/include/math.h
+adlib.o: /usr/include/string.h
+adlib.o: /usr/vacpp/include/yvals.h
+adlib.o: /usr/vacpp/include/string.h
+adlib.o: /usr/include/sys/localedef31.h
+adlib.o: /usr/include/locale.h
+adlib.o: /usr/vacpp/include/cstdio
+adlib.o: /usr/vacpp/include/locale.h
+adlib.o: /usr/include/sys/lc_core.h
+adlib.o: /usr/include/float.h
+adlib.o: ../../include/pic.h
+adlib.o: /usr/include/limits.h
+adlib.o: /usr/include/sys/limits.h
+adlib.o: /usr/include/sys/localedef.h
+adlib.o: /usr/include/sys/m_signal.h
+adlib.o: /usr/include/sys/mstsave.h
+adlib.o: /usr/include/sys/m_param.h
+adlib.o: /usr/include/sys/context.h
+adlib.o: /usr/include/sys/signal.h
+adlib.o: /usr/vacpp/include/sys/signal.h
+adlib.o: /usr/vacpp/include/xiosbase
+adlib.o: /usr/include/sys/time.h
+adlib.o: /usr/vacpp/include/xutility
+adlib.o: /usr/vacpp/include/sys/time.h
+adlib.o: /usr/include/sys/resource.h
+adlib.o: /usr/include/sys/vm_types.h
+adlib.o: /usr/include/sys/m_types.h
+adlib.o: /usr/include/sys/inttypes.h
+adlib.o: /usr/include/sys/types.h
+adlib.o: /usr/include/sys/wait.h
+adlib.o: /usr/vacpp/include/sys/wait.h
+adlib.o: /usr/include/stdlib.h
+adlib.o: /usr/include/standards.h
+adlib.o: /usr/vacpp/include/stdlib.h
+adlib.o: /usr/vacpp/include/xstring
+adlib.o: /usr/include/errno.h
+adlib.o: adlib.cpp
+opl.h:
+opl.cpp:
+dbopl.h:
+../../include/mem.h:
+../../include/mapper.h:
+../../include/hardware.h:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/vector:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/xstring.t:
+/usr/vacpp/include/stdexcept:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/new:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/vacpp/include/cstring:
+/usr/include/va_list.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/xstddef:
+/usr/vacpp/include/functional:
+/usr/vacpp/include/list:
+../../include/setup.h:
+../../include/inout.h:
+../../include/mixer.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+adlib.h:
+/usr/include/math.h:
+/usr/vacpp/include/math.h:
+/usr/include/string.h:
+/usr/vacpp/include/yvals.h:
+/usr/vacpp/include/string.h:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/float.h:
+../../include/pic.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/usr/include/stdlib.h:
+/usr/include/standards.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/xstring:
+/usr/include/errno.h:
+adlib.cpp:

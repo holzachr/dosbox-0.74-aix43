@@ -1,0 +1,190 @@
+gameblaster.o: /usr/include/math.h
+gameblaster.o: /usr/vacpp/include/math.h
+gameblaster.o: /usr/include/strings.h
+gameblaster.o: /usr/vacpp/include/strings.h
+gameblaster.o: ../../include/support.h
+gameblaster.o: /usr/vacpp/include/string.t
+gameblaster.o: /usr/vacpp/include/ostream.t
+gameblaster.o: /usr/vacpp/include/xlocinfo.t
+gameblaster.o: /usr/vacpp/include/ansic_aix.h
+gameblaster.o: /usr/include/ctype.h
+gameblaster.o: /usr/vacpp/include/xlocinfo.h
+gameblaster.o: /usr/vacpp/include/xlocinfo
+gameblaster.o: /usr/vacpp/include/istream.t
+gameblaster.o: /usr/vacpp/include/typeinfo
+gameblaster.o: /usr/vacpp/include/xlocale
+gameblaster.o: /usr/vacpp/include/streambuf
+gameblaster.o: /usr/vacpp/include/climits
+gameblaster.o: /usr/vacpp/include/cerrno
+gameblaster.o: /usr/vacpp/include/xlocnum
+gameblaster.o: /usr/vacpp/include/ios
+gameblaster.o: /usr/vacpp/include/ostream
+gameblaster.o: /usr/vacpp/include/istream
+gameblaster.o: /usr/vacpp/include/string
+gameblaster.o: /usr/vacpp/include/vector.t
+gameblaster.o: /usr/vacpp/include/vector
+gameblaster.o: /usr/vacpp/include/list.t
+gameblaster.o: /usr/vacpp/include/xstring.t
+gameblaster.o: /usr/include/errno.h
+gameblaster.o: /usr/vacpp/include/xstring
+gameblaster.o: /usr/vacpp/include/stdexcept
+gameblaster.o: /usr/vacpp/include/memory.t
+gameblaster.o: /usr/vacpp/include/exception
+gameblaster.o: /usr/vacpp/include/new
+gameblaster.o: /usr/include/sys/localedef31.h
+gameblaster.o: /usr/include/locale.h
+gameblaster.o: /usr/include/sys/lc_core.h
+gameblaster.o: /usr/include/sys/localedef.h
+gameblaster.o: /usr/include/sys/m_signal.h
+gameblaster.o: /usr/include/sys/mstsave.h
+gameblaster.o: /usr/include/sys/m_param.h
+gameblaster.o: /usr/include/sys/context.h
+gameblaster.o: /usr/include/sys/signal.h
+gameblaster.o: /usr/vacpp/include/sys/signal.h
+gameblaster.o: /usr/vacpp/include/xiosbase
+gameblaster.o: /usr/include/sys/time.h
+gameblaster.o: /usr/include/sys/resource.h
+gameblaster.o: /usr/include/sys/wait.h
+gameblaster.o: /usr/vacpp/include/sys/wait.h
+gameblaster.o: /usr/include/stdlib.h
+gameblaster.o: /usr/vacpp/include/stdlib.h
+gameblaster.o: /usr/vacpp/include/cstdlib
+gameblaster.o: /usr/vacpp/include/xmemory
+gameblaster.o: /usr/vacpp/include/xutility.t
+gameblaster.o: /usr/include/time.h
+gameblaster.o: /usr/include/wchar.h
+gameblaster.o: /usr/vacpp/include/cwchar
+gameblaster.o: /usr/include/string.h
+gameblaster.o: /usr/vacpp/include/cstring
+gameblaster.o: /usr/vacpp/include/locale.h
+gameblaster.o: /usr/vacpp/include/cstdio
+gameblaster.o: /usr/vacpp/include/iosfwd
+gameblaster.o: /usr/vacpp/include/utility
+gameblaster.o: /usr/vacpp/include/sys/time.h
+gameblaster.o: /usr/vacpp/include/xutility
+gameblaster.o: /usr/vacpp/include/iterator
+gameblaster.o: /usr/vacpp/include/memory
+gameblaster.o: /usr/include/stddef.h
+gameblaster.o: /usr/vacpp/include/stddef.h
+gameblaster.o: /usr/vacpp/include/cstddef
+gameblaster.o: /usr/vacpp/include/xstddef
+gameblaster.o: /usr/vacpp/include/functional
+gameblaster.o: /usr/vacpp/include/list
+gameblaster.o: ../../include/setup.h
+gameblaster.o: /usr/include/float.h
+gameblaster.o: ../../include/pic.h
+gameblaster.o: /usr/include/limits.h
+gameblaster.o: /usr/include/sys/limits.h
+gameblaster.o: /usr/include/sys/vm_types.h
+gameblaster.o: /usr/include/sys/m_types.h
+gameblaster.o: /usr/include/sys/inttypes.h
+gameblaster.o: /usr/include/sys/types.h
+gameblaster.o: /usr/include/va_list.h
+gameblaster.o: /usr/include/standards.h
+gameblaster.o: /usr/include/stdio.h
+gameblaster.o: /usr/vacpp/include/stdio.h
+gameblaster.o: ../../include/hardware.h
+gameblaster.o: ../../include/mem.h
+gameblaster.o: ../../include/mixer.h
+gameblaster.o: ../../include/inout.h
+gameblaster.o: ../../config.h
+gameblaster.o: ../../include/logging.h
+gameblaster.o: ../../include/dosbox.h
+gameblaster.o: /usr/vacpp/include/string.h
+gameblaster.o: /usr/vacpp/include/yvals.h
+gameblaster.o: gameblaster.cpp
+/usr/include/math.h:
+/usr/vacpp/include/math.h:
+/usr/include/strings.h:
+/usr/vacpp/include/strings.h:
+../../include/support.h:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/vector:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/xstring.t:
+/usr/include/errno.h:
+/usr/vacpp/include/xstring:
+/usr/vacpp/include/stdexcept:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/new:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/include/string.h:
+/usr/vacpp/include/cstring:
+/usr/vacpp/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/xstddef:
+/usr/vacpp/include/functional:
+/usr/vacpp/include/list:
+../../include/setup.h:
+/usr/include/float.h:
+../../include/pic.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/va_list.h:
+/usr/include/standards.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+../../include/hardware.h:
+../../include/mem.h:
+../../include/mixer.h:
+../../include/inout.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/vacpp/include/string.h:
+/usr/vacpp/include/yvals.h:
+gameblaster.cpp:

@@ -1,0 +1,186 @@
+mpu401.o: /usr/include/strings.h
+mpu401.o: /usr/vacpp/include/strings.h
+mpu401.o: ../../include/support.h
+mpu401.o: ../../include/mem.h
+mpu401.o: /usr/vacpp/include/string.t
+mpu401.o: /usr/vacpp/include/ostream.t
+mpu401.o: /usr/vacpp/include/xlocinfo.t
+mpu401.o: /usr/vacpp/include/ansic_aix.h
+mpu401.o: /usr/include/ctype.h
+mpu401.o: /usr/vacpp/include/xlocinfo.h
+mpu401.o: /usr/vacpp/include/xlocinfo
+mpu401.o: /usr/vacpp/include/istream.t
+mpu401.o: /usr/vacpp/include/typeinfo
+mpu401.o: /usr/vacpp/include/xlocale
+mpu401.o: /usr/vacpp/include/streambuf
+mpu401.o: /usr/vacpp/include/climits
+mpu401.o: /usr/vacpp/include/cerrno
+mpu401.o: /usr/vacpp/include/xlocnum
+mpu401.o: /usr/vacpp/include/ios
+mpu401.o: /usr/vacpp/include/ostream
+mpu401.o: /usr/vacpp/include/istream
+mpu401.o: /usr/vacpp/include/string
+mpu401.o: /usr/vacpp/include/vector.t
+mpu401.o: /usr/vacpp/include/vector
+mpu401.o: /usr/vacpp/include/list.t
+mpu401.o: /usr/vacpp/include/xstring.t
+mpu401.o: /usr/include/errno.h
+mpu401.o: /usr/vacpp/include/xstring
+mpu401.o: /usr/vacpp/include/stdexcept
+mpu401.o: ../../include/regs.h
+mpu401.o: /usr/vacpp/include/memory.t
+mpu401.o: ../../include/cpu.h
+mpu401.o: /usr/vacpp/include/exception
+mpu401.o: /usr/vacpp/include/new
+mpu401.o: /usr/include/sys/localedef31.h
+mpu401.o: /usr/include/locale.h
+mpu401.o: /usr/include/sys/lc_core.h
+mpu401.o: /usr/include/sys/localedef.h
+mpu401.o: /usr/include/sys/m_signal.h
+mpu401.o: /usr/include/sys/mstsave.h
+mpu401.o: /usr/include/sys/m_param.h
+mpu401.o: /usr/include/sys/context.h
+mpu401.o: /usr/include/sys/signal.h
+mpu401.o: /usr/vacpp/include/sys/signal.h
+mpu401.o: /usr/vacpp/include/xiosbase
+mpu401.o: /usr/include/sys/time.h
+mpu401.o: /usr/include/sys/resource.h
+mpu401.o: /usr/include/sys/wait.h
+mpu401.o: /usr/vacpp/include/sys/wait.h
+mpu401.o: /usr/include/stdlib.h
+mpu401.o: /usr/vacpp/include/stdlib.h
+mpu401.o: /usr/vacpp/include/cstdlib
+mpu401.o: /usr/vacpp/include/xmemory
+mpu401.o: /usr/vacpp/include/xutility.t
+mpu401.o: /usr/include/time.h
+mpu401.o: /usr/include/wchar.h
+mpu401.o: /usr/vacpp/include/cwchar
+mpu401.o: /usr/vacpp/include/cstring
+mpu401.o: /usr/include/float.h
+mpu401.o: /usr/include/va_list.h
+mpu401.o: /usr/include/stdio.h
+mpu401.o: /usr/vacpp/include/stdio.h
+mpu401.o: /usr/vacpp/include/locale.h
+mpu401.o: /usr/vacpp/include/cstdio
+mpu401.o: /usr/vacpp/include/iosfwd
+mpu401.o: /usr/vacpp/include/utility
+mpu401.o: /usr/vacpp/include/sys/time.h
+mpu401.o: /usr/vacpp/include/xutility
+mpu401.o: /usr/vacpp/include/iterator
+mpu401.o: /usr/vacpp/include/memory
+mpu401.o: /usr/include/stddef.h
+mpu401.o: /usr/vacpp/include/stddef.h
+mpu401.o: /usr/vacpp/include/cstddef
+mpu401.o: /usr/vacpp/include/xstddef
+mpu401.o: /usr/vacpp/include/functional
+mpu401.o: /usr/vacpp/include/list
+mpu401.o: ../../include/setup.h
+mpu401.o: /usr/include/limits.h
+mpu401.o: /usr/include/sys/limits.h
+mpu401.o: ../../include/pic.h
+mpu401.o: ../../include/inout.h
+mpu401.o: ../../config.h
+mpu401.o: ../../include/logging.h
+mpu401.o: ../../include/dosbox.h
+mpu401.o: /usr/include/string.h
+mpu401.o: /usr/include/sys/vm_types.h
+mpu401.o: /usr/include/sys/m_types.h
+mpu401.o: /usr/include/sys/inttypes.h
+mpu401.o: /usr/include/sys/types.h
+mpu401.o: /usr/include/standards.h
+mpu401.o: /usr/vacpp/include/yvals.h
+mpu401.o: /usr/vacpp/include/string.h
+mpu401.o: mpu401.cpp
+/usr/include/strings.h:
+/usr/vacpp/include/strings.h:
+../../include/support.h:
+../../include/mem.h:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/vector:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/xstring.t:
+/usr/include/errno.h:
+/usr/vacpp/include/xstring:
+/usr/vacpp/include/stdexcept:
+../../include/regs.h:
+/usr/vacpp/include/memory.t:
+../../include/cpu.h:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/new:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/vacpp/include/cstring:
+/usr/include/float.h:
+/usr/include/va_list.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/vacpp/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/xstddef:
+/usr/vacpp/include/functional:
+/usr/vacpp/include/list:
+../../include/setup.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+../../include/pic.h:
+../../include/inout.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/include/string.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/standards.h:
+/usr/vacpp/include/yvals.h:
+/usr/vacpp/include/string.h:
+mpu401.cpp:

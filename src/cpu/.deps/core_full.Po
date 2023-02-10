@@ -1,0 +1,46 @@
+core_full.o: core_full/save.h
+core_full.o: core_full/op.h
+core_full.o: core_full/string.h
+core_full.o: core_full/ea_lookup.h
+core_full.o: core_full/load.h
+core_full.o: instructions.h
+core_full.o: core_full/optable.h
+core_full.o: core_full/support.h
+core_full.o: core_full/loadwrite.h
+core_full.o: ../../include/callback.h
+core_full.o: ../../include/inout.h
+core_full.o: ../../include/debug.h
+core_full.o: ../../include/fpu.h
+core_full.o: ../../include/paging.h
+core_full.o: lazyflags.h
+core_full.o: ../../include/cpu.h
+core_full.o: ../../include/mem.h
+core_full.o: ../../include/regs.h
+core_full.o: ../../include/pic.h
+core_full.o: ../../config.h
+core_full.o: ../../include/logging.h
+core_full.o: ../../include/dosbox.h
+core_full.o: core_full.cpp
+core_full/save.h:
+core_full/op.h:
+core_full/string.h:
+core_full/ea_lookup.h:
+core_full/load.h:
+instructions.h:
+core_full/optable.h:
+core_full/support.h:
+core_full/loadwrite.h:
+../../include/callback.h:
+../../include/inout.h:
+../../include/debug.h:
+../../include/fpu.h:
+../../include/paging.h:
+lazyflags.h:
+../../include/cpu.h:
+../../include/mem.h:
+../../include/regs.h:
+../../include/pic.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+core_full.cpp:

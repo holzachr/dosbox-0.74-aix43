@@ -1,0 +1,12 @@
+vga_attr.o: ../../include/vga.h
+vga_attr.o: ../../include/inout.h
+vga_attr.o: ../../config.h
+vga_attr.o: ../../include/logging.h
+vga_attr.o: ../../include/dosbox.h
+vga_attr.o: vga_attr.cpp
+../../include/vga.h:
+../../include/inout.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+vga_attr.cpp:

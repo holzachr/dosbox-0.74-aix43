@@ -1,0 +1,66 @@
+core_prefetch.o: core_normal/prefix_66_0f.h
+core_prefetch.o: core_normal/prefix_66.h
+core_prefetch.o: core_normal/prefix_0f.h
+core_prefetch.o: core_normal/prefix_none.h
+core_prefetch.o: core_normal/string.h
+core_prefetch.o: core_normal/../modrm.h
+core_prefetch.o: core_normal/table_ea.h
+core_prefetch.o: core_normal/helpers.h
+core_prefetch.o: core_normal/support.h
+core_prefetch.o: instructions.h
+core_prefetch.o: ../../include/paging.h
+core_prefetch.o: ../../include/fpu.h
+core_prefetch.o: ../../include/callback.h
+core_prefetch.o: ../../include/inout.h
+core_prefetch.o: lazyflags.h
+core_prefetch.o: ../../include/regs.h
+core_prefetch.o: ../../include/cpu.h
+core_prefetch.o: ../../include/mem.h
+core_prefetch.o: ../../config.h
+core_prefetch.o: ../../include/logging.h
+core_prefetch.o: ../../include/dosbox.h
+core_prefetch.o: /usr/include/float.h
+core_prefetch.o: ../../include/pic.h
+core_prefetch.o: /usr/include/sys/limits.h
+core_prefetch.o: /usr/include/sys/vm_types.h
+core_prefetch.o: /usr/include/sys/m_types.h
+core_prefetch.o: /usr/include/sys/inttypes.h
+core_prefetch.o: /usr/include/sys/types.h
+core_prefetch.o: /usr/include/va_list.h
+core_prefetch.o: /usr/include/standards.h
+core_prefetch.o: /usr/include/stdio.h
+core_prefetch.o: /usr/vacpp/include/stdio.h
+core_prefetch.o: core_prefetch.cpp
+core_normal/prefix_66_0f.h:
+core_normal/prefix_66.h:
+core_normal/prefix_0f.h:
+core_normal/prefix_none.h:
+core_normal/string.h:
+core_normal/../modrm.h:
+core_normal/table_ea.h:
+core_normal/helpers.h:
+core_normal/support.h:
+instructions.h:
+../../include/paging.h:
+../../include/fpu.h:
+../../include/callback.h:
+../../include/inout.h:
+lazyflags.h:
+../../include/regs.h:
+../../include/cpu.h:
+../../include/mem.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/include/float.h:
+../../include/pic.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/va_list.h:
+/usr/include/standards.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+core_prefetch.cpp:

@@ -1,0 +1,148 @@
+keyboard.o: /opt/doom/include/SDL/SDL_version.h
+keyboard.o: /opt/doom/include/SDL/SDL_timer.h
+keyboard.o: /opt/doom/include/SDL/SDL_loadso.h
+keyboard.o: /opt/doom/include/SDL/SDL_joystick.h
+keyboard.o: /opt/doom/include/SDL/SDL_video.h
+keyboard.o: /opt/doom/include/SDL/SDL_keysym.h
+keyboard.o: /opt/doom/include/SDL/SDL_keyboard.h
+keyboard.o: /opt/doom/include/SDL/SDL_active.h
+keyboard.o: /opt/doom/include/SDL/SDL_events.h
+keyboard.o: /opt/doom/include/SDL/SDL_cdrom.h
+keyboard.o: /opt/doom/include/SDL/SDL_rwops.h
+keyboard.o: /opt/doom/include/SDL/SDL_thread.h
+keyboard.o: /opt/doom/include/SDL/SDL_mutex.h
+keyboard.o: /opt/doom/include/SDL/SDL_endian.h
+keyboard.o: /opt/doom/include/SDL/SDL_error.h
+keyboard.o: /opt/doom/include/SDL/SDL_audio.h
+keyboard.o: /usr/include/ctype.h
+keyboard.o: /usr/include/inttypes.h
+keyboard.o: /usr/include/strings.h
+keyboard.o: /usr/vacpp/include/strings.h
+keyboard.o: /usr/include/string.h
+keyboard.o: /usr/vacpp/include/string.h
+keyboard.o: /usr/include/stdarg.h
+keyboard.o: /usr/vacpp/include/stdarg.h
+keyboard.o: /usr/include/stddef.h
+keyboard.o: /usr/vacpp/include/stddef.h
+keyboard.o: /usr/include/sys/localedef31.h
+keyboard.o: /usr/include/locale.h
+keyboard.o: /usr/vacpp/include/locale.h
+keyboard.o: /usr/include/sys/lc_core.h
+keyboard.o: /usr/include/sys/localedef.h
+keyboard.o: /usr/include/sys/m_signal.h
+keyboard.o: /usr/include/sys/mstsave.h
+keyboard.o: /usr/include/sys/m_param.h
+keyboard.o: /usr/include/sys/context.h
+keyboard.o: /usr/include/sys/signal.h
+keyboard.o: /usr/vacpp/include/sys/signal.h
+keyboard.o: /usr/include/sys/time.h
+keyboard.o: /usr/vacpp/include/sys/time.h
+keyboard.o: /usr/include/sys/resource.h
+keyboard.o: /opt/doom/include/SDL/SDL_cpuinfo.h
+keyboard.o: /usr/include/sys/wait.h
+keyboard.o: /usr/vacpp/include/sys/wait.h
+keyboard.o: /opt/doom/include/SDL/begin_code.h
+keyboard.o: /usr/include/stdlib.h
+keyboard.o: /usr/vacpp/include/stdlib.h
+keyboard.o: /usr/include/float.h
+keyboard.o: /usr/include/va_list.h
+keyboard.o: /usr/include/stdio.h
+keyboard.o: /usr/vacpp/include/stdio.h
+keyboard.o: /usr/include/sys/vm_types.h
+keyboard.o: /usr/include/sys/m_types.h
+keyboard.o: /usr/include/sys/inttypes.h
+keyboard.o: /usr/include/standards.h
+keyboard.o: /usr/include/sys/types.h
+keyboard.o: /opt/doom/include/SDL/SDL_platform.h
+keyboard.o: /opt/doom/include/SDL/SDL_config.h
+keyboard.o: /opt/doom/include/SDL/SDL_mouse.h
+keyboard.o: /opt/doom/include/SDL/SDL_stdinc.h
+keyboard.o: /opt/doom/include/SDL/SDL_main.h
+keyboard.o: /opt/doom/include/SDL/SDL_quit.h
+keyboard.o: /opt/doom/include/SDL/SDL.h
+keyboard.o: ../../include/timer.h
+keyboard.o: ../../include/mixer.h
+keyboard.o: ../../include/mem.h
+keyboard.o: /usr/include/sys/limits.h
+keyboard.o: ../../include/pic.h
+keyboard.o: /opt/doom/include/SDL/close_code.h
+keyboard.o: ../../include/inout.h
+keyboard.o: ../../include/keyboard.h
+keyboard.o: ../../config.h
+keyboard.o: ../../include/logging.h
+keyboard.o: ../../include/dosbox.h
+keyboard.o: keyboard.cpp
+/opt/doom/include/SDL/SDL_version.h:
+/opt/doom/include/SDL/SDL_timer.h:
+/opt/doom/include/SDL/SDL_loadso.h:
+/opt/doom/include/SDL/SDL_joystick.h:
+/opt/doom/include/SDL/SDL_video.h:
+/opt/doom/include/SDL/SDL_keysym.h:
+/opt/doom/include/SDL/SDL_keyboard.h:
+/opt/doom/include/SDL/SDL_active.h:
+/opt/doom/include/SDL/SDL_events.h:
+/opt/doom/include/SDL/SDL_cdrom.h:
+/opt/doom/include/SDL/SDL_rwops.h:
+/opt/doom/include/SDL/SDL_thread.h:
+/opt/doom/include/SDL/SDL_mutex.h:
+/opt/doom/include/SDL/SDL_endian.h:
+/opt/doom/include/SDL/SDL_error.h:
+/opt/doom/include/SDL/SDL_audio.h:
+/usr/include/ctype.h:
+/usr/include/inttypes.h:
+/usr/include/strings.h:
+/usr/vacpp/include/strings.h:
+/usr/include/string.h:
+/usr/vacpp/include/string.h:
+/usr/include/stdarg.h:
+/usr/vacpp/include/stdarg.h:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/vacpp/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/include/sys/time.h:
+/usr/vacpp/include/sys/time.h:
+/usr/include/sys/resource.h:
+/opt/doom/include/SDL/SDL_cpuinfo.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/opt/doom/include/SDL/begin_code.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/include/float.h:
+/usr/include/va_list.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/standards.h:
+/usr/include/sys/types.h:
+/opt/doom/include/SDL/SDL_platform.h:
+/opt/doom/include/SDL/SDL_config.h:
+/opt/doom/include/SDL/SDL_mouse.h:
+/opt/doom/include/SDL/SDL_stdinc.h:
+/opt/doom/include/SDL/SDL_main.h:
+/opt/doom/include/SDL/SDL_quit.h:
+/opt/doom/include/SDL/SDL.h:
+../../include/timer.h:
+../../include/mixer.h:
+../../include/mem.h:
+/usr/include/sys/limits.h:
+../../include/pic.h:
+/opt/doom/include/SDL/close_code.h:
+../../include/inout.h:
+../../include/keyboard.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+keyboard.cpp:

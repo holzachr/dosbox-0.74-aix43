@@ -1,0 +1,182 @@
+iohandler.o: ../../include/callback.h
+iohandler.o: ../../include/mem.h
+iohandler.o: /usr/vacpp/include/string.t
+iohandler.o: /usr/vacpp/include/ostream.t
+iohandler.o: /usr/vacpp/include/xlocinfo.t
+iohandler.o: /usr/vacpp/include/ansic_aix.h
+iohandler.o: /usr/include/ctype.h
+iohandler.o: /usr/vacpp/include/xlocinfo.h
+iohandler.o: /usr/vacpp/include/xlocinfo
+iohandler.o: /usr/vacpp/include/istream.t
+iohandler.o: /usr/vacpp/include/typeinfo
+iohandler.o: /usr/vacpp/include/xlocale
+iohandler.o: /usr/vacpp/include/streambuf
+iohandler.o: /usr/vacpp/include/climits
+iohandler.o: /usr/vacpp/include/cerrno
+iohandler.o: /usr/vacpp/include/xlocnum
+iohandler.o: /usr/vacpp/include/ios
+iohandler.o: /usr/vacpp/include/ostream
+iohandler.o: /usr/vacpp/include/istream
+iohandler.o: /usr/vacpp/include/string
+iohandler.o: /usr/vacpp/include/vector.t
+iohandler.o: /usr/vacpp/include/vector
+iohandler.o: /usr/vacpp/include/list.t
+iohandler.o: /usr/vacpp/include/xstring.t
+iohandler.o: /usr/include/errno.h
+iohandler.o: /usr/vacpp/include/xstring
+iohandler.o: /usr/vacpp/include/stdexcept
+iohandler.o: ../../include/regs.h
+iohandler.o: /usr/vacpp/include/memory.t
+iohandler.o: ../../include/cpu.h
+iohandler.o: /usr/vacpp/include/exception
+iohandler.o: /usr/vacpp/include/new
+iohandler.o: /usr/include/sys/localedef31.h
+iohandler.o: /usr/include/locale.h
+iohandler.o: /usr/include/sys/lc_core.h
+iohandler.o: /usr/include/sys/localedef.h
+iohandler.o: /usr/include/sys/m_signal.h
+iohandler.o: /usr/include/sys/mstsave.h
+iohandler.o: /usr/include/sys/m_param.h
+iohandler.o: /usr/include/sys/context.h
+iohandler.o: /usr/include/sys/signal.h
+iohandler.o: /usr/vacpp/include/sys/signal.h
+iohandler.o: /usr/vacpp/include/xiosbase
+iohandler.o: /usr/include/sys/time.h
+iohandler.o: /usr/include/sys/resource.h
+iohandler.o: /usr/include/sys/wait.h
+iohandler.o: /usr/vacpp/include/sys/wait.h
+iohandler.o: /usr/include/stdlib.h
+iohandler.o: /usr/vacpp/include/stdlib.h
+iohandler.o: /usr/vacpp/include/cstdlib
+iohandler.o: /usr/vacpp/include/xmemory
+iohandler.o: /usr/vacpp/include/xutility.t
+iohandler.o: /usr/include/time.h
+iohandler.o: ../../include/../src/cpu/lazyflags.h
+iohandler.o: /usr/include/wchar.h
+iohandler.o: /usr/vacpp/include/cwchar
+iohandler.o: /usr/vacpp/include/cstring
+iohandler.o: /usr/include/float.h
+iohandler.o: /usr/include/limits.h
+iohandler.o: /usr/include/sys/limits.h
+iohandler.o: /usr/include/va_list.h
+iohandler.o: /usr/include/stdio.h
+iohandler.o: /usr/vacpp/include/stdio.h
+iohandler.o: /usr/vacpp/include/locale.h
+iohandler.o: /usr/vacpp/include/cstdio
+iohandler.o: /usr/vacpp/include/iosfwd
+iohandler.o: /usr/vacpp/include/utility
+iohandler.o: /usr/vacpp/include/sys/time.h
+iohandler.o: /usr/vacpp/include/xutility
+iohandler.o: /usr/vacpp/include/iterator
+iohandler.o: /usr/vacpp/include/memory
+iohandler.o: /usr/include/stddef.h
+iohandler.o: /usr/vacpp/include/stddef.h
+iohandler.o: /usr/vacpp/include/cstddef
+iohandler.o: /usr/vacpp/include/xstddef
+iohandler.o: /usr/vacpp/include/functional
+iohandler.o: /usr/vacpp/include/list
+iohandler.o: ../../include/setup.h
+iohandler.o: ../../include/inout.h
+iohandler.o: ../../config.h
+iohandler.o: ../../include/logging.h
+iohandler.o: ../../include/dosbox.h
+iohandler.o: /usr/include/string.h
+iohandler.o: /usr/include/sys/vm_types.h
+iohandler.o: /usr/include/sys/m_types.h
+iohandler.o: /usr/include/sys/inttypes.h
+iohandler.o: /usr/include/sys/types.h
+iohandler.o: /usr/include/standards.h
+iohandler.o: /usr/vacpp/include/yvals.h
+iohandler.o: /usr/vacpp/include/string.h
+iohandler.o: iohandler.cpp
+../../include/callback.h:
+../../include/mem.h:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/vector:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/xstring.t:
+/usr/include/errno.h:
+/usr/vacpp/include/xstring:
+/usr/vacpp/include/stdexcept:
+../../include/regs.h:
+/usr/vacpp/include/memory.t:
+../../include/cpu.h:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/new:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/include/time.h:
+../../include/../src/cpu/lazyflags.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/vacpp/include/cstring:
+/usr/include/float.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+/usr/include/va_list.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/vacpp/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/xstddef:
+/usr/vacpp/include/functional:
+/usr/vacpp/include/list:
+../../include/setup.h:
+../../include/inout.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/include/string.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/standards.h:
+/usr/vacpp/include/yvals.h:
+/usr/vacpp/include/string.h:
+iohandler.cpp:

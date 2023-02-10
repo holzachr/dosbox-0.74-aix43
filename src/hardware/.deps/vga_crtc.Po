@@ -1,0 +1,74 @@
+vga_crtc.o: ../../include/video.h
+vga_crtc.o: ../../include/mem.h
+vga_crtc.o: ../../include/regs.h
+vga_crtc.o: ../../include/cpu.h
+vga_crtc.o: ../../include/debug.h
+vga_crtc.o: ../../include/vga.h
+vga_crtc.o: ../../include/inout.h
+vga_crtc.o: ../../config.h
+vga_crtc.o: ../../include/logging.h
+vga_crtc.o: ../../include/dosbox.h
+vga_crtc.o: /usr/include/sys/localedef31.h
+vga_crtc.o: /usr/include/locale.h
+vga_crtc.o: /usr/vacpp/include/locale.h
+vga_crtc.o: /usr/include/sys/lc_core.h
+vga_crtc.o: /usr/include/float.h
+vga_crtc.o: ../../include/pic.h
+vga_crtc.o: /usr/include/sys/limits.h
+vga_crtc.o: /usr/include/sys/localedef.h
+vga_crtc.o: /usr/include/sys/m_signal.h
+vga_crtc.o: /usr/include/sys/mstsave.h
+vga_crtc.o: /usr/include/sys/m_param.h
+vga_crtc.o: /usr/include/sys/context.h
+vga_crtc.o: /usr/include/sys/signal.h
+vga_crtc.o: /usr/vacpp/include/sys/signal.h
+vga_crtc.o: /usr/include/sys/time.h
+vga_crtc.o: /usr/vacpp/include/sys/time.h
+vga_crtc.o: /usr/include/sys/resource.h
+vga_crtc.o: /usr/include/sys/vm_types.h
+vga_crtc.o: /usr/include/sys/m_types.h
+vga_crtc.o: /usr/include/sys/inttypes.h
+vga_crtc.o: /usr/include/sys/types.h
+vga_crtc.o: /usr/include/sys/wait.h
+vga_crtc.o: /usr/vacpp/include/sys/wait.h
+vga_crtc.o: /usr/include/stdlib.h
+vga_crtc.o: /usr/include/standards.h
+vga_crtc.o: /usr/vacpp/include/stdlib.h
+vga_crtc.o: vga_crtc.cpp
+../../include/video.h:
+../../include/mem.h:
+../../include/regs.h:
+../../include/cpu.h:
+../../include/debug.h:
+../../include/vga.h:
+../../include/inout.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/vacpp/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/float.h:
+../../include/pic.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/include/sys/time.h:
+/usr/vacpp/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/usr/include/stdlib.h:
+/usr/include/standards.h:
+/usr/vacpp/include/stdlib.h:
+vga_crtc.cpp:

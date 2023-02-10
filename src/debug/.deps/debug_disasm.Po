@@ -1,0 +1,8 @@
+debug_disasm.o: ../../config.h
+debug_disasm.o: ../../include/logging.h
+debug_disasm.o: ../../include/dosbox.h
+debug_disasm.o: debug_disasm.cpp
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+debug_disasm.cpp:

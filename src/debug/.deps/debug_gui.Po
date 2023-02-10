@@ -1,0 +1,8 @@
+debug_gui.o: ../../config.h
+debug_gui.o: ../../include/logging.h
+debug_gui.o: ../../include/dosbox.h
+debug_gui.o: debug_gui.cpp
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+debug_gui.cpp:

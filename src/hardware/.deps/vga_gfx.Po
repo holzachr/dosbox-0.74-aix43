@@ -1,0 +1,12 @@
+vga_gfx.o: ../../include/vga.h
+vga_gfx.o: ../../include/inout.h
+vga_gfx.o: ../../config.h
+vga_gfx.o: ../../include/logging.h
+vga_gfx.o: ../../include/dosbox.h
+vga_gfx.o: vga_gfx.cpp
+../../include/vga.h:
+../../include/inout.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+vga_gfx.cpp:

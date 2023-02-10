@@ -1,0 +1,32 @@
+int10_modes.o: ../../include/mouse.h
+int10_modes.o: ../../include/vga.h
+int10_modes.o: int10.h
+int10_modes.o: ../../include/inout.h
+int10_modes.o: ../../include/mem.h
+int10_modes.o: ../../config.h
+int10_modes.o: ../../include/logging.h
+int10_modes.o: ../../include/dosbox.h
+int10_modes.o: /usr/include/string.h
+int10_modes.o: /usr/include/sys/vm_types.h
+int10_modes.o: /usr/include/sys/m_types.h
+int10_modes.o: /usr/include/sys/inttypes.h
+int10_modes.o: /usr/include/sys/types.h
+int10_modes.o: /usr/include/standards.h
+int10_modes.o: /usr/vacpp/include/string.h
+int10_modes.o: int10_modes.cpp
+../../include/mouse.h:
+../../include/vga.h:
+int10.h:
+../../include/inout.h:
+../../include/mem.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/include/string.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/standards.h:
+/usr/vacpp/include/string.h:
+int10_modes.cpp:

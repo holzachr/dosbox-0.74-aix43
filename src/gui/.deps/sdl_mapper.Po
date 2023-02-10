@@ -1,0 +1,244 @@
+sdl_mapper.o: ../../include/setup.h
+sdl_mapper.o: ../../include/mapper.h
+sdl_mapper.o: /usr/vacpp/include/string.t
+sdl_mapper.o: /usr/vacpp/include/ostream.t
+sdl_mapper.o: /usr/vacpp/include/xlocinfo.t
+sdl_mapper.o: /usr/vacpp/include/ansic_aix.h
+sdl_mapper.o: /usr/vacpp/include/xlocinfo.h
+sdl_mapper.o: /usr/vacpp/include/xlocinfo
+sdl_mapper.o: /usr/vacpp/include/istream.t
+sdl_mapper.o: /usr/vacpp/include/typeinfo
+sdl_mapper.o: /usr/vacpp/include/xlocale
+sdl_mapper.o: /usr/vacpp/include/streambuf
+sdl_mapper.o: /usr/vacpp/include/climits
+sdl_mapper.o: /usr/vacpp/include/xlocnum
+sdl_mapper.o: /usr/vacpp/include/ios
+sdl_mapper.o: /usr/vacpp/include/ostream
+sdl_mapper.o: /usr/vacpp/include/istream
+sdl_mapper.o: /usr/vacpp/include/string
+sdl_mapper.o: ../../include/joystick.h
+sdl_mapper.o: ../../include/keyboard.h
+sdl_mapper.o: ../../include/video.h
+sdl_mapper.o: ../../config.h
+sdl_mapper.o: ../../include/logging.h
+sdl_mapper.o: ../../include/dosbox.h
+sdl_mapper.o: /usr/vacpp/include/cerrno
+sdl_mapper.o: /opt/doom/include/SDL/SDL_version.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_timer.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_loadso.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_joystick.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_video.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_keysym.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_keyboard.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_active.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_events.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_cdrom.h
+sdl_mapper.o: ../../include/support.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_rwops.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_thread.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_mutex.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_endian.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_error.h
+sdl_mapper.o: /opt/doom/include/SDL/close_code.h
+sdl_mapper.o: /usr/include/inttypes.h
+sdl_mapper.o: /usr/include/strings.h
+sdl_mapper.o: /usr/vacpp/include/strings.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_platform.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_config.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_mouse.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_stdinc.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_main.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_quit.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL.h
+sdl_mapper.o: /usr/vacpp/include/assert.h
+sdl_mapper.o: /usr/include/stdarg.h
+sdl_mapper.o: /usr/vacpp/include/stdarg.h
+sdl_mapper.o: /usr/include/ctype.h
+sdl_mapper.o: /usr/vacpp/include/list.t
+sdl_mapper.o: /usr/vacpp/include/functional
+sdl_mapper.o: /opt/doom/include/SDL/SDL_audio.h
+sdl_mapper.o: /usr/vacpp/include/list
+sdl_mapper.o: /usr/vacpp/include/vector.t
+sdl_mapper.o: /usr/vacpp/include/xstring.t
+sdl_mapper.o: /usr/include/errno.h
+sdl_mapper.o: /usr/vacpp/include/xstring
+sdl_mapper.o: /usr/vacpp/include/stdexcept
+sdl_mapper.o: /usr/vacpp/include/memory.t
+sdl_mapper.o: /usr/vacpp/include/exception
+sdl_mapper.o: /usr/vacpp/include/new
+sdl_mapper.o: /usr/include/sys/localedef31.h
+sdl_mapper.o: /usr/include/locale.h
+sdl_mapper.o: /usr/include/sys/lc_core.h
+sdl_mapper.o: /usr/include/sys/localedef.h
+sdl_mapper.o: /usr/include/sys/m_signal.h
+sdl_mapper.o: /usr/include/sys/mstsave.h
+sdl_mapper.o: /usr/include/sys/m_param.h
+sdl_mapper.o: /usr/include/sys/context.h
+sdl_mapper.o: /usr/include/sys/signal.h
+sdl_mapper.o: /usr/vacpp/include/sys/signal.h
+sdl_mapper.o: /usr/vacpp/include/xiosbase
+sdl_mapper.o: /usr/include/sys/time.h
+sdl_mapper.o: /usr/include/sys/resource.h
+sdl_mapper.o: /opt/doom/include/SDL/SDL_cpuinfo.h
+sdl_mapper.o: /usr/include/sys/wait.h
+sdl_mapper.o: /usr/vacpp/include/sys/wait.h
+sdl_mapper.o: /opt/doom/include/SDL/begin_code.h
+sdl_mapper.o: /usr/include/stdlib.h
+sdl_mapper.o: /usr/vacpp/include/stdlib.h
+sdl_mapper.o: /usr/vacpp/include/cstdlib
+sdl_mapper.o: /usr/vacpp/include/xmemory
+sdl_mapper.o: /usr/vacpp/include/xutility.t
+sdl_mapper.o: /usr/vacpp/include/cstddef
+sdl_mapper.o: /usr/vacpp/include/xstddef
+sdl_mapper.o: /usr/include/stddef.h
+sdl_mapper.o: /usr/vacpp/include/stddef.h
+sdl_mapper.o: /usr/include/time.h
+sdl_mapper.o: /usr/include/wchar.h
+sdl_mapper.o: /usr/vacpp/include/cwchar
+sdl_mapper.o: /usr/include/string.h
+sdl_mapper.o: /usr/vacpp/include/cstring
+sdl_mapper.o: /usr/vacpp/include/string.h
+sdl_mapper.o: /usr/vacpp/include/yvals.h
+sdl_mapper.o: /usr/include/float.h
+sdl_mapper.o: /usr/include/limits.h
+sdl_mapper.o: /usr/include/sys/limits.h
+sdl_mapper.o: /usr/include/sys/vm_types.h
+sdl_mapper.o: /usr/include/sys/m_types.h
+sdl_mapper.o: /usr/include/sys/inttypes.h
+sdl_mapper.o: /usr/include/sys/types.h
+sdl_mapper.o: /usr/include/va_list.h
+sdl_mapper.o: /usr/include/standards.h
+sdl_mapper.o: /usr/include/stdio.h
+sdl_mapper.o: /usr/vacpp/include/stdio.h
+sdl_mapper.o: /usr/vacpp/include/locale.h
+sdl_mapper.o: /usr/vacpp/include/cstdio
+sdl_mapper.o: /usr/vacpp/include/iosfwd
+sdl_mapper.o: /usr/vacpp/include/utility
+sdl_mapper.o: /usr/vacpp/include/sys/time.h
+sdl_mapper.o: /usr/vacpp/include/xutility
+sdl_mapper.o: /usr/vacpp/include/iterator
+sdl_mapper.o: /usr/vacpp/include/memory
+sdl_mapper.o: /usr/vacpp/include/vector
+sdl_mapper.o: sdl_mapper.cpp
+../../include/setup.h:
+../../include/mapper.h:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+../../include/joystick.h:
+../../include/keyboard.h:
+../../include/video.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/vacpp/include/cerrno:
+/opt/doom/include/SDL/SDL_version.h:
+/opt/doom/include/SDL/SDL_timer.h:
+/opt/doom/include/SDL/SDL_loadso.h:
+/opt/doom/include/SDL/SDL_joystick.h:
+/opt/doom/include/SDL/SDL_video.h:
+/opt/doom/include/SDL/SDL_keysym.h:
+/opt/doom/include/SDL/SDL_keyboard.h:
+/opt/doom/include/SDL/SDL_active.h:
+/opt/doom/include/SDL/SDL_events.h:
+/opt/doom/include/SDL/SDL_cdrom.h:
+../../include/support.h:
+/opt/doom/include/SDL/SDL_rwops.h:
+/opt/doom/include/SDL/SDL_thread.h:
+/opt/doom/include/SDL/SDL_mutex.h:
+/opt/doom/include/SDL/SDL_endian.h:
+/opt/doom/include/SDL/SDL_error.h:
+/opt/doom/include/SDL/close_code.h:
+/usr/include/inttypes.h:
+/usr/include/strings.h:
+/usr/vacpp/include/strings.h:
+/opt/doom/include/SDL/SDL_platform.h:
+/opt/doom/include/SDL/SDL_config.h:
+/opt/doom/include/SDL/SDL_mouse.h:
+/opt/doom/include/SDL/SDL_stdinc.h:
+/opt/doom/include/SDL/SDL_main.h:
+/opt/doom/include/SDL/SDL_quit.h:
+/opt/doom/include/SDL/SDL.h:
+/usr/vacpp/include/assert.h:
+/usr/include/stdarg.h:
+/usr/vacpp/include/stdarg.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/functional:
+/opt/doom/include/SDL/SDL_audio.h:
+/usr/vacpp/include/list:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/xstring.t:
+/usr/include/errno.h:
+/usr/vacpp/include/xstring:
+/usr/vacpp/include/stdexcept:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/new:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/include/sys/resource.h:
+/opt/doom/include/SDL/SDL_cpuinfo.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/opt/doom/include/SDL/begin_code.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/xstddef:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/include/string.h:
+/usr/vacpp/include/cstring:
+/usr/vacpp/include/string.h:
+/usr/vacpp/include/yvals.h:
+/usr/include/float.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/va_list.h:
+/usr/include/standards.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/vacpp/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/vacpp/include/vector:
+sdl_mapper.cpp:

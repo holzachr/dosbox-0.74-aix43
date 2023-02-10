@@ -1,0 +1,280 @@
+mixer.o: ../../include/dos_inc.h
+mixer.o: ../../include/programs.h
+mixer.o: ../../include/hardware.h
+mixer.o: ../../include/mapper.h
+mixer.o: /usr/include/sys/lockf.h
+mixer.o: /usr/vacpp/include/sys/lockf.h
+mixer.o: /usr/include/sys/access.h
+mixer.o: /usr/include/unistd.h
+mixer.o: /usr/vacpp/include/unistd.h
+mixer.o: /usr/include/sys/lkup.h
+mixer.o: /usr/include/sys/dir.h
+mixer.o: /usr/vacpp/include/sys/dir.h
+mixer.o: /usr/include/dirent.h
+mixer.o: /usr/include/sys/mode.h
+mixer.o: /usr/include/sys/stat.h
+mixer.o: /usr/vacpp/include/string.t
+mixer.o: /usr/vacpp/include/ostream.t
+mixer.o: /usr/vacpp/include/xlocinfo.t
+mixer.o: /usr/vacpp/include/ansic_aix.h
+mixer.o: /usr/vacpp/include/xlocinfo.h
+mixer.o: /usr/vacpp/include/xlocinfo
+mixer.o: /usr/vacpp/include/istream.t
+mixer.o: /usr/vacpp/include/typeinfo
+mixer.o: /usr/vacpp/include/xlocale
+mixer.o: /usr/vacpp/include/streambuf
+mixer.o: /usr/vacpp/include/climits
+mixer.o: /usr/vacpp/include/xlocnum
+mixer.o: /usr/vacpp/include/ios
+mixer.o: /usr/vacpp/include/ostream
+mixer.o: /usr/vacpp/include/istream
+mixer.o: /usr/vacpp/include/string
+mixer.o: /usr/vacpp/include/vector.t
+mixer.o: /usr/vacpp/include/vector
+mixer.o: /usr/vacpp/include/list.t
+mixer.o: /usr/vacpp/include/xstring.t
+mixer.o: /usr/vacpp/include/stdexcept
+mixer.o: /usr/vacpp/include/memory.t
+mixer.o: /usr/vacpp/include/exception
+mixer.o: /usr/vacpp/include/new
+mixer.o: /usr/vacpp/include/cstdlib
+mixer.o: /usr/vacpp/include/xmemory
+mixer.o: /usr/vacpp/include/xutility.t
+mixer.o: /usr/include/time.h
+mixer.o: /usr/include/wchar.h
+mixer.o: /usr/vacpp/include/cwchar
+mixer.o: /usr/vacpp/include/cstring
+mixer.o: /usr/vacpp/include/iosfwd
+mixer.o: /usr/vacpp/include/utility
+mixer.o: /usr/vacpp/include/iterator
+mixer.o: /usr/vacpp/include/memory
+mixer.o: /usr/vacpp/include/cstddef
+mixer.o: /usr/vacpp/include/xstddef
+mixer.o: /usr/vacpp/include/functional
+mixer.o: ../../include/setup.h
+mixer.o: ../../include/timer.h
+mixer.o: ../../include/mixer.h
+mixer.o: ../../config.h
+mixer.o: ../../include/logging.h
+mixer.o: ../../include/dosbox.h
+mixer.o: ../../include/mem.h
+mixer.o: /usr/vacpp/include/cerrno
+mixer.o: /opt/doom/include/SDL/SDL_version.h
+mixer.o: /opt/doom/include/SDL/SDL_timer.h
+mixer.o: /opt/doom/include/SDL/SDL_loadso.h
+mixer.o: /opt/doom/include/SDL/SDL_joystick.h
+mixer.o: /opt/doom/include/SDL/SDL_video.h
+mixer.o: /opt/doom/include/SDL/SDL_keysym.h
+mixer.o: /opt/doom/include/SDL/SDL_keyboard.h
+mixer.o: /opt/doom/include/SDL/SDL_active.h
+mixer.o: /opt/doom/include/SDL/SDL_events.h
+mixer.o: /opt/doom/include/SDL/SDL_cdrom.h
+mixer.o: ../../include/support.h
+mixer.o: /opt/doom/include/SDL/SDL_rwops.h
+mixer.o: /opt/doom/include/SDL/SDL_thread.h
+mixer.o: ../../include/cross.h
+mixer.o: /opt/doom/include/SDL/SDL_mutex.h
+mixer.o: /opt/doom/include/SDL/SDL_endian.h
+mixer.o: /opt/doom/include/SDL/SDL_error.h
+mixer.o: /usr/vacpp/include/list
+mixer.o: /opt/doom/include/SDL/SDL_audio.h
+mixer.o: /opt/doom/include/SDL/close_code.h
+mixer.o: /usr/include/ctype.h
+mixer.o: /usr/include/inttypes.h
+mixer.o: /usr/include/strings.h
+mixer.o: /usr/vacpp/include/strings.h
+mixer.o: /usr/include/stdarg.h
+mixer.o: /usr/vacpp/include/stdarg.h
+mixer.o: /usr/include/stddef.h
+mixer.o: /usr/vacpp/include/stddef.h
+mixer.o: ../../include/dos_system.h
+mixer.o: /usr/include/va_list.h
+mixer.o: /usr/include/stdio.h
+mixer.o: /usr/vacpp/include/stdio.h
+mixer.o: /opt/doom/include/SDL/SDL_platform.h
+mixer.o: /opt/doom/include/SDL/SDL_config.h
+mixer.o: /opt/doom/include/SDL/SDL_mouse.h
+mixer.o: /opt/doom/include/SDL/SDL_stdinc.h
+mixer.o: /opt/doom/include/SDL/SDL_main.h
+mixer.o: /opt/doom/include/SDL/SDL_quit.h
+mixer.o: /opt/doom/include/SDL/SDL.h
+mixer.o: /usr/include/sys/localedef31.h
+mixer.o: /usr/include/locale.h
+mixer.o: /usr/vacpp/include/cstdio
+mixer.o: /usr/vacpp/include/locale.h
+mixer.o: /usr/include/sys/lc_core.h
+mixer.o: /usr/include/sys/localedef.h
+mixer.o: /usr/include/sys/m_signal.h
+mixer.o: /usr/include/sys/mstsave.h
+mixer.o: /usr/include/sys/m_param.h
+mixer.o: /usr/include/sys/context.h
+mixer.o: /usr/include/sys/signal.h
+mixer.o: /usr/vacpp/include/sys/signal.h
+mixer.o: /usr/vacpp/include/xiosbase
+mixer.o: /usr/include/sys/time.h
+mixer.o: /usr/vacpp/include/xutility
+mixer.o: /usr/vacpp/include/sys/time.h
+mixer.o: /usr/include/sys/resource.h
+mixer.o: /opt/doom/include/SDL/SDL_cpuinfo.h
+mixer.o: /usr/include/sys/wait.h
+mixer.o: /usr/vacpp/include/sys/wait.h
+mixer.o: /opt/doom/include/SDL/begin_code.h
+mixer.o: /usr/include/stdlib.h
+mixer.o: /usr/vacpp/include/stdlib.h
+mixer.o: /usr/include/math.h
+mixer.o: /usr/vacpp/include/xstring
+mixer.o: /usr/include/errno.h
+mixer.o: /usr/include/limits.h
+mixer.o: ../../include/pic.h
+mixer.o: /usr/include/sys/limits.h
+mixer.o: /usr/include/float.h
+mixer.o: /usr/vacpp/include/math.h
+mixer.o: /usr/include/string.h
+mixer.o: /usr/include/sys/vm_types.h
+mixer.o: /usr/include/sys/m_types.h
+mixer.o: /usr/include/sys/inttypes.h
+mixer.o: /usr/include/sys/types.h
+mixer.o: /usr/include/standards.h
+mixer.o: /usr/vacpp/include/yvals.h
+mixer.o: /usr/vacpp/include/string.h
+mixer.o: mixer.cpp
+../../include/dos_inc.h:
+../../include/programs.h:
+../../include/hardware.h:
+../../include/mapper.h:
+/usr/include/sys/lockf.h:
+/usr/vacpp/include/sys/lockf.h:
+/usr/include/sys/access.h:
+/usr/include/unistd.h:
+/usr/vacpp/include/unistd.h:
+/usr/include/sys/lkup.h:
+/usr/include/sys/dir.h:
+/usr/vacpp/include/sys/dir.h:
+/usr/include/dirent.h:
+/usr/include/sys/mode.h:
+/usr/include/sys/stat.h:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/vector:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/xstring.t:
+/usr/vacpp/include/stdexcept:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/new:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/vacpp/include/cstring:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/xstddef:
+/usr/vacpp/include/functional:
+../../include/setup.h:
+../../include/timer.h:
+../../include/mixer.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+../../include/mem.h:
+/usr/vacpp/include/cerrno:
+/opt/doom/include/SDL/SDL_version.h:
+/opt/doom/include/SDL/SDL_timer.h:
+/opt/doom/include/SDL/SDL_loadso.h:
+/opt/doom/include/SDL/SDL_joystick.h:
+/opt/doom/include/SDL/SDL_video.h:
+/opt/doom/include/SDL/SDL_keysym.h:
+/opt/doom/include/SDL/SDL_keyboard.h:
+/opt/doom/include/SDL/SDL_active.h:
+/opt/doom/include/SDL/SDL_events.h:
+/opt/doom/include/SDL/SDL_cdrom.h:
+../../include/support.h:
+/opt/doom/include/SDL/SDL_rwops.h:
+/opt/doom/include/SDL/SDL_thread.h:
+../../include/cross.h:
+/opt/doom/include/SDL/SDL_mutex.h:
+/opt/doom/include/SDL/SDL_endian.h:
+/opt/doom/include/SDL/SDL_error.h:
+/usr/vacpp/include/list:
+/opt/doom/include/SDL/SDL_audio.h:
+/opt/doom/include/SDL/close_code.h:
+/usr/include/ctype.h:
+/usr/include/inttypes.h:
+/usr/include/strings.h:
+/usr/vacpp/include/strings.h:
+/usr/include/stdarg.h:
+/usr/vacpp/include/stdarg.h:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+../../include/dos_system.h:
+/usr/include/va_list.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/opt/doom/include/SDL/SDL_platform.h:
+/opt/doom/include/SDL/SDL_config.h:
+/opt/doom/include/SDL/SDL_mouse.h:
+/opt/doom/include/SDL/SDL_stdinc.h:
+/opt/doom/include/SDL/SDL_main.h:
+/opt/doom/include/SDL/SDL_quit.h:
+/opt/doom/include/SDL/SDL.h:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/sys/time.h:
+/usr/include/sys/resource.h:
+/opt/doom/include/SDL/SDL_cpuinfo.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/opt/doom/include/SDL/begin_code.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/include/math.h:
+/usr/vacpp/include/xstring:
+/usr/include/errno.h:
+/usr/include/limits.h:
+../../include/pic.h:
+/usr/include/sys/limits.h:
+/usr/include/float.h:
+/usr/vacpp/include/math.h:
+/usr/include/string.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/standards.h:
+/usr/vacpp/include/yvals.h:
+/usr/vacpp/include/string.h:
+mixer.cpp:

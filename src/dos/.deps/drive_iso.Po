@@ -1,0 +1,290 @@
+drive_iso.o: ../../include/bios.h
+drive_iso.o: ../../include/bios_disk.h
+drive_iso.o: /usr/vacpp/include/list.t
+drive_iso.o: /usr/vacpp/include/functional
+drive_iso.o: ../../include/dos_inc.h
+drive_iso.o: ../../include/programs.h
+drive_iso.o: drives.h
+drive_iso.o: /usr/include/sys/lockf.h
+drive_iso.o: /usr/vacpp/include/sys/lockf.h
+drive_iso.o: /usr/include/sys/access.h
+drive_iso.o: /usr/include/unistd.h
+drive_iso.o: /usr/vacpp/include/unistd.h
+drive_iso.o: /usr/include/sys/lkup.h
+drive_iso.o: /usr/include/sys/dir.h
+drive_iso.o: /usr/vacpp/include/sys/dir.h
+drive_iso.o: /usr/include/dirent.h
+drive_iso.o: /usr/include/sys/mode.h
+drive_iso.o: /usr/include/sys/stat.h
+drive_iso.o: /opt/doom/include/SDL/SDL_sound.h
+drive_iso.o: /opt/doom/include/SDL/SDL_timer.h
+drive_iso.o: /opt/doom/include/SDL/SDL_loadso.h
+drive_iso.o: /opt/doom/include/SDL/SDL_joystick.h
+drive_iso.o: /opt/doom/include/SDL/SDL_video.h
+drive_iso.o: /opt/doom/include/SDL/SDL_keysym.h
+drive_iso.o: /opt/doom/include/SDL/SDL_keyboard.h
+drive_iso.o: /opt/doom/include/SDL/SDL_active.h
+drive_iso.o: /opt/doom/include/SDL/SDL_events.h
+drive_iso.o: /opt/doom/include/SDL/SDL_cdrom.h
+drive_iso.o: ../../include/support.h
+drive_iso.o: /opt/doom/include/SDL/SDL_rwops.h
+drive_iso.o: /opt/doom/include/SDL/SDL_thread.h
+drive_iso.o: ../../include/cross.h
+drive_iso.o: /opt/doom/include/SDL/SDL_mutex.h
+drive_iso.o: /opt/doom/include/SDL/SDL_endian.h
+drive_iso.o: /opt/doom/include/SDL/SDL_error.h
+drive_iso.o: /usr/vacpp/include/list
+drive_iso.o: /opt/doom/include/SDL/SDL_audio.h
+drive_iso.o: /opt/doom/include/SDL/close_code.h
+drive_iso.o: /usr/include/inttypes.h
+drive_iso.o: /usr/include/strings.h
+drive_iso.o: /usr/vacpp/include/strings.h
+drive_iso.o: /usr/include/stdarg.h
+drive_iso.o: /usr/vacpp/include/stdarg.h
+drive_iso.o: /opt/doom/include/SDL/SDL_platform.h
+drive_iso.o: /opt/doom/include/SDL/SDL_config.h
+drive_iso.o: /opt/doom/include/SDL/SDL_main.h
+drive_iso.o: /opt/doom/include/SDL/SDL_quit.h
+drive_iso.o: /opt/doom/include/SDL/SDL.h
+drive_iso.o: ../../include/mixer.h
+drive_iso.o: ../../include/mem.h
+drive_iso.o: ../../config.h
+drive_iso.o: ../../include/logging.h
+drive_iso.o: ../../include/dosbox.h
+drive_iso.o: /opt/doom/include/SDL/SDL_mouse.h
+drive_iso.o: /opt/doom/include/SDL/SDL_stdinc.h
+drive_iso.o: /usr/vacpp/include/sstream.t
+drive_iso.o: /usr/vacpp/include/sstream
+drive_iso.o: /usr/vacpp/include/fstream.t
+drive_iso.o: /usr/vacpp/include/fstream
+drive_iso.o: /usr/vacpp/include/vector.t
+drive_iso.o: /usr/vacpp/include/memory.t
+drive_iso.o: /usr/vacpp/include/iterator
+drive_iso.o: /usr/vacpp/include/memory
+drive_iso.o: /usr/vacpp/include/vector
+drive_iso.o: /usr/vacpp/include/iostream
+drive_iso.o: /usr/vacpp/include/string.t
+drive_iso.o: /usr/vacpp/include/ostream.t
+drive_iso.o: /usr/vacpp/include/xlocinfo.t
+drive_iso.o: /usr/vacpp/include/ansic_aix.h
+drive_iso.o: /usr/vacpp/include/xlocinfo.h
+drive_iso.o: /usr/vacpp/include/xlocinfo
+drive_iso.o: /usr/vacpp/include/istream.t
+drive_iso.o: /usr/vacpp/include/typeinfo
+drive_iso.o: /usr/vacpp/include/xstring.t
+drive_iso.o: /usr/vacpp/include/xutility.t
+drive_iso.o: /usr/include/time.h
+drive_iso.o: /usr/include/wchar.h
+drive_iso.o: /usr/vacpp/include/cwchar
+drive_iso.o: /usr/vacpp/include/iosfwd
+drive_iso.o: /usr/vacpp/include/utility
+drive_iso.o: /usr/vacpp/include/new
+drive_iso.o: /usr/vacpp/include/xmemory
+drive_iso.o: /usr/include/stddef.h
+drive_iso.o: /usr/vacpp/include/stddef.h
+drive_iso.o: /usr/vacpp/include/cstddef
+drive_iso.o: /usr/vacpp/include/xstddef
+drive_iso.o: /usr/vacpp/include/exception
+drive_iso.o: /usr/vacpp/include/stdexcept
+drive_iso.o: /usr/vacpp/include/xlocale
+drive_iso.o: /usr/vacpp/include/streambuf
+drive_iso.o: /usr/include/sys/m_signal.h
+drive_iso.o: ../../include/shell.h
+drive_iso.o: /usr/include/sys/mstsave.h
+drive_iso.o: /usr/include/sys/m_param.h
+drive_iso.o: /usr/include/sys/context.h
+drive_iso.o: /usr/include/sys/signal.h
+drive_iso.o: /usr/vacpp/include/sys/signal.h
+drive_iso.o: /usr/vacpp/include/xiosbase
+drive_iso.o: /usr/include/sys/time.h
+drive_iso.o: /usr/vacpp/include/xutility
+drive_iso.o: /usr/vacpp/include/sys/time.h
+drive_iso.o: /usr/include/sys/resource.h
+drive_iso.o: /opt/doom/include/SDL/SDL_cpuinfo.h
+drive_iso.o: /usr/include/sys/wait.h
+drive_iso.o: /usr/vacpp/include/sys/wait.h
+drive_iso.o: /opt/doom/include/SDL/begin_code.h
+drive_iso.o: /usr/include/stdlib.h
+drive_iso.o: /usr/vacpp/include/stdlib.h
+drive_iso.o: /usr/vacpp/include/cstdlib
+drive_iso.o: ../../include/dos_system.h
+drive_iso.o: /usr/include/va_list.h
+drive_iso.o: /usr/include/stdio.h
+drive_iso.o: /usr/vacpp/include/stdio.h
+drive_iso.o: /usr/vacpp/include/climits
+drive_iso.o: /usr/vacpp/include/xstring
+drive_iso.o: /usr/include/errno.h
+drive_iso.o: /opt/doom/include/SDL/SDL_version.h
+drive_iso.o: /usr/vacpp/include/cerrno
+drive_iso.o: /usr/vacpp/include/xlocnum
+drive_iso.o: /usr/vacpp/include/ios
+drive_iso.o: /usr/vacpp/include/ostream
+drive_iso.o: /usr/vacpp/include/istream
+drive_iso.o: /usr/vacpp/include/string
+drive_iso.o: cdrom.h
+drive_iso.o: /usr/include/string.h
+drive_iso.o: /usr/vacpp/include/cstring
+drive_iso.o: /usr/vacpp/include/string.h
+drive_iso.o: /usr/vacpp/include/yvals.h
+drive_iso.o: /usr/include/sys/localedef31.h
+drive_iso.o: /usr/include/locale.h
+drive_iso.o: /usr/vacpp/include/cstdio
+drive_iso.o: /usr/vacpp/include/locale.h
+drive_iso.o: /usr/include/sys/vm_types.h
+drive_iso.o: /usr/include/sys/m_types.h
+drive_iso.o: /usr/include/sys/inttypes.h
+drive_iso.o: /usr/include/sys/types.h
+drive_iso.o: /usr/include/sys/lc_core.h
+drive_iso.o: /usr/include/float.h
+drive_iso.o: /usr/include/limits.h
+drive_iso.o: /usr/include/sys/limits.h
+drive_iso.o: /usr/include/sys/localedef.h
+drive_iso.o: /usr/include/standards.h
+drive_iso.o: /usr/include/ctype.h
+drive_iso.o: /usr/vacpp/include/cctype
+drive_iso.o: drive_iso.cpp
+../../include/bios.h:
+../../include/bios_disk.h:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/functional:
+../../include/dos_inc.h:
+../../include/programs.h:
+drives.h:
+/usr/include/sys/lockf.h:
+/usr/vacpp/include/sys/lockf.h:
+/usr/include/sys/access.h:
+/usr/include/unistd.h:
+/usr/vacpp/include/unistd.h:
+/usr/include/sys/lkup.h:
+/usr/include/sys/dir.h:
+/usr/vacpp/include/sys/dir.h:
+/usr/include/dirent.h:
+/usr/include/sys/mode.h:
+/usr/include/sys/stat.h:
+/opt/doom/include/SDL/SDL_sound.h:
+/opt/doom/include/SDL/SDL_timer.h:
+/opt/doom/include/SDL/SDL_loadso.h:
+/opt/doom/include/SDL/SDL_joystick.h:
+/opt/doom/include/SDL/SDL_video.h:
+/opt/doom/include/SDL/SDL_keysym.h:
+/opt/doom/include/SDL/SDL_keyboard.h:
+/opt/doom/include/SDL/SDL_active.h:
+/opt/doom/include/SDL/SDL_events.h:
+/opt/doom/include/SDL/SDL_cdrom.h:
+../../include/support.h:
+/opt/doom/include/SDL/SDL_rwops.h:
+/opt/doom/include/SDL/SDL_thread.h:
+../../include/cross.h:
+/opt/doom/include/SDL/SDL_mutex.h:
+/opt/doom/include/SDL/SDL_endian.h:
+/opt/doom/include/SDL/SDL_error.h:
+/usr/vacpp/include/list:
+/opt/doom/include/SDL/SDL_audio.h:
+/opt/doom/include/SDL/close_code.h:
+/usr/include/inttypes.h:
+/usr/include/strings.h:
+/usr/vacpp/include/strings.h:
+/usr/include/stdarg.h:
+/usr/vacpp/include/stdarg.h:
+/opt/doom/include/SDL/SDL_platform.h:
+/opt/doom/include/SDL/SDL_config.h:
+/opt/doom/include/SDL/SDL_main.h:
+/opt/doom/include/SDL/SDL_quit.h:
+/opt/doom/include/SDL/SDL.h:
+../../include/mixer.h:
+../../include/mem.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/opt/doom/include/SDL/SDL_mouse.h:
+/opt/doom/include/SDL/SDL_stdinc.h:
+/usr/vacpp/include/sstream.t:
+/usr/vacpp/include/sstream:
+/usr/vacpp/include/fstream.t:
+/usr/vacpp/include/fstream:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/vacpp/include/vector:
+/usr/vacpp/include/iostream:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xstring.t:
+/usr/vacpp/include/xutility.t:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/new:
+/usr/vacpp/include/xmemory:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/xstddef:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/stdexcept:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/include/sys/m_signal.h:
+../../include/shell.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/sys/time.h:
+/usr/include/sys/resource.h:
+/opt/doom/include/SDL/SDL_cpuinfo.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/opt/doom/include/SDL/begin_code.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/cstdlib:
+../../include/dos_system.h:
+/usr/include/va_list.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/xstring:
+/usr/include/errno.h:
+/opt/doom/include/SDL/SDL_version.h:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+cdrom.h:
+/usr/include/string.h:
+/usr/vacpp/include/cstring:
+/usr/vacpp/include/string.h:
+/usr/vacpp/include/yvals.h:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/locale.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/sys/lc_core.h:
+/usr/include/float.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/localedef.h:
+/usr/include/standards.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/cctype:
+drive_iso.cpp:

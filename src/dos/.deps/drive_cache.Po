@@ -1,0 +1,218 @@
+drive_cache.o: /usr/vacpp/include/algorithm.t
+drive_cache.o: /usr/vacpp/include/algorithm
+drive_cache.o: ../../include/bios.h
+drive_cache.o: ../../include/bios_disk.h
+drive_cache.o: /usr/vacpp/include/list.t
+drive_cache.o: /usr/vacpp/include/functional
+drive_cache.o: /usr/vacpp/include/list
+drive_cache.o: ../../include/dos_inc.h
+drive_cache.o: ../../include/programs.h
+drive_cache.o: ../../include/mem.h
+drive_cache.o: /usr/include/strings.h
+drive_cache.o: /usr/vacpp/include/strings.h
+drive_cache.o: ../../include/support.h
+drive_cache.o: /usr/include/sys/lockf.h
+drive_cache.o: /usr/vacpp/include/sys/lockf.h
+drive_cache.o: /usr/include/sys/access.h
+drive_cache.o: /usr/include/unistd.h
+drive_cache.o: /usr/vacpp/include/unistd.h
+drive_cache.o: /usr/include/sys/lkup.h
+drive_cache.o: /usr/include/sys/dir.h
+drive_cache.o: /usr/vacpp/include/sys/dir.h
+drive_cache.o: /usr/include/dirent.h
+drive_cache.o: /usr/vacpp/include/string.t
+drive_cache.o: /usr/vacpp/include/ostream.t
+drive_cache.o: /usr/vacpp/include/xlocinfo.t
+drive_cache.o: /usr/vacpp/include/ansic_aix.h
+drive_cache.o: /usr/include/ctype.h
+drive_cache.o: /usr/vacpp/include/xlocinfo.h
+drive_cache.o: /usr/vacpp/include/xlocinfo
+drive_cache.o: /usr/vacpp/include/istream.t
+drive_cache.o: /usr/vacpp/include/typeinfo
+drive_cache.o: /usr/vacpp/include/xlocale
+drive_cache.o: /usr/vacpp/include/streambuf
+drive_cache.o: /usr/vacpp/include/climits
+drive_cache.o: /usr/vacpp/include/cerrno
+drive_cache.o: /usr/vacpp/include/xlocnum
+drive_cache.o: /usr/vacpp/include/ostream
+drive_cache.o: /usr/vacpp/include/istream
+drive_cache.o: /usr/vacpp/include/string
+drive_cache.o: /usr/include/sys/mode.h
+drive_cache.o: /usr/include/sys/stat.h
+drive_cache.o: ../../include/cross.h
+drive_cache.o: ../../config.h
+drive_cache.o: ../../include/logging.h
+drive_cache.o: ../../include/dosbox.h
+drive_cache.o: /usr/vacpp/include/vector.t
+drive_cache.o: /usr/vacpp/include/xstring.t
+drive_cache.o: /usr/include/errno.h
+drive_cache.o: /usr/vacpp/include/xstring
+drive_cache.o: /usr/vacpp/include/stdexcept
+drive_cache.o: /usr/vacpp/include/memory.t
+drive_cache.o: /usr/vacpp/include/exception
+drive_cache.o: /usr/vacpp/include/new
+drive_cache.o: /usr/include/sys/localedef31.h
+drive_cache.o: /usr/include/locale.h
+drive_cache.o: /usr/include/sys/lc_core.h
+drive_cache.o: /usr/include/sys/localedef.h
+drive_cache.o: /usr/include/sys/m_signal.h
+drive_cache.o: ../../include/shell.h
+drive_cache.o: /usr/include/sys/mstsave.h
+drive_cache.o: /usr/include/sys/m_param.h
+drive_cache.o: /usr/include/sys/context.h
+drive_cache.o: /usr/include/sys/signal.h
+drive_cache.o: /usr/vacpp/include/sys/signal.h
+drive_cache.o: /usr/vacpp/include/xiosbase
+drive_cache.o: /usr/include/sys/time.h
+drive_cache.o: /usr/include/sys/resource.h
+drive_cache.o: /usr/include/sys/wait.h
+drive_cache.o: /usr/vacpp/include/sys/wait.h
+drive_cache.o: /usr/include/stdlib.h
+drive_cache.o: /usr/vacpp/include/stdlib.h
+drive_cache.o: /usr/vacpp/include/cstdlib
+drive_cache.o: /usr/vacpp/include/xmemory
+drive_cache.o: /usr/vacpp/include/xutility.t
+drive_cache.o: /usr/vacpp/include/cstddef
+drive_cache.o: /usr/vacpp/include/xstddef
+drive_cache.o: /usr/include/stddef.h
+drive_cache.o: /usr/vacpp/include/stddef.h
+drive_cache.o: /usr/include/time.h
+drive_cache.o: /usr/include/wchar.h
+drive_cache.o: /usr/vacpp/include/cwchar
+drive_cache.o: /usr/include/string.h
+drive_cache.o: /usr/vacpp/include/cstring
+drive_cache.o: /usr/vacpp/include/string.h
+drive_cache.o: /usr/vacpp/include/yvals.h
+drive_cache.o: /usr/include/float.h
+drive_cache.o: /usr/include/limits.h
+drive_cache.o: /usr/include/sys/limits.h
+drive_cache.o: /usr/include/sys/vm_types.h
+drive_cache.o: /usr/include/sys/m_types.h
+drive_cache.o: /usr/include/sys/inttypes.h
+drive_cache.o: /usr/include/sys/types.h
+drive_cache.o: ../../include/dos_system.h
+drive_cache.o: /usr/include/va_list.h
+drive_cache.o: /usr/include/standards.h
+drive_cache.o: /usr/include/stdio.h
+drive_cache.o: /usr/vacpp/include/stdio.h
+drive_cache.o: /usr/vacpp/include/locale.h
+drive_cache.o: /usr/vacpp/include/cstdio
+drive_cache.o: /usr/vacpp/include/iosfwd
+drive_cache.o: /usr/vacpp/include/utility
+drive_cache.o: /usr/vacpp/include/sys/time.h
+drive_cache.o: /usr/vacpp/include/xutility
+drive_cache.o: /usr/vacpp/include/iterator
+drive_cache.o: /usr/vacpp/include/memory
+drive_cache.o: /usr/vacpp/include/vector
+drive_cache.o: drives.h
+drive_cache.o: /usr/vacpp/include/ios
+drive_cache.o: drive_cache.cpp
+/usr/vacpp/include/algorithm.t:
+/usr/vacpp/include/algorithm:
+../../include/bios.h:
+../../include/bios_disk.h:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/functional:
+/usr/vacpp/include/list:
+../../include/dos_inc.h:
+../../include/programs.h:
+../../include/mem.h:
+/usr/include/strings.h:
+/usr/vacpp/include/strings.h:
+../../include/support.h:
+/usr/include/sys/lockf.h:
+/usr/vacpp/include/sys/lockf.h:
+/usr/include/sys/access.h:
+/usr/include/unistd.h:
+/usr/vacpp/include/unistd.h:
+/usr/include/sys/lkup.h:
+/usr/include/sys/dir.h:
+/usr/vacpp/include/sys/dir.h:
+/usr/include/dirent.h:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+/usr/include/sys/mode.h:
+/usr/include/sys/stat.h:
+../../include/cross.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/xstring.t:
+/usr/include/errno.h:
+/usr/vacpp/include/xstring:
+/usr/vacpp/include/stdexcept:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/new:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+../../include/shell.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/xstddef:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/include/string.h:
+/usr/vacpp/include/cstring:
+/usr/vacpp/include/string.h:
+/usr/vacpp/include/yvals.h:
+/usr/include/float.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+../../include/dos_system.h:
+/usr/include/va_list.h:
+/usr/include/standards.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/vacpp/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/vacpp/include/vector:
+drives.h:
+/usr/vacpp/include/ios:
+drive_cache.cpp:

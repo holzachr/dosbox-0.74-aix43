@@ -1,0 +1,176 @@
+disney.o: /usr/vacpp/include/string.t
+disney.o: /usr/vacpp/include/ostream.t
+disney.o: /usr/vacpp/include/xlocinfo.t
+disney.o: /usr/vacpp/include/ansic_aix.h
+disney.o: /usr/include/ctype.h
+disney.o: /usr/vacpp/include/xlocinfo.h
+disney.o: /usr/vacpp/include/xlocinfo
+disney.o: /usr/vacpp/include/istream.t
+disney.o: /usr/vacpp/include/typeinfo
+disney.o: /usr/vacpp/include/xlocale
+disney.o: /usr/vacpp/include/streambuf
+disney.o: /usr/vacpp/include/climits
+disney.o: /usr/vacpp/include/cerrno
+disney.o: /usr/vacpp/include/xlocnum
+disney.o: /usr/vacpp/include/ios
+disney.o: /usr/vacpp/include/ostream
+disney.o: /usr/vacpp/include/istream
+disney.o: /usr/vacpp/include/string
+disney.o: /usr/vacpp/include/vector.t
+disney.o: /usr/vacpp/include/vector
+disney.o: /usr/vacpp/include/list.t
+disney.o: /usr/vacpp/include/xstring.t
+disney.o: /usr/include/errno.h
+disney.o: /usr/vacpp/include/xstring
+disney.o: /usr/vacpp/include/stdexcept
+disney.o: /usr/vacpp/include/memory.t
+disney.o: /usr/vacpp/include/exception
+disney.o: /usr/vacpp/include/new
+disney.o: /usr/include/sys/localedef31.h
+disney.o: /usr/include/locale.h
+disney.o: /usr/include/sys/lc_core.h
+disney.o: /usr/include/sys/localedef.h
+disney.o: /usr/include/sys/m_signal.h
+disney.o: /usr/include/sys/mstsave.h
+disney.o: /usr/include/sys/m_param.h
+disney.o: /usr/include/sys/context.h
+disney.o: /usr/include/sys/signal.h
+disney.o: /usr/vacpp/include/sys/signal.h
+disney.o: /usr/vacpp/include/xiosbase
+disney.o: /usr/include/sys/time.h
+disney.o: /usr/include/sys/resource.h
+disney.o: /usr/include/sys/wait.h
+disney.o: /usr/vacpp/include/sys/wait.h
+disney.o: /usr/include/stdlib.h
+disney.o: /usr/vacpp/include/stdlib.h
+disney.o: /usr/vacpp/include/cstdlib
+disney.o: /usr/vacpp/include/xmemory
+disney.o: /usr/vacpp/include/xutility.t
+disney.o: /usr/include/time.h
+disney.o: /usr/include/wchar.h
+disney.o: /usr/vacpp/include/cwchar
+disney.o: /usr/vacpp/include/cstring
+disney.o: /usr/include/float.h
+disney.o: /usr/include/va_list.h
+disney.o: /usr/include/stdio.h
+disney.o: /usr/vacpp/include/stdio.h
+disney.o: /usr/vacpp/include/locale.h
+disney.o: /usr/vacpp/include/cstdio
+disney.o: /usr/vacpp/include/iosfwd
+disney.o: /usr/vacpp/include/utility
+disney.o: /usr/vacpp/include/sys/time.h
+disney.o: /usr/vacpp/include/xutility
+disney.o: /usr/vacpp/include/iterator
+disney.o: /usr/vacpp/include/memory
+disney.o: /usr/include/stddef.h
+disney.o: /usr/vacpp/include/stddef.h
+disney.o: /usr/vacpp/include/cstddef
+disney.o: /usr/vacpp/include/xstddef
+disney.o: /usr/vacpp/include/functional
+disney.o: /usr/vacpp/include/list
+disney.o: ../../include/setup.h
+disney.o: /usr/include/limits.h
+disney.o: /usr/include/sys/limits.h
+disney.o: ../../include/pic.h
+disney.o: ../../include/mixer.h
+disney.o: ../../include/inout.h
+disney.o: ../../config.h
+disney.o: ../../include/logging.h
+disney.o: ../../include/dosbox.h
+disney.o: /usr/include/string.h
+disney.o: /usr/include/sys/vm_types.h
+disney.o: /usr/include/sys/m_types.h
+disney.o: /usr/include/sys/inttypes.h
+disney.o: /usr/include/sys/types.h
+disney.o: /usr/include/standards.h
+disney.o: /usr/vacpp/include/yvals.h
+disney.o: /usr/vacpp/include/string.h
+disney.o: disney.cpp
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/vector:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/xstring.t:
+/usr/include/errno.h:
+/usr/vacpp/include/xstring:
+/usr/vacpp/include/stdexcept:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/new:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/vacpp/include/cstring:
+/usr/include/float.h:
+/usr/include/va_list.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/vacpp/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/xstddef:
+/usr/vacpp/include/functional:
+/usr/vacpp/include/list:
+../../include/setup.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+../../include/pic.h:
+../../include/mixer.h:
+../../include/inout.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/include/string.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/standards.h:
+/usr/vacpp/include/yvals.h:
+/usr/vacpp/include/string.h:
+disney.cpp:

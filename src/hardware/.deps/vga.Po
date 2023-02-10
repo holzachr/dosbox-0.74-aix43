@@ -1,0 +1,28 @@
+vga.o: /usr/include/string.h
+vga.o: /usr/include/sys/vm_types.h
+vga.o: /usr/include/sys/m_types.h
+vga.o: /usr/include/sys/inttypes.h
+vga.o: /usr/include/sys/types.h
+vga.o: /usr/include/standards.h
+vga.o: /usr/vacpp/include/string.h
+vga.o: ../../include/vga.h
+vga.o: ../../include/pic.h
+vga.o: ../../include/video.h
+vga.o: ../../config.h
+vga.o: ../../include/logging.h
+vga.o: ../../include/dosbox.h
+vga.o: vga.cpp
+/usr/include/string.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/standards.h:
+/usr/vacpp/include/string.h:
+../../include/vga.h:
+../../include/pic.h:
+../../include/video.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+vga.cpp:

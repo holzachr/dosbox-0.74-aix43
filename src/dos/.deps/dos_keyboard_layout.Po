@@ -1,0 +1,230 @@
+dos_keyboard_layout.o: dos_codepages.h
+dos_keyboard_layout.o: ../../include/programs.h
+dos_keyboard_layout.o: drives.h
+dos_keyboard_layout.o: ../../include/mapper.h
+dos_keyboard_layout.o: ../../include/callback.h
+dos_keyboard_layout.o: ../../include/vga.h
+dos_keyboard_layout.o: ../ints/int10.h
+dos_keyboard_layout.o: /usr/vacpp/include/list.t
+dos_keyboard_layout.o: /usr/vacpp/include/functional
+dos_keyboard_layout.o: /usr/vacpp/include/list
+dos_keyboard_layout.o: ../../include/setup.h
+dos_keyboard_layout.o: /usr/include/strings.h
+dos_keyboard_layout.o: /usr/vacpp/include/strings.h
+dos_keyboard_layout.o: ../../include/support.h
+dos_keyboard_layout.o: /usr/include/sys/lockf.h
+dos_keyboard_layout.o: /usr/vacpp/include/sys/lockf.h
+dos_keyboard_layout.o: /usr/include/sys/access.h
+dos_keyboard_layout.o: /usr/include/unistd.h
+dos_keyboard_layout.o: /usr/vacpp/include/unistd.h
+dos_keyboard_layout.o: /usr/include/sys/lkup.h
+dos_keyboard_layout.o: /usr/include/sys/dir.h
+dos_keyboard_layout.o: /usr/vacpp/include/sys/dir.h
+dos_keyboard_layout.o: /usr/include/dirent.h
+dos_keyboard_layout.o: /usr/vacpp/include/string.t
+dos_keyboard_layout.o: /usr/vacpp/include/ostream.t
+dos_keyboard_layout.o: /usr/vacpp/include/xlocinfo.t
+dos_keyboard_layout.o: /usr/vacpp/include/ansic_aix.h
+dos_keyboard_layout.o: /usr/include/ctype.h
+dos_keyboard_layout.o: /usr/vacpp/include/xlocinfo
+dos_keyboard_layout.o: /usr/vacpp/include/istream.t
+dos_keyboard_layout.o: /usr/vacpp/include/typeinfo
+dos_keyboard_layout.o: /usr/vacpp/include/xlocale
+dos_keyboard_layout.o: /usr/vacpp/include/streambuf
+dos_keyboard_layout.o: /usr/vacpp/include/climits
+dos_keyboard_layout.o: dos_keyboard_layout_data.h
+dos_keyboard_layout.o: /usr/vacpp/include/cerrno
+dos_keyboard_layout.o: /usr/vacpp/include/xlocnum
+dos_keyboard_layout.o: /usr/vacpp/include/ios
+dos_keyboard_layout.o: /usr/vacpp/include/ostream
+dos_keyboard_layout.o: /usr/vacpp/include/istream
+dos_keyboard_layout.o: /usr/vacpp/include/string
+dos_keyboard_layout.o: /usr/include/sys/mode.h
+dos_keyboard_layout.o: /usr/include/sys/stat.h
+dos_keyboard_layout.o: ../../include/cross.h
+dos_keyboard_layout.o: /usr/vacpp/include/vector.t
+dos_keyboard_layout.o: /usr/vacpp/include/xstring.t
+dos_keyboard_layout.o: /usr/include/errno.h
+dos_keyboard_layout.o: /usr/vacpp/include/xstring
+dos_keyboard_layout.o: /usr/vacpp/include/stdexcept
+dos_keyboard_layout.o: ../../include/regs.h
+dos_keyboard_layout.o: /usr/vacpp/include/memory.t
+dos_keyboard_layout.o: /usr/vacpp/include/exception
+dos_keyboard_layout.o: /usr/vacpp/include/new
+dos_keyboard_layout.o: /usr/include/sys/localedef31.h
+dos_keyboard_layout.o: /usr/include/locale.h
+dos_keyboard_layout.o: /usr/include/sys/lc_core.h
+dos_keyboard_layout.o: /usr/include/sys/localedef.h
+dos_keyboard_layout.o: /usr/include/sys/m_signal.h
+dos_keyboard_layout.o: ../../include/shell.h
+dos_keyboard_layout.o: /usr/include/sys/mstsave.h
+dos_keyboard_layout.o: /usr/include/sys/m_param.h
+dos_keyboard_layout.o: /usr/include/sys/context.h
+dos_keyboard_layout.o: /usr/include/sys/signal.h
+dos_keyboard_layout.o: /usr/vacpp/include/sys/signal.h
+dos_keyboard_layout.o: /usr/vacpp/include/xiosbase
+dos_keyboard_layout.o: /usr/include/sys/time.h
+dos_keyboard_layout.o: /usr/include/sys/resource.h
+dos_keyboard_layout.o: /usr/include/sys/wait.h
+dos_keyboard_layout.o: /usr/vacpp/include/sys/wait.h
+dos_keyboard_layout.o: /usr/include/stdlib.h
+dos_keyboard_layout.o: /usr/vacpp/include/stdlib.h
+dos_keyboard_layout.o: /usr/vacpp/include/cstdlib
+dos_keyboard_layout.o: /usr/vacpp/include/xmemory
+dos_keyboard_layout.o: /usr/vacpp/include/xutility.t
+dos_keyboard_layout.o: /usr/vacpp/include/cstddef
+dos_keyboard_layout.o: /usr/vacpp/include/xstddef
+dos_keyboard_layout.o: /usr/include/stddef.h
+dos_keyboard_layout.o: /usr/vacpp/include/stddef.h
+dos_keyboard_layout.o: /usr/include/time.h
+dos_keyboard_layout.o: /usr/include/wchar.h
+dos_keyboard_layout.o: /usr/vacpp/include/cwchar
+dos_keyboard_layout.o: /usr/include/string.h
+dos_keyboard_layout.o: /usr/vacpp/include/cstring
+dos_keyboard_layout.o: /usr/vacpp/include/string.h
+dos_keyboard_layout.o: /usr/vacpp/include/yvals.h
+dos_keyboard_layout.o: /usr/vacpp/include/locale.h
+dos_keyboard_layout.o: /usr/vacpp/include/cstdio
+dos_keyboard_layout.o: /usr/vacpp/include/iosfwd
+dos_keyboard_layout.o: /usr/vacpp/include/utility
+dos_keyboard_layout.o: /usr/vacpp/include/sys/time.h
+dos_keyboard_layout.o: /usr/vacpp/include/xutility
+dos_keyboard_layout.o: /usr/vacpp/include/iterator
+dos_keyboard_layout.o: /usr/vacpp/include/memory
+dos_keyboard_layout.o: /usr/vacpp/include/vector
+dos_keyboard_layout.o: ../../include/dos_inc.h
+dos_keyboard_layout.o: ../../include/mem.h
+dos_keyboard_layout.o: /usr/include/float.h
+dos_keyboard_layout.o: /usr/include/limits.h
+dos_keyboard_layout.o: /usr/include/sys/limits.h
+dos_keyboard_layout.o: /usr/include/sys/vm_types.h
+dos_keyboard_layout.o: /usr/include/sys/m_types.h
+dos_keyboard_layout.o: /usr/include/sys/inttypes.h
+dos_keyboard_layout.o: /usr/include/sys/types.h
+dos_keyboard_layout.o: ../../include/dos_system.h
+dos_keyboard_layout.o: /usr/include/va_list.h
+dos_keyboard_layout.o: /usr/include/standards.h
+dos_keyboard_layout.o: /usr/include/stdio.h
+dos_keyboard_layout.o: /usr/vacpp/include/stdio.h
+dos_keyboard_layout.o: ../../include/bios_disk.h
+dos_keyboard_layout.o: ../../include/bios.h
+dos_keyboard_layout.o: ../../config.h
+dos_keyboard_layout.o: ../../include/logging.h
+dos_keyboard_layout.o: ../../include/dosbox.h
+dos_keyboard_layout.o: /usr/vacpp/include/xlocinfo.h
+dos_keyboard_layout.o: dos_keyboard_layout.cpp
+dos_codepages.h:
+../../include/programs.h:
+drives.h:
+../../include/mapper.h:
+../../include/callback.h:
+../../include/vga.h:
+../ints/int10.h:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/functional:
+/usr/vacpp/include/list:
+../../include/setup.h:
+/usr/include/strings.h:
+/usr/vacpp/include/strings.h:
+../../include/support.h:
+/usr/include/sys/lockf.h:
+/usr/vacpp/include/sys/lockf.h:
+/usr/include/sys/access.h:
+/usr/include/unistd.h:
+/usr/vacpp/include/unistd.h:
+/usr/include/sys/lkup.h:
+/usr/include/sys/dir.h:
+/usr/vacpp/include/sys/dir.h:
+/usr/include/dirent.h:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+dos_keyboard_layout_data.h:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+/usr/include/sys/mode.h:
+/usr/include/sys/stat.h:
+../../include/cross.h:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/xstring.t:
+/usr/include/errno.h:
+/usr/vacpp/include/xstring:
+/usr/vacpp/include/stdexcept:
+../../include/regs.h:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/new:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+../../include/shell.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/xstddef:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/include/string.h:
+/usr/vacpp/include/cstring:
+/usr/vacpp/include/string.h:
+/usr/vacpp/include/yvals.h:
+/usr/vacpp/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/vacpp/include/vector:
+../../include/dos_inc.h:
+../../include/mem.h:
+/usr/include/float.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+../../include/dos_system.h:
+/usr/include/va_list.h:
+/usr/include/standards.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+../../include/bios_disk.h:
+../../include/bios.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/vacpp/include/xlocinfo.h:
+dos_keyboard_layout.cpp:

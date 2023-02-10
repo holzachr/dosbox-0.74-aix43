@@ -1,0 +1,66 @@
+core_simple.o: core_normal/prefix_66_0f.h
+core_simple.o: core_normal/prefix_66.h
+core_simple.o: core_normal/prefix_0f.h
+core_simple.o: core_normal/prefix_none.h
+core_simple.o: core_normal/string.h
+core_simple.o: core_normal/../modrm.h
+core_simple.o: core_normal/table_ea.h
+core_simple.o: core_normal/helpers.h
+core_simple.o: core_normal/support.h
+core_simple.o: instructions.h
+core_simple.o: ../../include/paging.h
+core_simple.o: ../../include/fpu.h
+core_simple.o: ../../include/callback.h
+core_simple.o: ../../include/inout.h
+core_simple.o: lazyflags.h
+core_simple.o: ../../include/regs.h
+core_simple.o: ../../include/cpu.h
+core_simple.o: ../../include/mem.h
+core_simple.o: ../../config.h
+core_simple.o: ../../include/logging.h
+core_simple.o: ../../include/dosbox.h
+core_simple.o: /usr/include/float.h
+core_simple.o: ../../include/pic.h
+core_simple.o: /usr/include/sys/limits.h
+core_simple.o: /usr/include/sys/vm_types.h
+core_simple.o: /usr/include/sys/m_types.h
+core_simple.o: /usr/include/sys/inttypes.h
+core_simple.o: /usr/include/sys/types.h
+core_simple.o: /usr/include/va_list.h
+core_simple.o: /usr/include/standards.h
+core_simple.o: /usr/include/stdio.h
+core_simple.o: /usr/vacpp/include/stdio.h
+core_simple.o: core_simple.cpp
+core_normal/prefix_66_0f.h:
+core_normal/prefix_66.h:
+core_normal/prefix_0f.h:
+core_normal/prefix_none.h:
+core_normal/string.h:
+core_normal/../modrm.h:
+core_normal/table_ea.h:
+core_normal/helpers.h:
+core_normal/support.h:
+instructions.h:
+../../include/paging.h:
+../../include/fpu.h:
+../../include/callback.h:
+../../include/inout.h:
+lazyflags.h:
+../../include/regs.h:
+../../include/cpu.h:
+../../include/mem.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/include/float.h:
+../../include/pic.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/va_list.h:
+/usr/include/standards.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+core_simple.cpp:

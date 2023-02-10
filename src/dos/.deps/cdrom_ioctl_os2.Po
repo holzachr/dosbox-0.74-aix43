@@ -1,0 +1,242 @@
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_sound.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_timer.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_loadso.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_joystick.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_video.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_keysym.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_keyboard.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_active.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_events.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_cdrom.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_rwops.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_thread.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_mutex.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_endian.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_error.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_audio.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/close_code.h
+cdrom_ioctl_os2.o: /usr/include/inttypes.h
+cdrom_ioctl_os2.o: /usr/include/strings.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/strings.h
+cdrom_ioctl_os2.o: /usr/include/stdarg.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/stdarg.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_platform.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_config.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_main.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_quit.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL.h
+cdrom_ioctl_os2.o: ../../include/mixer.h
+cdrom_ioctl_os2.o: ../../include/mem.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_mouse.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_stdinc.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/sstream.t
+cdrom_ioctl_os2.o: /usr/vacpp/include/sstream
+cdrom_ioctl_os2.o: /usr/vacpp/include/fstream.t
+cdrom_ioctl_os2.o: /usr/vacpp/include/fstream
+cdrom_ioctl_os2.o: /usr/vacpp/include/vector.t
+cdrom_ioctl_os2.o: /usr/vacpp/include/memory.t
+cdrom_ioctl_os2.o: /usr/vacpp/include/iterator
+cdrom_ioctl_os2.o: /usr/vacpp/include/memory
+cdrom_ioctl_os2.o: /usr/vacpp/include/vector
+cdrom_ioctl_os2.o: /usr/vacpp/include/iostream
+cdrom_ioctl_os2.o: /usr/vacpp/include/string.t
+cdrom_ioctl_os2.o: /usr/vacpp/include/ostream.t
+cdrom_ioctl_os2.o: /usr/vacpp/include/xlocinfo.t
+cdrom_ioctl_os2.o: /usr/vacpp/include/ansic_aix.h
+cdrom_ioctl_os2.o: /usr/include/ctype.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/xlocinfo.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/xlocinfo
+cdrom_ioctl_os2.o: /usr/vacpp/include/istream.t
+cdrom_ioctl_os2.o: /usr/vacpp/include/typeinfo
+cdrom_ioctl_os2.o: /usr/vacpp/include/xstring.t
+cdrom_ioctl_os2.o: /usr/vacpp/include/xutility.t
+cdrom_ioctl_os2.o: /usr/include/time.h
+cdrom_ioctl_os2.o: /usr/include/wchar.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/cwchar
+cdrom_ioctl_os2.o: /usr/vacpp/include/iosfwd
+cdrom_ioctl_os2.o: /usr/vacpp/include/utility
+cdrom_ioctl_os2.o: /usr/vacpp/include/new
+cdrom_ioctl_os2.o: /usr/vacpp/include/xmemory
+cdrom_ioctl_os2.o: /usr/include/stddef.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/stddef.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/cstddef
+cdrom_ioctl_os2.o: /usr/vacpp/include/xstddef
+cdrom_ioctl_os2.o: /usr/vacpp/include/exception
+cdrom_ioctl_os2.o: /usr/vacpp/include/stdexcept
+cdrom_ioctl_os2.o: /usr/vacpp/include/cstring
+cdrom_ioctl_os2.o: /usr/vacpp/include/xlocale
+cdrom_ioctl_os2.o: /usr/vacpp/include/streambuf
+cdrom_ioctl_os2.o: /usr/include/sys/localedef31.h
+cdrom_ioctl_os2.o: /usr/include/locale.h
+cdrom_ioctl_os2.o: /usr/include/sys/lc_core.h
+cdrom_ioctl_os2.o: /usr/include/sys/localedef.h
+cdrom_ioctl_os2.o: /usr/include/sys/m_signal.h
+cdrom_ioctl_os2.o: /usr/include/sys/mstsave.h
+cdrom_ioctl_os2.o: /usr/include/sys/m_param.h
+cdrom_ioctl_os2.o: /usr/include/sys/context.h
+cdrom_ioctl_os2.o: /usr/include/sys/signal.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/sys/signal.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/xiosbase
+cdrom_ioctl_os2.o: /usr/include/sys/time.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/xutility
+cdrom_ioctl_os2.o: /usr/vacpp/include/sys/time.h
+cdrom_ioctl_os2.o: /usr/include/sys/resource.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_cpuinfo.h
+cdrom_ioctl_os2.o: /usr/include/sys/wait.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/sys/wait.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/begin_code.h
+cdrom_ioctl_os2.o: /usr/include/stdlib.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/stdlib.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/cstdlib
+cdrom_ioctl_os2.o: /usr/include/va_list.h
+cdrom_ioctl_os2.o: /usr/include/stdio.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/stdio.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/locale.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/cstdio
+cdrom_ioctl_os2.o: /usr/include/float.h
+cdrom_ioctl_os2.o: /usr/include/sys/limits.h
+cdrom_ioctl_os2.o: /usr/include/limits.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/climits
+cdrom_ioctl_os2.o: /usr/vacpp/include/xstring
+cdrom_ioctl_os2.o: /usr/include/errno.h
+cdrom_ioctl_os2.o: /opt/doom/include/SDL/SDL_version.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/cerrno
+cdrom_ioctl_os2.o: /usr/vacpp/include/xlocnum
+cdrom_ioctl_os2.o: /usr/vacpp/include/ios
+cdrom_ioctl_os2.o: /usr/vacpp/include/ostream
+cdrom_ioctl_os2.o: /usr/vacpp/include/istream
+cdrom_ioctl_os2.o: /usr/vacpp/include/string
+cdrom_ioctl_os2.o: cdrom.h
+cdrom_ioctl_os2.o: ../../config.h
+cdrom_ioctl_os2.o: ../../include/logging.h
+cdrom_ioctl_os2.o: ../../include/dosbox.h
+cdrom_ioctl_os2.o: /usr/include/string.h
+cdrom_ioctl_os2.o: /usr/include/sys/vm_types.h
+cdrom_ioctl_os2.o: /usr/include/sys/m_types.h
+cdrom_ioctl_os2.o: /usr/include/sys/inttypes.h
+cdrom_ioctl_os2.o: /usr/include/sys/types.h
+cdrom_ioctl_os2.o: /usr/include/standards.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/yvals.h
+cdrom_ioctl_os2.o: /usr/vacpp/include/string.h
+cdrom_ioctl_os2.o: cdrom_ioctl_os2.cpp
+/opt/doom/include/SDL/SDL_sound.h:
+/opt/doom/include/SDL/SDL_timer.h:
+/opt/doom/include/SDL/SDL_loadso.h:
+/opt/doom/include/SDL/SDL_joystick.h:
+/opt/doom/include/SDL/SDL_video.h:
+/opt/doom/include/SDL/SDL_keysym.h:
+/opt/doom/include/SDL/SDL_keyboard.h:
+/opt/doom/include/SDL/SDL_active.h:
+/opt/doom/include/SDL/SDL_events.h:
+/opt/doom/include/SDL/SDL_cdrom.h:
+/opt/doom/include/SDL/SDL_rwops.h:
+/opt/doom/include/SDL/SDL_thread.h:
+/opt/doom/include/SDL/SDL_mutex.h:
+/opt/doom/include/SDL/SDL_endian.h:
+/opt/doom/include/SDL/SDL_error.h:
+/opt/doom/include/SDL/SDL_audio.h:
+/opt/doom/include/SDL/close_code.h:
+/usr/include/inttypes.h:
+/usr/include/strings.h:
+/usr/vacpp/include/strings.h:
+/usr/include/stdarg.h:
+/usr/vacpp/include/stdarg.h:
+/opt/doom/include/SDL/SDL_platform.h:
+/opt/doom/include/SDL/SDL_config.h:
+/opt/doom/include/SDL/SDL_main.h:
+/opt/doom/include/SDL/SDL_quit.h:
+/opt/doom/include/SDL/SDL.h:
+../../include/mixer.h:
+../../include/mem.h:
+/opt/doom/include/SDL/SDL_mouse.h:
+/opt/doom/include/SDL/SDL_stdinc.h:
+/usr/vacpp/include/sstream.t:
+/usr/vacpp/include/sstream:
+/usr/vacpp/include/fstream.t:
+/usr/vacpp/include/fstream:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/vacpp/include/vector:
+/usr/vacpp/include/iostream:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xstring.t:
+/usr/vacpp/include/xutility.t:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/new:
+/usr/vacpp/include/xmemory:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/xstddef:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/stdexcept:
+/usr/vacpp/include/cstring:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/sys/time.h:
+/usr/include/sys/resource.h:
+/opt/doom/include/SDL/SDL_cpuinfo.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/opt/doom/include/SDL/begin_code.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/cstdlib:
+/usr/include/va_list.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/vacpp/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/include/float.h:
+/usr/include/sys/limits.h:
+/usr/include/limits.h:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/xstring:
+/usr/include/errno.h:
+/opt/doom/include/SDL/SDL_version.h:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+cdrom.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/include/string.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/standards.h:
+/usr/vacpp/include/yvals.h:
+/usr/vacpp/include/string.h:
+cdrom_ioctl_os2.cpp:

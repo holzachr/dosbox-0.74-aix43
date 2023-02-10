@@ -1,0 +1,70 @@
+callback.o: ../../include/regs.h
+callback.o: ../../include/cpu.h
+callback.o: ../../include/mem.h
+callback.o: ../../include/callback.h
+callback.o: ../../config.h
+callback.o: ../../include/logging.h
+callback.o: ../../include/dosbox.h
+callback.o: /usr/include/string.h
+callback.o: /usr/vacpp/include/string.h
+callback.o: /usr/include/sys/localedef31.h
+callback.o: /usr/include/locale.h
+callback.o: /usr/vacpp/include/locale.h
+callback.o: /usr/include/sys/lc_core.h
+callback.o: /usr/include/float.h
+callback.o: /usr/include/sys/limits.h
+callback.o: /usr/include/sys/localedef.h
+callback.o: /usr/include/sys/m_signal.h
+callback.o: /usr/include/sys/mstsave.h
+callback.o: /usr/include/sys/m_param.h
+callback.o: /usr/include/sys/context.h
+callback.o: /usr/include/sys/signal.h
+callback.o: /usr/vacpp/include/sys/signal.h
+callback.o: /usr/include/sys/time.h
+callback.o: /usr/vacpp/include/sys/time.h
+callback.o: /usr/include/sys/resource.h
+callback.o: /usr/include/sys/vm_types.h
+callback.o: /usr/include/sys/m_types.h
+callback.o: /usr/include/sys/inttypes.h
+callback.o: /usr/include/sys/types.h
+callback.o: /usr/include/sys/wait.h
+callback.o: /usr/vacpp/include/sys/wait.h
+callback.o: /usr/include/stdlib.h
+callback.o: /usr/include/standards.h
+callback.o: /usr/vacpp/include/stdlib.h
+callback.o: callback.cpp
+../../include/regs.h:
+../../include/cpu.h:
+../../include/mem.h:
+../../include/callback.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/include/string.h:
+/usr/vacpp/include/string.h:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/vacpp/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/float.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/include/sys/time.h:
+/usr/vacpp/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/usr/include/stdlib.h:
+/usr/include/standards.h:
+/usr/vacpp/include/stdlib.h:
+callback.cpp:

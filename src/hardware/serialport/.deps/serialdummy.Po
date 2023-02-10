@@ -1,0 +1,274 @@
+serialdummy.o: ../../../include/programs.h
+serialdummy.o: ../../../include/mem.h
+serialdummy.o: /usr/include/sys/lockf.h
+serialdummy.o: /usr/vacpp/include/sys/lockf.h
+serialdummy.o: /usr/include/sys/access.h
+serialdummy.o: /usr/include/unistd.h
+serialdummy.o: /usr/vacpp/include/unistd.h
+serialdummy.o: /usr/include/sys/lkup.h
+serialdummy.o: /usr/include/sys/dir.h
+serialdummy.o: /usr/vacpp/include/sys/dir.h
+serialdummy.o: /usr/include/dirent.h
+serialdummy.o: /usr/include/sys/mode.h
+serialdummy.o: /usr/include/sys/stat.h
+serialdummy.o: ../../../include/dos_inc.h
+serialdummy.o: /opt/doom/include/SDL/SDL_timer.h
+serialdummy.o: /opt/doom/include/SDL/SDL_loadso.h
+serialdummy.o: /opt/doom/include/SDL/SDL_joystick.h
+serialdummy.o: /opt/doom/include/SDL/SDL_video.h
+serialdummy.o: /opt/doom/include/SDL/SDL_keysym.h
+serialdummy.o: /opt/doom/include/SDL/SDL_keyboard.h
+serialdummy.o: /opt/doom/include/SDL/SDL_active.h
+serialdummy.o: /opt/doom/include/SDL/SDL_events.h
+serialdummy.o: /opt/doom/include/SDL/SDL_cdrom.h
+serialdummy.o: ../../../include/support.h
+serialdummy.o: /opt/doom/include/SDL/SDL_rwops.h
+serialdummy.o: /opt/doom/include/SDL/SDL_thread.h
+serialdummy.o: ../../../include/cross.h
+serialdummy.o: /opt/doom/include/SDL/SDL_mutex.h
+serialdummy.o: /opt/doom/include/SDL/SDL_endian.h
+serialdummy.o: /opt/doom/include/SDL/SDL_error.h
+serialdummy.o: /usr/include/inttypes.h
+serialdummy.o: /usr/include/strings.h
+serialdummy.o: /usr/vacpp/include/strings.h
+serialdummy.o: /usr/include/stdarg.h
+serialdummy.o: /usr/vacpp/include/stdarg.h
+serialdummy.o: /opt/doom/include/SDL/SDL_platform.h
+serialdummy.o: /opt/doom/include/SDL/SDL_config.h
+serialdummy.o: /opt/doom/include/SDL/SDL_mouse.h
+serialdummy.o: /opt/doom/include/SDL/SDL_stdinc.h
+serialdummy.o: /opt/doom/include/SDL/SDL_main.h
+serialdummy.o: /opt/doom/include/SDL/SDL_quit.h
+serialdummy.o: /opt/doom/include/SDL/SDL.h
+serialdummy.o: ../../../include/timer.h
+serialdummy.o: /opt/doom/include/SDL/close_code.h
+serialdummy.o: ../../../include/inout.h
+serialdummy.o: ../../../include/serialport.h
+serialdummy.o: serialdummy.h
+serialdummy.o: /usr/vacpp/include/string.t
+serialdummy.o: /usr/vacpp/include/ostream.t
+serialdummy.o: /usr/vacpp/include/xlocinfo.t
+serialdummy.o: /usr/vacpp/include/ansic_aix.h
+serialdummy.o: /usr/include/ctype.h
+serialdummy.o: /usr/vacpp/include/xlocinfo.h
+serialdummy.o: /usr/vacpp/include/xlocinfo
+serialdummy.o: /usr/vacpp/include/istream.t
+serialdummy.o: /usr/vacpp/include/typeinfo
+serialdummy.o: /usr/vacpp/include/xlocale
+serialdummy.o: /usr/vacpp/include/streambuf
+serialdummy.o: /usr/vacpp/include/climits
+serialdummy.o: /opt/doom/include/SDL/SDL_version.h
+serialdummy.o: /usr/vacpp/include/cerrno
+serialdummy.o: /usr/vacpp/include/xlocnum
+serialdummy.o: /usr/vacpp/include/ios
+serialdummy.o: /usr/vacpp/include/ostream
+serialdummy.o: /usr/vacpp/include/istream
+serialdummy.o: /usr/vacpp/include/string
+serialdummy.o: /usr/vacpp/include/vector.t
+serialdummy.o: /usr/vacpp/include/vector
+serialdummy.o: /usr/vacpp/include/list.t
+serialdummy.o: /usr/vacpp/include/xstring.t
+serialdummy.o: /usr/include/errno.h
+serialdummy.o: /usr/vacpp/include/xstring
+serialdummy.o: /usr/vacpp/include/stdexcept
+serialdummy.o: /usr/vacpp/include/memory.t
+serialdummy.o: /usr/vacpp/include/exception
+serialdummy.o: /usr/vacpp/include/new
+serialdummy.o: /usr/include/sys/localedef31.h
+serialdummy.o: /usr/include/locale.h
+serialdummy.o: /usr/include/sys/lc_core.h
+serialdummy.o: /usr/include/sys/localedef.h
+serialdummy.o: /usr/include/sys/m_signal.h
+serialdummy.o: /usr/include/sys/mstsave.h
+serialdummy.o: /usr/include/sys/m_param.h
+serialdummy.o: /usr/include/sys/context.h
+serialdummy.o: /usr/include/sys/signal.h
+serialdummy.o: /usr/vacpp/include/sys/signal.h
+serialdummy.o: /usr/vacpp/include/xiosbase
+serialdummy.o: /usr/include/sys/time.h
+serialdummy.o: /usr/include/sys/resource.h
+serialdummy.o: /opt/doom/include/SDL/SDL_cpuinfo.h
+serialdummy.o: /usr/include/sys/wait.h
+serialdummy.o: /usr/vacpp/include/sys/wait.h
+serialdummy.o: /opt/doom/include/SDL/begin_code.h
+serialdummy.o: /usr/include/stdlib.h
+serialdummy.o: /usr/vacpp/include/stdlib.h
+serialdummy.o: /usr/vacpp/include/cstdlib
+serialdummy.o: /usr/vacpp/include/xmemory
+serialdummy.o: /usr/vacpp/include/xutility.t
+serialdummy.o: /usr/include/time.h
+serialdummy.o: /usr/include/wchar.h
+serialdummy.o: /usr/vacpp/include/cwchar
+serialdummy.o: /usr/include/string.h
+serialdummy.o: /usr/vacpp/include/cstring
+serialdummy.o: /usr/include/float.h
+serialdummy.o: /usr/include/limits.h
+serialdummy.o: /usr/include/sys/limits.h
+serialdummy.o: /usr/include/sys/vm_types.h
+serialdummy.o: /usr/include/sys/m_types.h
+serialdummy.o: /usr/include/sys/inttypes.h
+serialdummy.o: /usr/include/sys/types.h
+serialdummy.o: ../../../include/dos_system.h
+serialdummy.o: /usr/include/va_list.h
+serialdummy.o: /usr/include/stdio.h
+serialdummy.o: /usr/vacpp/include/stdio.h
+serialdummy.o: /usr/vacpp/include/locale.h
+serialdummy.o: /usr/vacpp/include/cstdio
+serialdummy.o: /usr/vacpp/include/iosfwd
+serialdummy.o: /usr/vacpp/include/utility
+serialdummy.o: /usr/vacpp/include/sys/time.h
+serialdummy.o: /usr/vacpp/include/xutility
+serialdummy.o: /usr/vacpp/include/iterator
+serialdummy.o: /usr/vacpp/include/memory
+serialdummy.o: /usr/include/standards.h
+serialdummy.o: /usr/include/stddef.h
+serialdummy.o: /usr/vacpp/include/stddef.h
+serialdummy.o: /usr/vacpp/include/cstddef
+serialdummy.o: /usr/vacpp/include/string.h
+serialdummy.o: /usr/vacpp/include/yvals.h
+serialdummy.o: /usr/vacpp/include/xstddef
+serialdummy.o: /usr/vacpp/include/functional
+serialdummy.o: /opt/doom/include/SDL/SDL_audio.h
+serialdummy.o: /usr/vacpp/include/list
+serialdummy.o: ../../../include/setup.h
+serialdummy.o: ../../../config.h
+serialdummy.o: ../../../include/logging.h
+serialdummy.o: ../../../include/dosbox.h
+serialdummy.o: serialdummy.cpp
+../../../include/programs.h:
+../../../include/mem.h:
+/usr/include/sys/lockf.h:
+/usr/vacpp/include/sys/lockf.h:
+/usr/include/sys/access.h:
+/usr/include/unistd.h:
+/usr/vacpp/include/unistd.h:
+/usr/include/sys/lkup.h:
+/usr/include/sys/dir.h:
+/usr/vacpp/include/sys/dir.h:
+/usr/include/dirent.h:
+/usr/include/sys/mode.h:
+/usr/include/sys/stat.h:
+../../../include/dos_inc.h:
+/opt/doom/include/SDL/SDL_timer.h:
+/opt/doom/include/SDL/SDL_loadso.h:
+/opt/doom/include/SDL/SDL_joystick.h:
+/opt/doom/include/SDL/SDL_video.h:
+/opt/doom/include/SDL/SDL_keysym.h:
+/opt/doom/include/SDL/SDL_keyboard.h:
+/opt/doom/include/SDL/SDL_active.h:
+/opt/doom/include/SDL/SDL_events.h:
+/opt/doom/include/SDL/SDL_cdrom.h:
+../../../include/support.h:
+/opt/doom/include/SDL/SDL_rwops.h:
+/opt/doom/include/SDL/SDL_thread.h:
+../../../include/cross.h:
+/opt/doom/include/SDL/SDL_mutex.h:
+/opt/doom/include/SDL/SDL_endian.h:
+/opt/doom/include/SDL/SDL_error.h:
+/usr/include/inttypes.h:
+/usr/include/strings.h:
+/usr/vacpp/include/strings.h:
+/usr/include/stdarg.h:
+/usr/vacpp/include/stdarg.h:
+/opt/doom/include/SDL/SDL_platform.h:
+/opt/doom/include/SDL/SDL_config.h:
+/opt/doom/include/SDL/SDL_mouse.h:
+/opt/doom/include/SDL/SDL_stdinc.h:
+/opt/doom/include/SDL/SDL_main.h:
+/opt/doom/include/SDL/SDL_quit.h:
+/opt/doom/include/SDL/SDL.h:
+../../../include/timer.h:
+/opt/doom/include/SDL/close_code.h:
+../../../include/inout.h:
+../../../include/serialport.h:
+serialdummy.h:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+/opt/doom/include/SDL/SDL_version.h:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/vector:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/xstring.t:
+/usr/include/errno.h:
+/usr/vacpp/include/xstring:
+/usr/vacpp/include/stdexcept:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/new:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/include/sys/resource.h:
+/opt/doom/include/SDL/SDL_cpuinfo.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/opt/doom/include/SDL/begin_code.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/include/string.h:
+/usr/vacpp/include/cstring:
+/usr/include/float.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+../../../include/dos_system.h:
+/usr/include/va_list.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/vacpp/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/include/standards.h:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/string.h:
+/usr/vacpp/include/yvals.h:
+/usr/vacpp/include/xstddef:
+/usr/vacpp/include/functional:
+/opt/doom/include/SDL/SDL_audio.h:
+/usr/vacpp/include/list:
+../../../include/setup.h:
+../../../config.h:
+../../../include/logging.h:
+../../../include/dosbox.h:
+serialdummy.cpp:

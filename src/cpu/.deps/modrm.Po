@@ -1,0 +1,14 @@
+modrm.o: ../../include/mem.h
+modrm.o: ../../include/regs.h
+modrm.o: ../../config.h
+modrm.o: ../../include/logging.h
+modrm.o: ../../include/dosbox.h
+modrm.o: ../../include/cpu.h
+modrm.o: modrm.cpp
+../../include/mem.h:
+../../include/regs.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+../../include/cpu.h:
+modrm.cpp:

@@ -1,0 +1,66 @@
+core_normal.o: core_normal/prefix_66_0f.h
+core_normal.o: core_normal/prefix_66.h
+core_normal.o: core_normal/prefix_0f.h
+core_normal.o: core_normal/prefix_none.h
+core_normal.o: core_normal/string.h
+core_normal.o: core_normal/../modrm.h
+core_normal.o: core_normal/table_ea.h
+core_normal.o: core_normal/helpers.h
+core_normal.o: core_normal/support.h
+core_normal.o: instructions.h
+core_normal.o: ../../include/paging.h
+core_normal.o: ../../include/fpu.h
+core_normal.o: ../../include/callback.h
+core_normal.o: ../../include/inout.h
+core_normal.o: lazyflags.h
+core_normal.o: ../../include/regs.h
+core_normal.o: ../../include/cpu.h
+core_normal.o: ../../include/mem.h
+core_normal.o: ../../config.h
+core_normal.o: ../../include/logging.h
+core_normal.o: ../../include/dosbox.h
+core_normal.o: /usr/include/float.h
+core_normal.o: ../../include/pic.h
+core_normal.o: /usr/include/sys/limits.h
+core_normal.o: /usr/include/sys/vm_types.h
+core_normal.o: /usr/include/sys/m_types.h
+core_normal.o: /usr/include/sys/inttypes.h
+core_normal.o: /usr/include/sys/types.h
+core_normal.o: /usr/include/va_list.h
+core_normal.o: /usr/include/standards.h
+core_normal.o: /usr/include/stdio.h
+core_normal.o: /usr/vacpp/include/stdio.h
+core_normal.o: core_normal.cpp
+core_normal/prefix_66_0f.h:
+core_normal/prefix_66.h:
+core_normal/prefix_0f.h:
+core_normal/prefix_none.h:
+core_normal/string.h:
+core_normal/../modrm.h:
+core_normal/table_ea.h:
+core_normal/helpers.h:
+core_normal/support.h:
+instructions.h:
+../../include/paging.h:
+../../include/fpu.h:
+../../include/callback.h:
+../../include/inout.h:
+lazyflags.h:
+../../include/regs.h:
+../../include/cpu.h:
+../../include/mem.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/include/float.h:
+../../include/pic.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/va_list.h:
+/usr/include/standards.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+core_normal.cpp:

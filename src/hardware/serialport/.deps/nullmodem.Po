@@ -1,0 +1,294 @@
+nullmodem.o: /opt/doom/include/SDL/SDL_net.h
+nullmodem.o: /usr/include/net/nh.h
+nullmodem.o: /usr/include/netinet/in.h
+nullmodem.o: /usr/include/sys/xmem.h
+nullmodem.o: /usr/include/sys/uio.h
+nullmodem.o: /usr/include/sys/socket.h
+nullmodem.o: /usr/vacpp/include/sys/socket.h
+nullmodem.o: nullmodem.h
+nullmodem.o: /opt/doom/include/SDL/SDL_timer.h
+nullmodem.o: /opt/doom/include/SDL/SDL_loadso.h
+nullmodem.o: /opt/doom/include/SDL/SDL_joystick.h
+nullmodem.o: /opt/doom/include/SDL/SDL_video.h
+nullmodem.o: /opt/doom/include/SDL/SDL_keysym.h
+nullmodem.o: /opt/doom/include/SDL/SDL_keyboard.h
+nullmodem.o: /opt/doom/include/SDL/SDL_active.h
+nullmodem.o: /opt/doom/include/SDL/SDL_events.h
+nullmodem.o: /opt/doom/include/SDL/SDL_cdrom.h
+nullmodem.o: /opt/doom/include/SDL/SDL_thread.h
+nullmodem.o: /opt/doom/include/SDL/SDL_endian.h
+nullmodem.o: /opt/doom/include/SDL/SDL_error.h
+nullmodem.o: /usr/include/inttypes.h
+nullmodem.o: /usr/include/stdarg.h
+nullmodem.o: /usr/vacpp/include/stdarg.h
+nullmodem.o: /opt/doom/include/SDL/SDL_platform.h
+nullmodem.o: /opt/doom/include/SDL/SDL_config.h
+nullmodem.o: /opt/doom/include/SDL/SDL_mouse.h
+nullmodem.o: /opt/doom/include/SDL/SDL_stdinc.h
+nullmodem.o: /opt/doom/include/SDL/SDL_main.h
+nullmodem.o: /opt/doom/include/SDL/SDL_quit.h
+nullmodem.o: /opt/doom/include/SDL/SDL.h
+nullmodem.o: ../../../include/timer.h
+nullmodem.o: /opt/doom/include/SDL/close_code.h
+nullmodem.o: ../../../include/inout.h
+nullmodem.o: ../../../include/serialport.h
+nullmodem.o: ../../../include/setup.h
+nullmodem.o: /usr/vacpp/include/list.t
+nullmodem.o: /usr/vacpp/include/functional
+nullmodem.o: /opt/doom/include/SDL/SDL_audio.h
+nullmodem.o: /usr/vacpp/include/list
+nullmodem.o: ../../../include/mem.h
+nullmodem.o: /usr/include/strings.h
+nullmodem.o: misc_util.h
+nullmodem.o: /usr/vacpp/include/strings.h
+nullmodem.o: /opt/doom/include/SDL/SDL_rwops.h
+nullmodem.o: ../../../include/support.h
+nullmodem.o: /usr/include/sys/lockf.h
+nullmodem.o: /usr/vacpp/include/sys/lockf.h
+nullmodem.o: /usr/include/sys/access.h
+nullmodem.o: /usr/include/unistd.h
+nullmodem.o: /usr/vacpp/include/unistd.h
+nullmodem.o: /usr/include/sys/lkup.h
+nullmodem.o: /usr/include/sys/dir.h
+nullmodem.o: /usr/vacpp/include/sys/dir.h
+nullmodem.o: /usr/include/dirent.h
+nullmodem.o: /usr/vacpp/include/string.t
+nullmodem.o: /usr/vacpp/include/ostream.t
+nullmodem.o: /usr/vacpp/include/xlocinfo.t
+nullmodem.o: /usr/vacpp/include/ansic_aix.h
+nullmodem.o: /usr/include/ctype.h
+nullmodem.o: /usr/vacpp/include/xlocinfo.h
+nullmodem.o: /usr/vacpp/include/xlocinfo
+nullmodem.o: /usr/include/sys/machine.h
+nullmodem.o: /usr/vacpp/include/istream.t
+nullmodem.o: /usr/vacpp/include/typeinfo
+nullmodem.o: /usr/vacpp/include/xlocale
+nullmodem.o: /usr/vacpp/include/streambuf
+nullmodem.o: /usr/vacpp/include/climits
+nullmodem.o: /opt/doom/include/SDL/SDL_version.h
+nullmodem.o: /usr/vacpp/include/cerrno
+nullmodem.o: /usr/vacpp/include/xlocnum
+nullmodem.o: /usr/vacpp/include/ios
+nullmodem.o: /usr/vacpp/include/ostream
+nullmodem.o: /usr/vacpp/include/istream
+nullmodem.o: /usr/vacpp/include/string
+nullmodem.o: /usr/include/sys/mode.h
+nullmodem.o: /usr/include/sys/stat.h
+nullmodem.o: /opt/doom/include/SDL/SDL_mutex.h
+nullmodem.o: ../../../include/cross.h
+nullmodem.o: /usr/vacpp/include/vector.t
+nullmodem.o: /usr/vacpp/include/xstring.t
+nullmodem.o: /usr/include/errno.h
+nullmodem.o: /usr/vacpp/include/xstring
+nullmodem.o: /usr/vacpp/include/stdexcept
+nullmodem.o: /usr/vacpp/include/memory.t
+nullmodem.o: /usr/vacpp/include/exception
+nullmodem.o: /usr/vacpp/include/new
+nullmodem.o: /usr/include/sys/localedef31.h
+nullmodem.o: /usr/include/sys/lc_core.h
+nullmodem.o: /usr/include/sys/localedef.h
+nullmodem.o: /usr/include/sys/m_signal.h
+nullmodem.o: /usr/include/sys/mstsave.h
+nullmodem.o: /usr/include/sys/m_param.h
+nullmodem.o: /usr/include/sys/context.h
+nullmodem.o: /usr/include/sys/signal.h
+nullmodem.o: /usr/vacpp/include/sys/signal.h
+nullmodem.o: /usr/vacpp/include/xiosbase
+nullmodem.o: /usr/include/sys/time.h
+nullmodem.o: /usr/include/sys/resource.h
+nullmodem.o: /opt/doom/include/SDL/SDL_cpuinfo.h
+nullmodem.o: /usr/include/sys/wait.h
+nullmodem.o: /usr/vacpp/include/sys/wait.h
+nullmodem.o: /opt/doom/include/SDL/begin_code.h
+nullmodem.o: /usr/include/stdlib.h
+nullmodem.o: /usr/vacpp/include/stdlib.h
+nullmodem.o: /usr/vacpp/include/cstdlib
+nullmodem.o: /usr/vacpp/include/xmemory
+nullmodem.o: /usr/vacpp/include/xutility.t
+nullmodem.o: /usr/vacpp/include/cstddef
+nullmodem.o: /usr/vacpp/include/xstddef
+nullmodem.o: /usr/include/stddef.h
+nullmodem.o: /usr/vacpp/include/stddef.h
+nullmodem.o: /usr/include/time.h
+nullmodem.o: /usr/include/wchar.h
+nullmodem.o: /usr/vacpp/include/cwchar
+nullmodem.o: /usr/include/string.h
+nullmodem.o: /usr/vacpp/include/cstring
+nullmodem.o: /usr/vacpp/include/string.h
+nullmodem.o: /usr/vacpp/include/yvals.h
+nullmodem.o: /usr/include/float.h
+nullmodem.o: /usr/include/limits.h
+nullmodem.o: /usr/include/sys/limits.h
+nullmodem.o: /usr/include/sys/vm_types.h
+nullmodem.o: /usr/include/sys/m_types.h
+nullmodem.o: /usr/include/sys/inttypes.h
+nullmodem.o: /usr/include/sys/types.h
+nullmodem.o: /usr/include/standards.h
+nullmodem.o: /usr/include/stdio.h
+nullmodem.o: /usr/vacpp/include/stdio.h
+nullmodem.o: /usr/vacpp/include/locale.h
+nullmodem.o: /usr/vacpp/include/cstdio
+nullmodem.o: /usr/vacpp/include/iosfwd
+nullmodem.o: /usr/vacpp/include/utility
+nullmodem.o: /usr/vacpp/include/sys/time.h
+nullmodem.o: /usr/vacpp/include/xutility
+nullmodem.o: /usr/vacpp/include/iterator
+nullmodem.o: /usr/vacpp/include/memory
+nullmodem.o: /usr/vacpp/include/vector
+nullmodem.o: /usr/include/va_list.h
+nullmodem.o: ../../../include/dos_system.h
+nullmodem.o: ../../../include/dos_inc.h
+nullmodem.o: ../../../include/programs.h
+nullmodem.o: ../../../include/control.h
+nullmodem.o: ../../../config.h
+nullmodem.o: ../../../include/logging.h
+nullmodem.o: ../../../include/dosbox.h
+nullmodem.o: /usr/include/locale.h
+nullmodem.o: nullmodem.cpp
+/opt/doom/include/SDL/SDL_net.h:
+/usr/include/net/nh.h:
+/usr/include/netinet/in.h:
+/usr/include/sys/xmem.h:
+/usr/include/sys/uio.h:
+/usr/include/sys/socket.h:
+/usr/vacpp/include/sys/socket.h:
+nullmodem.h:
+/opt/doom/include/SDL/SDL_timer.h:
+/opt/doom/include/SDL/SDL_loadso.h:
+/opt/doom/include/SDL/SDL_joystick.h:
+/opt/doom/include/SDL/SDL_video.h:
+/opt/doom/include/SDL/SDL_keysym.h:
+/opt/doom/include/SDL/SDL_keyboard.h:
+/opt/doom/include/SDL/SDL_active.h:
+/opt/doom/include/SDL/SDL_events.h:
+/opt/doom/include/SDL/SDL_cdrom.h:
+/opt/doom/include/SDL/SDL_thread.h:
+/opt/doom/include/SDL/SDL_endian.h:
+/opt/doom/include/SDL/SDL_error.h:
+/usr/include/inttypes.h:
+/usr/include/stdarg.h:
+/usr/vacpp/include/stdarg.h:
+/opt/doom/include/SDL/SDL_platform.h:
+/opt/doom/include/SDL/SDL_config.h:
+/opt/doom/include/SDL/SDL_mouse.h:
+/opt/doom/include/SDL/SDL_stdinc.h:
+/opt/doom/include/SDL/SDL_main.h:
+/opt/doom/include/SDL/SDL_quit.h:
+/opt/doom/include/SDL/SDL.h:
+../../../include/timer.h:
+/opt/doom/include/SDL/close_code.h:
+../../../include/inout.h:
+../../../include/serialport.h:
+../../../include/setup.h:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/functional:
+/opt/doom/include/SDL/SDL_audio.h:
+/usr/vacpp/include/list:
+../../../include/mem.h:
+/usr/include/strings.h:
+misc_util.h:
+/usr/vacpp/include/strings.h:
+/opt/doom/include/SDL/SDL_rwops.h:
+../../../include/support.h:
+/usr/include/sys/lockf.h:
+/usr/vacpp/include/sys/lockf.h:
+/usr/include/sys/access.h:
+/usr/include/unistd.h:
+/usr/vacpp/include/unistd.h:
+/usr/include/sys/lkup.h:
+/usr/include/sys/dir.h:
+/usr/vacpp/include/sys/dir.h:
+/usr/include/dirent.h:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/include/sys/machine.h:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+/opt/doom/include/SDL/SDL_version.h:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+/usr/include/sys/mode.h:
+/usr/include/sys/stat.h:
+/opt/doom/include/SDL/SDL_mutex.h:
+../../../include/cross.h:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/xstring.t:
+/usr/include/errno.h:
+/usr/vacpp/include/xstring:
+/usr/vacpp/include/stdexcept:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/new:
+/usr/include/sys/localedef31.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/include/sys/resource.h:
+/opt/doom/include/SDL/SDL_cpuinfo.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/opt/doom/include/SDL/begin_code.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/xstddef:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/include/string.h:
+/usr/vacpp/include/cstring:
+/usr/vacpp/include/string.h:
+/usr/vacpp/include/yvals.h:
+/usr/include/float.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/standards.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/vacpp/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/vacpp/include/vector:
+/usr/include/va_list.h:
+../../../include/dos_system.h:
+../../../include/dos_inc.h:
+../../../include/programs.h:
+../../../include/control.h:
+../../../config.h:
+../../../include/logging.h:
+../../../include/dosbox.h:
+/usr/include/locale.h:
+nullmodem.cpp:

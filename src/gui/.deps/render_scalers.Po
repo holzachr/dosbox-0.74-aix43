@@ -1,0 +1,82 @@
+render_scalers.o: render_templates_sai.h
+render_scalers.o: render_templates_hq3x.h
+render_scalers.o: render_templates_hq2x.h
+render_scalers.o: /usr/include/sys/localedef31.h
+render_scalers.o: /usr/include/locale.h
+render_scalers.o: /usr/vacpp/include/locale.h
+render_scalers.o: /usr/include/sys/lc_core.h
+render_scalers.o: /usr/include/float.h
+render_scalers.o: /usr/include/sys/limits.h
+render_scalers.o: /usr/include/sys/localedef.h
+render_scalers.o: /usr/include/sys/m_signal.h
+render_scalers.o: /usr/include/sys/mstsave.h
+render_scalers.o: /usr/include/sys/m_param.h
+render_scalers.o: /usr/include/sys/context.h
+render_scalers.o: /usr/include/sys/signal.h
+render_scalers.o: /usr/vacpp/include/sys/signal.h
+render_scalers.o: /usr/include/sys/time.h
+render_scalers.o: /usr/vacpp/include/sys/time.h
+render_scalers.o: /usr/include/sys/resource.h
+render_scalers.o: /usr/include/sys/wait.h
+render_scalers.o: /usr/vacpp/include/sys/wait.h
+render_scalers.o: /usr/include/stdlib.h
+render_scalers.o: /usr/vacpp/include/stdlib.h
+render_scalers.o: render_templates_hq.h
+render_scalers.o: render_loops.h
+render_scalers.o: render_simple.h
+render_scalers.o: render_templates.h
+render_scalers.o: /usr/include/string.h
+render_scalers.o: /usr/include/sys/vm_types.h
+render_scalers.o: /usr/include/sys/m_types.h
+render_scalers.o: /usr/include/sys/inttypes.h
+render_scalers.o: /usr/include/sys/types.h
+render_scalers.o: /usr/include/standards.h
+render_scalers.o: /usr/vacpp/include/string.h
+render_scalers.o: ../../include/video.h
+render_scalers.o: ../../include/../src/gui/render_scalers.h
+render_scalers.o: ../../include/render.h
+render_scalers.o: ../../config.h
+render_scalers.o: ../../include/logging.h
+render_scalers.o: ../../include/dosbox.h
+render_scalers.o: render_scalers.cpp
+render_templates_sai.h:
+render_templates_hq3x.h:
+render_templates_hq2x.h:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/vacpp/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/float.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/include/sys/time.h:
+/usr/vacpp/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+render_templates_hq.h:
+render_loops.h:
+render_simple.h:
+render_templates.h:
+/usr/include/string.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/standards.h:
+/usr/vacpp/include/string.h:
+../../include/video.h:
+../../include/../src/gui/render_scalers.h:
+../../include/render.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+render_scalers.cpp:

@@ -1,0 +1,228 @@
+render.o: ../../include/hardware.h
+render.o: ../../include/mapper.h
+render.o: ../../include/mem.h
+render.o: /usr/include/strings.h
+render.o: /usr/vacpp/include/strings.h
+render.o: ../../include/support.h
+render.o: /usr/include/sys/lockf.h
+render.o: /usr/vacpp/include/sys/lockf.h
+render.o: /usr/include/sys/access.h
+render.o: /usr/include/unistd.h
+render.o: /usr/vacpp/include/unistd.h
+render.o: /usr/include/sys/lkup.h
+render.o: /usr/include/sys/dir.h
+render.o: /usr/vacpp/include/sys/dir.h
+render.o: /usr/include/dirent.h
+render.o: /usr/include/sys/mode.h
+render.o: /usr/include/sys/stat.h
+render.o: ../../include/cross.h
+render.o: ../../include/dos_inc.h
+render.o: ../../include/programs.h
+render.o: ../../include/control.h
+render.o: /usr/vacpp/include/string.t
+render.o: /usr/vacpp/include/ostream.t
+render.o: /usr/vacpp/include/xlocinfo.t
+render.o: /usr/vacpp/include/ansic_aix.h
+render.o: /usr/include/ctype.h
+render.o: /usr/vacpp/include/xlocinfo.h
+render.o: /usr/vacpp/include/xlocinfo
+render.o: /usr/vacpp/include/istream.t
+render.o: /usr/vacpp/include/typeinfo
+render.o: /usr/vacpp/include/xlocale
+render.o: /usr/vacpp/include/streambuf
+render.o: /usr/vacpp/include/climits
+render.o: /usr/vacpp/include/cerrno
+render.o: /usr/vacpp/include/xlocnum
+render.o: /usr/vacpp/include/ios
+render.o: /usr/vacpp/include/ostream
+render.o: /usr/vacpp/include/istream
+render.o: /usr/vacpp/include/string
+render.o: /usr/vacpp/include/vector.t
+render.o: /usr/vacpp/include/vector
+render.o: /usr/vacpp/include/list.t
+render.o: /usr/vacpp/include/xstring.t
+render.o: /usr/vacpp/include/stdexcept
+render.o: /usr/vacpp/include/memory.t
+render.o: /usr/vacpp/include/exception
+render.o: /usr/vacpp/include/new
+render.o: /usr/vacpp/include/cstdlib
+render.o: /usr/vacpp/include/xmemory
+render.o: /usr/vacpp/include/xutility.t
+render.o: /usr/include/time.h
+render.o: /usr/include/wchar.h
+render.o: /usr/vacpp/include/cwchar
+render.o: /usr/include/string.h
+render.o: /usr/vacpp/include/cstring
+render.o: ../../include/dos_system.h
+render.o: /usr/include/va_list.h
+render.o: /usr/include/stdio.h
+render.o: /usr/vacpp/include/stdio.h
+render.o: /usr/vacpp/include/iosfwd
+render.o: /usr/vacpp/include/utility
+render.o: /usr/vacpp/include/iterator
+render.o: /usr/vacpp/include/memory
+render.o: /usr/include/stddef.h
+render.o: /usr/vacpp/include/stddef.h
+render.o: /usr/vacpp/include/cstddef
+render.o: /usr/vacpp/include/string.h
+render.o: /usr/vacpp/include/yvals.h
+render.o: /usr/vacpp/include/xstddef
+render.o: /usr/vacpp/include/functional
+render.o: /usr/vacpp/include/list
+render.o: ../../include/setup.h
+render.o: ../../include/../src/gui/render_scalers.h
+render.o: render_scalers.h
+render.o: ../../include/render.h
+render.o: ../../include/video.h
+render.o: ../../config.h
+render.o: ../../include/logging.h
+render.o: ../../include/dosbox.h
+render.o: /usr/include/sys/localedef31.h
+render.o: /usr/include/locale.h
+render.o: /usr/vacpp/include/cstdio
+render.o: /usr/vacpp/include/locale.h
+render.o: /usr/include/sys/lc_core.h
+render.o: /usr/include/sys/localedef.h
+render.o: /usr/include/sys/m_signal.h
+render.o: /usr/include/sys/mstsave.h
+render.o: /usr/include/sys/m_param.h
+render.o: /usr/include/sys/context.h
+render.o: /usr/include/sys/signal.h
+render.o: /usr/vacpp/include/sys/signal.h
+render.o: /usr/vacpp/include/xiosbase
+render.o: /usr/include/sys/time.h
+render.o: /usr/vacpp/include/xutility
+render.o: /usr/vacpp/include/sys/time.h
+render.o: /usr/include/sys/resource.h
+render.o: /usr/include/sys/wait.h
+render.o: /usr/vacpp/include/sys/wait.h
+render.o: /usr/include/stdlib.h
+render.o: /usr/vacpp/include/stdlib.h
+render.o: /usr/include/math.h
+render.o: /usr/vacpp/include/xstring
+render.o: /usr/include/errno.h
+render.o: /usr/include/limits.h
+render.o: /usr/include/sys/limits.h
+render.o: /usr/include/float.h
+render.o: /usr/vacpp/include/math.h
+render.o: /usr/vacpp/include/assert.h
+render.o: /usr/include/sys/vm_types.h
+render.o: /usr/include/sys/m_types.h
+render.o: /usr/include/sys/inttypes.h
+render.o: /usr/include/standards.h
+render.o: /usr/include/sys/types.h
+render.o: render.cpp
+../../include/hardware.h:
+../../include/mapper.h:
+../../include/mem.h:
+/usr/include/strings.h:
+/usr/vacpp/include/strings.h:
+../../include/support.h:
+/usr/include/sys/lockf.h:
+/usr/vacpp/include/sys/lockf.h:
+/usr/include/sys/access.h:
+/usr/include/unistd.h:
+/usr/vacpp/include/unistd.h:
+/usr/include/sys/lkup.h:
+/usr/include/sys/dir.h:
+/usr/vacpp/include/sys/dir.h:
+/usr/include/dirent.h:
+/usr/include/sys/mode.h:
+/usr/include/sys/stat.h:
+../../include/cross.h:
+../../include/dos_inc.h:
+../../include/programs.h:
+../../include/control.h:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/vector:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/xstring.t:
+/usr/vacpp/include/stdexcept:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/new:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/include/string.h:
+/usr/vacpp/include/cstring:
+../../include/dos_system.h:
+/usr/include/va_list.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/string.h:
+/usr/vacpp/include/yvals.h:
+/usr/vacpp/include/xstddef:
+/usr/vacpp/include/functional:
+/usr/vacpp/include/list:
+../../include/setup.h:
+../../include/../src/gui/render_scalers.h:
+render_scalers.h:
+../../include/render.h:
+../../include/video.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/include/math.h:
+/usr/vacpp/include/xstring:
+/usr/include/errno.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+/usr/include/float.h:
+/usr/vacpp/include/math.h:
+/usr/vacpp/include/assert.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/standards.h:
+/usr/include/sys/types.h:
+render.cpp:

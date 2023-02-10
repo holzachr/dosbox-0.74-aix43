@@ -1,0 +1,12 @@
+vga_seq.o: ../../include/vga.h
+vga_seq.o: ../../include/inout.h
+vga_seq.o: ../../config.h
+vga_seq.o: ../../include/logging.h
+vga_seq.o: ../../include/dosbox.h
+vga_seq.o: vga_seq.cpp
+../../include/vga.h:
+../../include/inout.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+vga_seq.cpp:

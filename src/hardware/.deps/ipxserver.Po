@@ -1,0 +1,146 @@
+ipxserver.o: ../../include/mem.h
+ipxserver.o: ../../include/ipx.h
+ipxserver.o: ../../include/timer.h
+ipxserver.o: /opt/doom/include/SDL/SDL_version.h
+ipxserver.o: /opt/doom/include/SDL/SDL_timer.h
+ipxserver.o: /opt/doom/include/SDL/SDL_loadso.h
+ipxserver.o: /opt/doom/include/SDL/SDL_joystick.h
+ipxserver.o: /opt/doom/include/SDL/SDL_video.h
+ipxserver.o: /opt/doom/include/SDL/SDL_keysym.h
+ipxserver.o: /opt/doom/include/SDL/SDL_keyboard.h
+ipxserver.o: /opt/doom/include/SDL/SDL_active.h
+ipxserver.o: /opt/doom/include/SDL/SDL_events.h
+ipxserver.o: /opt/doom/include/SDL/SDL_cdrom.h
+ipxserver.o: /opt/doom/include/SDL/SDL_rwops.h
+ipxserver.o: /opt/doom/include/SDL/SDL_thread.h
+ipxserver.o: /opt/doom/include/SDL/SDL_mutex.h
+ipxserver.o: /opt/doom/include/SDL/SDL_endian.h
+ipxserver.o: /opt/doom/include/SDL/SDL_error.h
+ipxserver.o: /opt/doom/include/SDL/SDL_audio.h
+ipxserver.o: /opt/doom/include/SDL/close_code.h
+ipxserver.o: /usr/include/ctype.h
+ipxserver.o: /usr/include/inttypes.h
+ipxserver.o: /usr/include/strings.h
+ipxserver.o: /usr/vacpp/include/strings.h
+ipxserver.o: /usr/include/string.h
+ipxserver.o: /usr/vacpp/include/string.h
+ipxserver.o: /usr/include/stdarg.h
+ipxserver.o: /usr/vacpp/include/stdarg.h
+ipxserver.o: /usr/include/stddef.h
+ipxserver.o: /usr/vacpp/include/stddef.h
+ipxserver.o: /usr/include/sys/localedef31.h
+ipxserver.o: /usr/include/locale.h
+ipxserver.o: /usr/vacpp/include/locale.h
+ipxserver.o: /usr/include/sys/lc_core.h
+ipxserver.o: /usr/include/sys/localedef.h
+ipxserver.o: /usr/include/sys/m_signal.h
+ipxserver.o: /usr/include/sys/mstsave.h
+ipxserver.o: /usr/include/sys/m_param.h
+ipxserver.o: /usr/include/sys/context.h
+ipxserver.o: /usr/include/sys/signal.h
+ipxserver.o: /usr/vacpp/include/sys/signal.h
+ipxserver.o: /usr/include/sys/time.h
+ipxserver.o: /usr/vacpp/include/sys/time.h
+ipxserver.o: /usr/include/sys/resource.h
+ipxserver.o: /opt/doom/include/SDL/SDL_cpuinfo.h
+ipxserver.o: /usr/include/sys/wait.h
+ipxserver.o: /usr/vacpp/include/sys/wait.h
+ipxserver.o: /opt/doom/include/SDL/begin_code.h
+ipxserver.o: /usr/include/stdlib.h
+ipxserver.o: /usr/vacpp/include/stdlib.h
+ipxserver.o: /usr/include/float.h
+ipxserver.o: /usr/include/sys/limits.h
+ipxserver.o: /usr/include/va_list.h
+ipxserver.o: /usr/include/stdio.h
+ipxserver.o: /usr/vacpp/include/stdio.h
+ipxserver.o: /usr/include/sys/vm_types.h
+ipxserver.o: /usr/include/sys/m_types.h
+ipxserver.o: /usr/include/sys/inttypes.h
+ipxserver.o: /usr/include/standards.h
+ipxserver.o: /usr/include/sys/types.h
+ipxserver.o: /opt/doom/include/SDL/SDL_platform.h
+ipxserver.o: /opt/doom/include/SDL/SDL_config.h
+ipxserver.o: /opt/doom/include/SDL/SDL_mouse.h
+ipxserver.o: /opt/doom/include/SDL/SDL_stdinc.h
+ipxserver.o: /opt/doom/include/SDL/SDL_main.h
+ipxserver.o: /opt/doom/include/SDL/SDL_quit.h
+ipxserver.o: /opt/doom/include/SDL/SDL.h
+ipxserver.o: /opt/doom/include/SDL/SDL_net.h
+ipxserver.o: ../../include/ipxserver.h
+ipxserver.o: ../../config.h
+ipxserver.o: ../../include/logging.h
+ipxserver.o: ../../include/dosbox.h
+ipxserver.o: ipxserver.cpp
+../../include/mem.h:
+../../include/ipx.h:
+../../include/timer.h:
+/opt/doom/include/SDL/SDL_version.h:
+/opt/doom/include/SDL/SDL_timer.h:
+/opt/doom/include/SDL/SDL_loadso.h:
+/opt/doom/include/SDL/SDL_joystick.h:
+/opt/doom/include/SDL/SDL_video.h:
+/opt/doom/include/SDL/SDL_keysym.h:
+/opt/doom/include/SDL/SDL_keyboard.h:
+/opt/doom/include/SDL/SDL_active.h:
+/opt/doom/include/SDL/SDL_events.h:
+/opt/doom/include/SDL/SDL_cdrom.h:
+/opt/doom/include/SDL/SDL_rwops.h:
+/opt/doom/include/SDL/SDL_thread.h:
+/opt/doom/include/SDL/SDL_mutex.h:
+/opt/doom/include/SDL/SDL_endian.h:
+/opt/doom/include/SDL/SDL_error.h:
+/opt/doom/include/SDL/SDL_audio.h:
+/opt/doom/include/SDL/close_code.h:
+/usr/include/ctype.h:
+/usr/include/inttypes.h:
+/usr/include/strings.h:
+/usr/vacpp/include/strings.h:
+/usr/include/string.h:
+/usr/vacpp/include/string.h:
+/usr/include/stdarg.h:
+/usr/vacpp/include/stdarg.h:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/vacpp/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/include/sys/time.h:
+/usr/vacpp/include/sys/time.h:
+/usr/include/sys/resource.h:
+/opt/doom/include/SDL/SDL_cpuinfo.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/opt/doom/include/SDL/begin_code.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/include/float.h:
+/usr/include/sys/limits.h:
+/usr/include/va_list.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/standards.h:
+/usr/include/sys/types.h:
+/opt/doom/include/SDL/SDL_platform.h:
+/opt/doom/include/SDL/SDL_config.h:
+/opt/doom/include/SDL/SDL_mouse.h:
+/opt/doom/include/SDL/SDL_stdinc.h:
+/opt/doom/include/SDL/SDL_main.h:
+/opt/doom/include/SDL/SDL_quit.h:
+/opt/doom/include/SDL/SDL.h:
+/opt/doom/include/SDL/SDL_net.h:
+../../include/ipxserver.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+ipxserver.cpp:

@@ -1,0 +1,2 @@
+sdl_gui.o: sdl_gui.cpp
+sdl_gui.cpp:

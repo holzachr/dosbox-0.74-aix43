@@ -1,0 +1,18 @@
+int10_char.o: ../../include/vga.h
+int10_char.o: int10.h
+int10_char.o: ../../include/inout.h
+int10_char.o: ../../include/mem.h
+int10_char.o: ../../include/bios.h
+int10_char.o: ../../config.h
+int10_char.o: ../../include/logging.h
+int10_char.o: ../../include/dosbox.h
+int10_char.o: int10_char.cpp
+../../include/vga.h:
+int10.h:
+../../include/inout.h:
+../../include/mem.h:
+../../include/bios.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+int10_char.cpp:

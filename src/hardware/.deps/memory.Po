@@ -1,0 +1,178 @@
+memory.o: ../../include/paging.h
+memory.o: /usr/vacpp/include/string.t
+memory.o: /usr/vacpp/include/ostream.t
+memory.o: /usr/vacpp/include/xlocinfo.t
+memory.o: /usr/vacpp/include/ansic_aix.h
+memory.o: /usr/include/ctype.h
+memory.o: /usr/vacpp/include/xlocinfo.h
+memory.o: /usr/vacpp/include/xlocinfo
+memory.o: /usr/vacpp/include/istream.t
+memory.o: /usr/vacpp/include/typeinfo
+memory.o: /usr/vacpp/include/xlocale
+memory.o: /usr/vacpp/include/streambuf
+memory.o: /usr/vacpp/include/climits
+memory.o: /usr/vacpp/include/cerrno
+memory.o: /usr/vacpp/include/xlocnum
+memory.o: /usr/vacpp/include/ios
+memory.o: /usr/vacpp/include/ostream
+memory.o: /usr/vacpp/include/istream
+memory.o: /usr/vacpp/include/string
+memory.o: /usr/vacpp/include/vector.t
+memory.o: /usr/vacpp/include/vector
+memory.o: /usr/vacpp/include/list.t
+memory.o: /usr/vacpp/include/xstring.t
+memory.o: /usr/include/errno.h
+memory.o: /usr/vacpp/include/xstring
+memory.o: /usr/vacpp/include/stdexcept
+memory.o: ../../include/regs.h
+memory.o: /usr/vacpp/include/memory.t
+memory.o: /usr/vacpp/include/exception
+memory.o: /usr/vacpp/include/new
+memory.o: /usr/include/sys/localedef31.h
+memory.o: /usr/include/locale.h
+memory.o: /usr/include/sys/lc_core.h
+memory.o: /usr/include/sys/localedef.h
+memory.o: /usr/include/sys/m_signal.h
+memory.o: /usr/include/sys/mstsave.h
+memory.o: /usr/include/sys/m_param.h
+memory.o: /usr/include/sys/context.h
+memory.o: /usr/include/sys/signal.h
+memory.o: /usr/vacpp/include/sys/signal.h
+memory.o: /usr/vacpp/include/xiosbase
+memory.o: /usr/include/sys/time.h
+memory.o: /usr/include/sys/resource.h
+memory.o: /usr/include/sys/wait.h
+memory.o: /usr/vacpp/include/sys/wait.h
+memory.o: /usr/include/stdlib.h
+memory.o: /usr/vacpp/include/stdlib.h
+memory.o: /usr/vacpp/include/cstdlib
+memory.o: /usr/vacpp/include/xmemory
+memory.o: /usr/vacpp/include/xutility.t
+memory.o: /usr/include/time.h
+memory.o: /usr/include/wchar.h
+memory.o: /usr/vacpp/include/cwchar
+memory.o: /usr/include/string.h
+memory.o: /usr/vacpp/include/cstring
+memory.o: /usr/include/float.h
+memory.o: /usr/include/limits.h
+memory.o: /usr/include/sys/limits.h
+memory.o: /usr/include/sys/vm_types.h
+memory.o: /usr/include/sys/m_types.h
+memory.o: /usr/include/sys/inttypes.h
+memory.o: /usr/include/sys/types.h
+memory.o: /usr/include/va_list.h
+memory.o: /usr/include/stdio.h
+memory.o: /usr/vacpp/include/stdio.h
+memory.o: /usr/vacpp/include/locale.h
+memory.o: /usr/vacpp/include/cstdio
+memory.o: /usr/vacpp/include/iosfwd
+memory.o: /usr/vacpp/include/utility
+memory.o: /usr/vacpp/include/sys/time.h
+memory.o: /usr/vacpp/include/xutility
+memory.o: /usr/vacpp/include/iterator
+memory.o: /usr/vacpp/include/memory
+memory.o: /usr/include/standards.h
+memory.o: /usr/include/stddef.h
+memory.o: /usr/vacpp/include/stddef.h
+memory.o: /usr/vacpp/include/cstddef
+memory.o: /usr/vacpp/include/string.h
+memory.o: /usr/vacpp/include/yvals.h
+memory.o: /usr/vacpp/include/xstddef
+memory.o: /usr/vacpp/include/functional
+memory.o: /usr/vacpp/include/list
+memory.o: ../../include/setup.h
+memory.o: ../../include/inout.h
+memory.o: ../../include/mem.h
+memory.o: ../../config.h
+memory.o: ../../include/logging.h
+memory.o: ../../include/dosbox.h
+memory.o: memory.cpp
+../../include/paging.h:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/vector:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/xstring.t:
+/usr/include/errno.h:
+/usr/vacpp/include/xstring:
+/usr/vacpp/include/stdexcept:
+../../include/regs.h:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/new:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/include/string.h:
+/usr/vacpp/include/cstring:
+/usr/include/float.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/va_list.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/vacpp/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/include/standards.h:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/string.h:
+/usr/vacpp/include/yvals.h:
+/usr/vacpp/include/xstddef:
+/usr/vacpp/include/functional:
+/usr/vacpp/include/list:
+../../include/setup.h:
+../../include/inout.h:
+../../include/mem.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+memory.cpp:

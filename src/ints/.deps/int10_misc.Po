@@ -1,0 +1,16 @@
+int10_misc.o: ../../include/vga.h
+int10_misc.o: int10.h
+int10_misc.o: ../../include/inout.h
+int10_misc.o: ../../include/mem.h
+int10_misc.o: ../../config.h
+int10_misc.o: ../../include/logging.h
+int10_misc.o: ../../include/dosbox.h
+int10_misc.o: int10_misc.cpp
+../../include/vga.h:
+int10.h:
+../../include/inout.h:
+../../include/mem.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+int10_misc.cpp:

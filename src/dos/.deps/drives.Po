@@ -1,0 +1,216 @@
+drives.o: ../../include/mapper.h
+drives.o: ../../include/bios.h
+drives.o: ../../include/bios_disk.h
+drives.o: /usr/vacpp/include/list.t
+drives.o: /usr/vacpp/include/functional
+drives.o: /usr/vacpp/include/list
+drives.o: ../../include/dos_inc.h
+drives.o: ../../include/programs.h
+drives.o: drives.h
+drives.o: ../../include/mem.h
+drives.o: /usr/include/strings.h
+drives.o: /usr/vacpp/include/strings.h
+drives.o: ../../include/support.h
+drives.o: /usr/include/sys/lockf.h
+drives.o: /usr/vacpp/include/sys/lockf.h
+drives.o: /usr/include/sys/access.h
+drives.o: /usr/include/unistd.h
+drives.o: /usr/vacpp/include/unistd.h
+drives.o: /usr/include/sys/lkup.h
+drives.o: /usr/include/sys/dir.h
+drives.o: /usr/vacpp/include/sys/dir.h
+drives.o: /usr/include/dirent.h
+drives.o: /usr/vacpp/include/string.t
+drives.o: /usr/vacpp/include/ostream.t
+drives.o: /usr/vacpp/include/xlocinfo.t
+drives.o: /usr/vacpp/include/ansic_aix.h
+drives.o: /usr/include/ctype.h
+drives.o: /usr/vacpp/include/xlocinfo.h
+drives.o: /usr/vacpp/include/xlocinfo
+drives.o: /usr/vacpp/include/istream.t
+drives.o: /usr/vacpp/include/typeinfo
+drives.o: /usr/vacpp/include/xlocale
+drives.o: /usr/vacpp/include/streambuf
+drives.o: /usr/vacpp/include/climits
+drives.o: /usr/vacpp/include/cerrno
+drives.o: /usr/vacpp/include/xlocnum
+drives.o: /usr/vacpp/include/ios
+drives.o: /usr/vacpp/include/ostream
+drives.o: /usr/vacpp/include/istream
+drives.o: /usr/vacpp/include/string
+drives.o: /usr/include/sys/mode.h
+drives.o: /usr/include/sys/stat.h
+drives.o: ../../include/cross.h
+drives.o: /usr/vacpp/include/vector.t
+drives.o: /usr/vacpp/include/xstring.t
+drives.o: /usr/include/errno.h
+drives.o: /usr/vacpp/include/xstring
+drives.o: /usr/vacpp/include/stdexcept
+drives.o: /usr/vacpp/include/memory.t
+drives.o: /usr/vacpp/include/exception
+drives.o: /usr/vacpp/include/new
+drives.o: /usr/include/sys/localedef31.h
+drives.o: /usr/include/locale.h
+drives.o: /usr/include/sys/lc_core.h
+drives.o: /usr/include/sys/localedef.h
+drives.o: /usr/include/sys/m_signal.h
+drives.o: ../../include/shell.h
+drives.o: /usr/include/sys/mstsave.h
+drives.o: /usr/include/sys/m_param.h
+drives.o: /usr/include/sys/context.h
+drives.o: /usr/include/sys/signal.h
+drives.o: /usr/vacpp/include/sys/signal.h
+drives.o: /usr/vacpp/include/xiosbase
+drives.o: /usr/include/sys/time.h
+drives.o: /usr/include/sys/resource.h
+drives.o: /usr/include/sys/wait.h
+drives.o: /usr/vacpp/include/sys/wait.h
+drives.o: /usr/include/stdlib.h
+drives.o: /usr/vacpp/include/stdlib.h
+drives.o: /usr/vacpp/include/cstdlib
+drives.o: /usr/vacpp/include/xmemory
+drives.o: /usr/vacpp/include/xutility.t
+drives.o: /usr/vacpp/include/cstddef
+drives.o: /usr/vacpp/include/xstddef
+drives.o: /usr/include/stddef.h
+drives.o: /usr/vacpp/include/stddef.h
+drives.o: /usr/include/time.h
+drives.o: /usr/include/wchar.h
+drives.o: /usr/vacpp/include/cwchar
+drives.o: /usr/include/string.h
+drives.o: /usr/vacpp/include/cstring
+drives.o: /usr/vacpp/include/string.h
+drives.o: /usr/vacpp/include/yvals.h
+drives.o: /usr/include/float.h
+drives.o: /usr/include/limits.h
+drives.o: /usr/include/sys/limits.h
+drives.o: /usr/include/sys/vm_types.h
+drives.o: /usr/include/sys/m_types.h
+drives.o: /usr/include/sys/inttypes.h
+drives.o: /usr/include/sys/types.h
+drives.o: /usr/include/standards.h
+drives.o: /usr/include/stdio.h
+drives.o: /usr/vacpp/include/stdio.h
+drives.o: /usr/vacpp/include/locale.h
+drives.o: /usr/vacpp/include/cstdio
+drives.o: /usr/vacpp/include/iosfwd
+drives.o: /usr/vacpp/include/utility
+drives.o: /usr/vacpp/include/sys/time.h
+drives.o: /usr/vacpp/include/xutility
+drives.o: /usr/vacpp/include/iterator
+drives.o: /usr/vacpp/include/memory
+drives.o: /usr/vacpp/include/vector
+drives.o: /usr/include/va_list.h
+drives.o: ../../include/dos_system.h
+drives.o: ../../config.h
+drives.o: ../../include/logging.h
+drives.o: ../../include/dosbox.h
+drives.o: drives.cpp
+../../include/mapper.h:
+../../include/bios.h:
+../../include/bios_disk.h:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/functional:
+/usr/vacpp/include/list:
+../../include/dos_inc.h:
+../../include/programs.h:
+drives.h:
+../../include/mem.h:
+/usr/include/strings.h:
+/usr/vacpp/include/strings.h:
+../../include/support.h:
+/usr/include/sys/lockf.h:
+/usr/vacpp/include/sys/lockf.h:
+/usr/include/sys/access.h:
+/usr/include/unistd.h:
+/usr/vacpp/include/unistd.h:
+/usr/include/sys/lkup.h:
+/usr/include/sys/dir.h:
+/usr/vacpp/include/sys/dir.h:
+/usr/include/dirent.h:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+/usr/include/sys/mode.h:
+/usr/include/sys/stat.h:
+../../include/cross.h:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/xstring.t:
+/usr/include/errno.h:
+/usr/vacpp/include/xstring:
+/usr/vacpp/include/stdexcept:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/new:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+../../include/shell.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/xstddef:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/include/string.h:
+/usr/vacpp/include/cstring:
+/usr/vacpp/include/string.h:
+/usr/vacpp/include/yvals.h:
+/usr/include/float.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/standards.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/vacpp/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/vacpp/include/vector:
+/usr/include/va_list.h:
+../../include/dos_system.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+drives.cpp:

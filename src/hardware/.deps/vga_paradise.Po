@@ -1,0 +1,176 @@
+vga_paradise.o: ../../include/mem.h
+vga_paradise.o: ../../include/inout.h
+vga_paradise.o: ../../include/vga.h
+vga_paradise.o: /usr/vacpp/include/string.t
+vga_paradise.o: /usr/vacpp/include/ostream.t
+vga_paradise.o: /usr/vacpp/include/xlocinfo.t
+vga_paradise.o: /usr/vacpp/include/ansic_aix.h
+vga_paradise.o: /usr/include/ctype.h
+vga_paradise.o: /usr/vacpp/include/xlocinfo.h
+vga_paradise.o: /usr/vacpp/include/xlocinfo
+vga_paradise.o: /usr/vacpp/include/istream.t
+vga_paradise.o: /usr/vacpp/include/typeinfo
+vga_paradise.o: /usr/vacpp/include/xlocale
+vga_paradise.o: /usr/vacpp/include/streambuf
+vga_paradise.o: /usr/vacpp/include/climits
+vga_paradise.o: /usr/vacpp/include/cerrno
+vga_paradise.o: /usr/vacpp/include/xlocnum
+vga_paradise.o: /usr/vacpp/include/ios
+vga_paradise.o: /usr/vacpp/include/ostream
+vga_paradise.o: /usr/vacpp/include/istream
+vga_paradise.o: /usr/vacpp/include/string
+vga_paradise.o: /usr/vacpp/include/vector.t
+vga_paradise.o: /usr/vacpp/include/vector
+vga_paradise.o: /usr/vacpp/include/list.t
+vga_paradise.o: /usr/vacpp/include/xstring.t
+vga_paradise.o: /usr/include/errno.h
+vga_paradise.o: /usr/vacpp/include/xstring
+vga_paradise.o: /usr/vacpp/include/stdexcept
+vga_paradise.o: /usr/vacpp/include/memory.t
+vga_paradise.o: /usr/vacpp/include/exception
+vga_paradise.o: /usr/vacpp/include/new
+vga_paradise.o: /usr/include/sys/localedef31.h
+vga_paradise.o: /usr/include/locale.h
+vga_paradise.o: /usr/include/sys/lc_core.h
+vga_paradise.o: /usr/include/sys/localedef.h
+vga_paradise.o: /usr/include/sys/m_signal.h
+vga_paradise.o: /usr/include/sys/mstsave.h
+vga_paradise.o: /usr/include/sys/m_param.h
+vga_paradise.o: /usr/include/sys/context.h
+vga_paradise.o: /usr/include/sys/signal.h
+vga_paradise.o: /usr/vacpp/include/sys/signal.h
+vga_paradise.o: /usr/vacpp/include/xiosbase
+vga_paradise.o: /usr/include/sys/time.h
+vga_paradise.o: /usr/include/sys/resource.h
+vga_paradise.o: /usr/vacpp/include/sys/wait.h
+vga_paradise.o: /usr/include/stdlib.h
+vga_paradise.o: /usr/vacpp/include/stdlib.h
+vga_paradise.o: /usr/vacpp/include/cstdlib
+vga_paradise.o: /usr/vacpp/include/xmemory
+vga_paradise.o: /usr/vacpp/include/xutility.t
+vga_paradise.o: /usr/include/time.h
+vga_paradise.o: /usr/include/wchar.h
+vga_paradise.o: /usr/vacpp/include/cwchar
+vga_paradise.o: /usr/include/string.h
+vga_paradise.o: /usr/vacpp/include/cstring
+vga_paradise.o: /usr/include/float.h
+vga_paradise.o: /usr/include/limits.h
+vga_paradise.o: /usr/include/sys/limits.h
+vga_paradise.o: /usr/include/sys/vm_types.h
+vga_paradise.o: /usr/include/sys/m_types.h
+vga_paradise.o: /usr/include/sys/inttypes.h
+vga_paradise.o: /usr/include/sys/types.h
+vga_paradise.o: /usr/include/va_list.h
+vga_paradise.o: /usr/include/stdio.h
+vga_paradise.o: /usr/vacpp/include/stdio.h
+vga_paradise.o: /usr/vacpp/include/locale.h
+vga_paradise.o: /usr/vacpp/include/cstdio
+vga_paradise.o: /usr/vacpp/include/iosfwd
+vga_paradise.o: /usr/vacpp/include/utility
+vga_paradise.o: /usr/vacpp/include/sys/time.h
+vga_paradise.o: /usr/vacpp/include/xutility
+vga_paradise.o: /usr/vacpp/include/iterator
+vga_paradise.o: /usr/vacpp/include/memory
+vga_paradise.o: /usr/include/standards.h
+vga_paradise.o: /usr/include/stddef.h
+vga_paradise.o: /usr/vacpp/include/stddef.h
+vga_paradise.o: /usr/vacpp/include/cstddef
+vga_paradise.o: /usr/vacpp/include/string.h
+vga_paradise.o: /usr/vacpp/include/yvals.h
+vga_paradise.o: /usr/vacpp/include/xstddef
+vga_paradise.o: /usr/vacpp/include/functional
+vga_paradise.o: /usr/vacpp/include/list
+vga_paradise.o: ../../include/setup.h
+vga_paradise.o: ../../config.h
+vga_paradise.o: ../../include/logging.h
+vga_paradise.o: ../../include/dosbox.h
+vga_paradise.o: /usr/include/sys/wait.h
+vga_paradise.o: vga_paradise.cpp
+../../include/mem.h:
+../../include/inout.h:
+../../include/vga.h:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/vector:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/xstring.t:
+/usr/include/errno.h:
+/usr/vacpp/include/xstring:
+/usr/vacpp/include/stdexcept:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/new:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/vacpp/include/sys/wait.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/include/string.h:
+/usr/vacpp/include/cstring:
+/usr/include/float.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/va_list.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/vacpp/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/include/standards.h:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/string.h:
+/usr/vacpp/include/yvals.h:
+/usr/vacpp/include/xstddef:
+/usr/vacpp/include/functional:
+/usr/vacpp/include/list:
+../../include/setup.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/include/sys/wait.h:
+vga_paradise.cpp:

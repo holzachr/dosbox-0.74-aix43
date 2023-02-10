@@ -1,0 +1,186 @@
+tandy_sound.o: /usr/include/math.h
+tandy_sound.o: /usr/vacpp/include/math.h
+tandy_sound.o: ../../include/hardware.h
+tandy_sound.o: ../../include/dma.h
+tandy_sound.o: /usr/vacpp/include/string.t
+tandy_sound.o: /usr/vacpp/include/ostream.t
+tandy_sound.o: /usr/vacpp/include/xlocinfo.t
+tandy_sound.o: /usr/vacpp/include/ansic_aix.h
+tandy_sound.o: /usr/include/ctype.h
+tandy_sound.o: /usr/vacpp/include/xlocinfo.h
+tandy_sound.o: /usr/vacpp/include/xlocinfo
+tandy_sound.o: /usr/vacpp/include/istream.t
+tandy_sound.o: /usr/vacpp/include/typeinfo
+tandy_sound.o: /usr/vacpp/include/xlocale
+tandy_sound.o: /usr/vacpp/include/streambuf
+tandy_sound.o: /usr/vacpp/include/climits
+tandy_sound.o: /usr/vacpp/include/cerrno
+tandy_sound.o: /usr/vacpp/include/xlocnum
+tandy_sound.o: /usr/vacpp/include/ios
+tandy_sound.o: /usr/vacpp/include/ostream
+tandy_sound.o: /usr/vacpp/include/istream
+tandy_sound.o: /usr/vacpp/include/string
+tandy_sound.o: /usr/vacpp/include/vector.t
+tandy_sound.o: /usr/vacpp/include/vector
+tandy_sound.o: /usr/vacpp/include/list.t
+tandy_sound.o: /usr/vacpp/include/xstring.t
+tandy_sound.o: /usr/include/errno.h
+tandy_sound.o: /usr/vacpp/include/xstring
+tandy_sound.o: /usr/vacpp/include/stdexcept
+tandy_sound.o: /usr/vacpp/include/memory.t
+tandy_sound.o: /usr/vacpp/include/exception
+tandy_sound.o: /usr/vacpp/include/new
+tandy_sound.o: /usr/include/sys/localedef31.h
+tandy_sound.o: /usr/include/locale.h
+tandy_sound.o: /usr/include/sys/lc_core.h
+tandy_sound.o: /usr/include/sys/localedef.h
+tandy_sound.o: /usr/include/sys/m_signal.h
+tandy_sound.o: /usr/include/sys/mstsave.h
+tandy_sound.o: /usr/include/sys/m_param.h
+tandy_sound.o: /usr/include/sys/context.h
+tandy_sound.o: /usr/include/sys/signal.h
+tandy_sound.o: /usr/vacpp/include/sys/signal.h
+tandy_sound.o: /usr/vacpp/include/xiosbase
+tandy_sound.o: /usr/include/sys/time.h
+tandy_sound.o: /usr/include/sys/resource.h
+tandy_sound.o: /usr/include/sys/wait.h
+tandy_sound.o: /usr/vacpp/include/sys/wait.h
+tandy_sound.o: /usr/include/stdlib.h
+tandy_sound.o: /usr/vacpp/include/stdlib.h
+tandy_sound.o: /usr/vacpp/include/cstdlib
+tandy_sound.o: /usr/vacpp/include/xmemory
+tandy_sound.o: /usr/vacpp/include/xutility.t
+tandy_sound.o: /usr/include/time.h
+tandy_sound.o: /usr/include/wchar.h
+tandy_sound.o: /usr/vacpp/include/cwchar
+tandy_sound.o: /usr/include/string.h
+tandy_sound.o: /usr/vacpp/include/cstring
+tandy_sound.o: /usr/include/float.h
+tandy_sound.o: ../../include/pic.h
+tandy_sound.o: /usr/include/limits.h
+tandy_sound.o: /usr/include/sys/limits.h
+tandy_sound.o: /usr/include/sys/vm_types.h
+tandy_sound.o: /usr/include/sys/m_types.h
+tandy_sound.o: /usr/include/sys/inttypes.h
+tandy_sound.o: /usr/include/sys/types.h
+tandy_sound.o: /usr/include/va_list.h
+tandy_sound.o: /usr/include/stdio.h
+tandy_sound.o: /usr/vacpp/include/stdio.h
+tandy_sound.o: /usr/vacpp/include/locale.h
+tandy_sound.o: /usr/vacpp/include/cstdio
+tandy_sound.o: /usr/vacpp/include/iosfwd
+tandy_sound.o: /usr/vacpp/include/utility
+tandy_sound.o: /usr/vacpp/include/sys/time.h
+tandy_sound.o: /usr/vacpp/include/xutility
+tandy_sound.o: /usr/vacpp/include/iterator
+tandy_sound.o: /usr/vacpp/include/memory
+tandy_sound.o: /usr/include/standards.h
+tandy_sound.o: /usr/include/stddef.h
+tandy_sound.o: /usr/vacpp/include/stddef.h
+tandy_sound.o: /usr/vacpp/include/cstddef
+tandy_sound.o: /usr/vacpp/include/string.h
+tandy_sound.o: /usr/vacpp/include/yvals.h
+tandy_sound.o: /usr/vacpp/include/xstddef
+tandy_sound.o: /usr/vacpp/include/functional
+tandy_sound.o: /usr/vacpp/include/list
+tandy_sound.o: ../../include/setup.h
+tandy_sound.o: ../../include/mem.h
+tandy_sound.o: ../../include/mixer.h
+tandy_sound.o: ../../config.h
+tandy_sound.o: ../../include/logging.h
+tandy_sound.o: ../../include/dosbox.h
+tandy_sound.o: ../../include/inout.h
+tandy_sound.o: tandy_sound.cpp
+/usr/include/math.h:
+/usr/vacpp/include/math.h:
+../../include/hardware.h:
+../../include/dma.h:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/string:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/vector:
+/usr/vacpp/include/list.t:
+/usr/vacpp/include/xstring.t:
+/usr/include/errno.h:
+/usr/vacpp/include/xstring:
+/usr/vacpp/include/stdexcept:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/new:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/cstdlib:
+/usr/vacpp/include/xmemory:
+/usr/vacpp/include/xutility.t:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/include/string.h:
+/usr/vacpp/include/cstring:
+/usr/include/float.h:
+../../include/pic.h:
+/usr/include/limits.h:
+/usr/include/sys/limits.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/va_list.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/vacpp/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/include/standards.h:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/string.h:
+/usr/vacpp/include/yvals.h:
+/usr/vacpp/include/xstddef:
+/usr/vacpp/include/functional:
+/usr/vacpp/include/list:
+../../include/setup.h:
+../../include/mem.h:
+../../include/mixer.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+../../include/inout.h:
+tandy_sound.cpp:

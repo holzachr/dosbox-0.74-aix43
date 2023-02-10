@@ -1,0 +1,230 @@
+gus.o: /usr/include/math.h
+gus.o: /usr/vacpp/include/math.h
+gus.o: ../../include/mem.h
+gus.o: /usr/include/strings.h
+gus.o: /usr/vacpp/include/strings.h
+gus.o: ../../include/support.h
+gus.o: /usr/include/sys/lockf.h
+gus.o: /usr/vacpp/include/sys/lockf.h
+gus.o: /usr/include/sys/access.h
+gus.o: /usr/include/unistd.h
+gus.o: /usr/vacpp/include/unistd.h
+gus.o: /usr/include/sys/lkup.h
+gus.o: /usr/include/sys/dir.h
+gus.o: /usr/vacpp/include/sys/dir.h
+gus.o: /usr/include/dirent.h
+gus.o: /usr/include/sys/mode.h
+gus.o: /usr/include/sys/stat.h
+gus.o: ../../include/cross.h
+gus.o: ../../include/dos_inc.h
+gus.o: ../../include/programs.h
+gus.o: /usr/vacpp/include/vector.t
+gus.o: /usr/vacpp/include/vector
+gus.o: /usr/vacpp/include/list.t
+gus.o: ../../include/regs.h
+gus.o: /usr/vacpp/include/memory.t
+gus.o: /usr/vacpp/include/iterator
+gus.o: /usr/vacpp/include/memory
+gus.o: /usr/vacpp/include/functional
+gus.o: /usr/vacpp/include/list
+gus.o: ../../include/setup.h
+gus.o: ../../include/dma.h
+gus.o: ../../include/mixer.h
+gus.o: ../../include/inout.h
+gus.o: ../../config.h
+gus.o: ../../include/logging.h
+gus.o: ../../include/dosbox.h
+gus.o: /usr/vacpp/include/sstream.t
+gus.o: /usr/vacpp/include/string.t
+gus.o: /usr/vacpp/include/string
+gus.o: /usr/vacpp/include/sstream
+gus.o: /usr/vacpp/include/ostream.t
+gus.o: /usr/vacpp/include/xlocinfo.t
+gus.o: /usr/vacpp/include/ansic_aix.h
+gus.o: /usr/include/ctype.h
+gus.o: /usr/vacpp/include/xlocinfo.h
+gus.o: /usr/vacpp/include/xlocinfo
+gus.o: /usr/vacpp/include/istream.t
+gus.o: /usr/vacpp/include/typeinfo
+gus.o: /usr/vacpp/include/xstring.t
+gus.o: /usr/vacpp/include/xutility.t
+gus.o: /usr/include/time.h
+gus.o: /usr/include/wchar.h
+gus.o: /usr/vacpp/include/cwchar
+gus.o: /usr/vacpp/include/iosfwd
+gus.o: /usr/vacpp/include/utility
+gus.o: /usr/vacpp/include/new
+gus.o: /usr/vacpp/include/xmemory
+gus.o: /usr/include/stddef.h
+gus.o: /usr/vacpp/include/stddef.h
+gus.o: /usr/vacpp/include/cstddef
+gus.o: /usr/vacpp/include/xstddef
+gus.o: /usr/vacpp/include/exception
+gus.o: /usr/vacpp/include/stdexcept
+gus.o: /usr/vacpp/include/cstring
+gus.o: /usr/vacpp/include/xlocale
+gus.o: /usr/vacpp/include/streambuf
+gus.o: /usr/include/sys/localedef31.h
+gus.o: /usr/include/locale.h
+gus.o: /usr/include/sys/lc_core.h
+gus.o: /usr/include/sys/localedef.h
+gus.o: /usr/include/sys/m_signal.h
+gus.o: ../../include/shell.h
+gus.o: /usr/include/sys/mstsave.h
+gus.o: /usr/include/sys/m_param.h
+gus.o: /usr/include/sys/context.h
+gus.o: /usr/include/sys/signal.h
+gus.o: /usr/vacpp/include/xiosbase
+gus.o: /usr/include/sys/time.h
+gus.o: /usr/vacpp/include/xutility
+gus.o: /usr/vacpp/include/sys/time.h
+gus.o: /usr/include/sys/resource.h
+gus.o: /usr/include/sys/wait.h
+gus.o: /usr/vacpp/include/sys/wait.h
+gus.o: /usr/include/stdlib.h
+gus.o: /usr/vacpp/include/stdlib.h
+gus.o: /usr/vacpp/include/cstdlib
+gus.o: ../../include/dos_system.h
+gus.o: /usr/include/va_list.h
+gus.o: /usr/include/stdio.h
+gus.o: /usr/vacpp/include/stdio.h
+gus.o: /usr/vacpp/include/locale.h
+gus.o: /usr/vacpp/include/cstdio
+gus.o: /usr/include/float.h
+gus.o: ../../include/pic.h
+gus.o: /usr/include/sys/limits.h
+gus.o: /usr/include/limits.h
+gus.o: /usr/vacpp/include/climits
+gus.o: /usr/vacpp/include/xstring
+gus.o: /usr/include/errno.h
+gus.o: /usr/vacpp/include/cerrno
+gus.o: /usr/vacpp/include/xlocnum
+gus.o: /usr/vacpp/include/ios
+gus.o: /usr/vacpp/include/ostream
+gus.o: /usr/vacpp/include/istream
+gus.o: /usr/vacpp/include/iomanip
+gus.o: /usr/include/string.h
+gus.o: /usr/include/sys/vm_types.h
+gus.o: /usr/include/sys/m_types.h
+gus.o: /usr/include/sys/inttypes.h
+gus.o: /usr/include/sys/types.h
+gus.o: /usr/include/standards.h
+gus.o: /usr/vacpp/include/yvals.h
+gus.o: /usr/vacpp/include/string.h
+gus.o: /usr/vacpp/include/sys/signal.h
+gus.o: gus.cpp
+/usr/include/math.h:
+/usr/vacpp/include/math.h:
+../../include/mem.h:
+/usr/include/strings.h:
+/usr/vacpp/include/strings.h:
+../../include/support.h:
+/usr/include/sys/lockf.h:
+/usr/vacpp/include/sys/lockf.h:
+/usr/include/sys/access.h:
+/usr/include/unistd.h:
+/usr/vacpp/include/unistd.h:
+/usr/include/sys/lkup.h:
+/usr/include/sys/dir.h:
+/usr/vacpp/include/sys/dir.h:
+/usr/include/dirent.h:
+/usr/include/sys/mode.h:
+/usr/include/sys/stat.h:
+../../include/cross.h:
+../../include/dos_inc.h:
+../../include/programs.h:
+/usr/vacpp/include/vector.t:
+/usr/vacpp/include/vector:
+/usr/vacpp/include/list.t:
+../../include/regs.h:
+/usr/vacpp/include/memory.t:
+/usr/vacpp/include/iterator:
+/usr/vacpp/include/memory:
+/usr/vacpp/include/functional:
+/usr/vacpp/include/list:
+../../include/setup.h:
+../../include/dma.h:
+../../include/mixer.h:
+../../include/inout.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+/usr/vacpp/include/sstream.t:
+/usr/vacpp/include/string.t:
+/usr/vacpp/include/string:
+/usr/vacpp/include/sstream:
+/usr/vacpp/include/ostream.t:
+/usr/vacpp/include/xlocinfo.t:
+/usr/vacpp/include/ansic_aix.h:
+/usr/include/ctype.h:
+/usr/vacpp/include/xlocinfo.h:
+/usr/vacpp/include/xlocinfo:
+/usr/vacpp/include/istream.t:
+/usr/vacpp/include/typeinfo:
+/usr/vacpp/include/xstring.t:
+/usr/vacpp/include/xutility.t:
+/usr/include/time.h:
+/usr/include/wchar.h:
+/usr/vacpp/include/cwchar:
+/usr/vacpp/include/iosfwd:
+/usr/vacpp/include/utility:
+/usr/vacpp/include/new:
+/usr/vacpp/include/xmemory:
+/usr/include/stddef.h:
+/usr/vacpp/include/stddef.h:
+/usr/vacpp/include/cstddef:
+/usr/vacpp/include/xstddef:
+/usr/vacpp/include/exception:
+/usr/vacpp/include/stdexcept:
+/usr/vacpp/include/cstring:
+/usr/vacpp/include/xlocale:
+/usr/vacpp/include/streambuf:
+/usr/include/sys/localedef31.h:
+/usr/include/locale.h:
+/usr/include/sys/lc_core.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/m_signal.h:
+../../include/shell.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/context.h:
+/usr/include/sys/signal.h:
+/usr/vacpp/include/xiosbase:
+/usr/include/sys/time.h:
+/usr/vacpp/include/xutility:
+/usr/vacpp/include/sys/time.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/wait.h:
+/usr/vacpp/include/sys/wait.h:
+/usr/include/stdlib.h:
+/usr/vacpp/include/stdlib.h:
+/usr/vacpp/include/cstdlib:
+../../include/dos_system.h:
+/usr/include/va_list.h:
+/usr/include/stdio.h:
+/usr/vacpp/include/stdio.h:
+/usr/vacpp/include/locale.h:
+/usr/vacpp/include/cstdio:
+/usr/include/float.h:
+../../include/pic.h:
+/usr/include/sys/limits.h:
+/usr/include/limits.h:
+/usr/vacpp/include/climits:
+/usr/vacpp/include/xstring:
+/usr/include/errno.h:
+/usr/vacpp/include/cerrno:
+/usr/vacpp/include/xlocnum:
+/usr/vacpp/include/ios:
+/usr/vacpp/include/ostream:
+/usr/vacpp/include/istream:
+/usr/vacpp/include/iomanip:
+/usr/include/string.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/types.h:
+/usr/include/standards.h:
+/usr/vacpp/include/yvals.h:
+/usr/vacpp/include/string.h:
+/usr/vacpp/include/sys/signal.h:
+gus.cpp:

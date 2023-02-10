@@ -1,0 +1,405 @@
+dos.o dos.o: dos.cpp \
+  /usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/stdlib.h \
+  /usr/include/standards.h \
+  /usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/sys/wait.h \
+  /usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/sys/types.h \
+  /usr/include/sys/inttypes.h /usr/include/sys/m_types.h \
+  /usr/include/sys/vm_types.h /usr/include/sys/resource.h \
+  /usr/include/sys/time.h \
+  /usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/sys/signal.h \
+  /usr/include/sys/context.h /usr/include/sys/m_param.h \
+  /usr/include/sys/mstsave.h /usr/include/sys/m_signal.h \
+  /usr/include/sys/localedef.h /usr/include/sys/limits.h \
+  /usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/float.h \
+  /usr/include/sys/lc_core.h \
+  /usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/locale.h \
+  /usr/include/sys/localedef31.h \
+  /usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/string.h \
+  /usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/ctype.h \
+  /usr/include/time.h \
+  /usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/stddef.h \
+  ../../include/dosbox.h ../../config.h ../../include/logging.h \
+  ../../include/bios.h ../../include/mem.h ../../include/callback.h \
+  ../../include/regs.h ../../include/dos_inc.h ../../include/dos_system.h \
+  /usr/local/include/c++/3.3/vector \
+  /usr/local/include/c++/3.3/bits/functexcept.h \
+  /usr/local/include/c++/3.3/exception_defines.h \
+  /usr/local/include/c++/3.3/bits/stl_algobase.h \
+  /usr/local/include/c++/3.3/powerpc-ibm-aix4.3.3.0/bits/c++config.h \
+  /usr/local/include/c++/3.3/powerpc-ibm-aix4.3.3.0/bits/os_defines.h \
+  /usr/local/include/c++/3.3/cstring /usr/local/include/c++/3.3/cstddef \
+  /usr/local/include/c++/3.3/climits \
+  /usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/limits.h \
+  /usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/syslimits.h \
+  /usr/include/limits.h /usr/local/include/c++/3.3/cstdlib \
+  /usr/local/include/c++/3.3/new /usr/local/include/c++/3.3/exception \
+  /usr/local/include/c++/3.3/iosfwd \
+  /usr/local/include/c++/3.3/powerpc-ibm-aix4.3.3.0/bits/c++locale.h \
+  /usr/local/include/c++/3.3/clocale /usr/local/include/c++/3.3/cctype \
+  /usr/local/include/c++/3.3/bits/stringfwd.h \
+  /usr/local/include/c++/3.3/bits/fpos.h \
+  /usr/local/include/c++/3.3/powerpc-ibm-aix4.3.3.0/bits/c++io.h \
+  /usr/local/include/c++/3.3/cstdio \
+  /usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/stdio.h \
+  /usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/stdarg.h \
+  /usr/include/va_list.h \
+  /usr/local/include/c++/3.3/powerpc-ibm-aix4.3.3.0/bits/gthr.h \
+  /usr/local/include/c++/3.3/powerpc-ibm-aix4.3.3.0/bits/gthr-default.h \
+  /usr/local/include/c++/3.3/powerpc-ibm-aix4.3.3.0/bits/gthr-posix.h \
+  /usr/include/pthread.h /usr/include/sched.h /usr/include/sys/sched.h \
+  /usr/include/sys/pri.h /usr/include/sys/proc.h \
+  /usr/include/sys/ptrace.h /usr/include/sys/thread.h \
+  /usr/include/sys/processor.h /usr/include/sys/lock_def.h \
+  /usr/include/sys/var.h /usr/include/sys/atomic_op.h \
+  /usr/include/sys/timer.h /usr/include/sys/lockl.h /usr/include/unistd.h \
+  /usr/include/sys/access.h /usr/include/sys/lockf.h \
+  /usr/include/sys/stat.h /usr/include/sys/mode.h \
+  /usr/local/include/c++/3.3/cwchar /usr/local/include/c++/3.3/ctime \
+  /usr/include/wchar.h /usr/local/include/c++/3.3/bits/stl_pair.h \
+  /usr/local/include/c++/3.3/bits/type_traits.h \
+  /usr/local/include/c++/3.3/bits/stl_iterator_base_types.h \
+  /usr/local/include/c++/3.3/bits/stl_iterator_base_funcs.h \
+  /usr/local/include/c++/3.3/bits/concept_check.h \
+  /usr/local/include/c++/3.3/bits/stl_iterator.h \
+  /usr/local/include/c++/3.3/bits/stl_alloc.h \
+  /usr/local/include/c++/3.3/bits/stl_threads.h \
+  /usr/local/include/c++/3.3/powerpc-ibm-aix4.3.3.0/bits/atomicity.h \
+  /usr/local/include/c++/3.3/bits/stl_construct.h \
+  /usr/local/include/c++/3.3/bits/stl_uninitialized.h \
+  /usr/local/include/c++/3.3/bits/stl_vector.h \
+  /usr/local/include/c++/3.3/bits/stl_bvector.h \
+  /usr/local/include/c++/3.3/bits/vector.tcc ../../include/cross.h \
+  /usr/local/include/c++/3.3/string \
+  /usr/local/include/c++/3.3/bits/char_traits.h \
+  /usr/local/include/c++/3.3/memory \
+  /usr/local/include/c++/3.3/bits/stl_raw_storage_iter.h \
+  /usr/local/include/c++/3.3/bits/stl_function.h \
+  /usr/local/include/c++/3.3/bits/basic_string.h \
+  /usr/local/include/c++/3.3/algorithm \
+  /usr/local/include/c++/3.3/bits/stl_algo.h \
+  /usr/local/include/c++/3.3/bits/stl_heap.h \
+  /usr/local/include/c++/3.3/bits/stl_tempbuf.h \
+  /usr/local/include/c++/3.3/bits/basic_string.tcc /usr/include/dirent.h \
+  /usr/include/sys/dir.h /usr/include/sys/lkup.h \
+  /usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/math.h \
+  ../../include/support.h /usr/include/strings.h ../../include/setup.h \
+  /usr/local/include/c++/3.3/list \
+  /usr/local/include/c++/3.3/bits/stl_list.h \
+  /usr/local/include/c++/3.3/bits/list.tcc ../../include/serialport.h \
+  ../../include/inout.h ../../include/timer.h /opt/doom/include/SDL/SDL.h \
+  /opt/doom/include/SDL/SDL_main.h /opt/doom/include/SDL/SDL_stdinc.h \
+  /opt/doom/include/SDL/SDL_config.h /opt/doom/include/SDL/SDL_platform.h \
+  /usr/include/inttypes.h /opt/doom/include/SDL/begin_code.h \
+  /opt/doom/include/SDL/close_code.h /opt/doom/include/SDL/SDL_audio.h \
+  /opt/doom/include/SDL/SDL_error.h /opt/doom/include/SDL/SDL_endian.h \
+  /opt/doom/include/SDL/SDL_mutex.h /opt/doom/include/SDL/SDL_thread.h \
+  /opt/doom/include/SDL/SDL_rwops.h /opt/doom/include/SDL/SDL_cdrom.h \
+  /opt/doom/include/SDL/SDL_cpuinfo.h /opt/doom/include/SDL/SDL_events.h \
+  /opt/doom/include/SDL/SDL_active.h /opt/doom/include/SDL/SDL_keyboard.h \
+  /opt/doom/include/SDL/SDL_keysym.h /opt/doom/include/SDL/SDL_mouse.h \
+  /opt/doom/include/SDL/SDL_video.h /opt/doom/include/SDL/SDL_joystick.h \
+  /opt/doom/include/SDL/SDL_quit.h /opt/doom/include/SDL/SDL_loadso.h \
+  /opt/doom/include/SDL/SDL_timer.h /opt/doom/include/SDL/SDL_version.h \
+  ../../include/programs.h ../../include/cpu.h
+
+/usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/stdlib.h:
+
+/usr/include/standards.h:
+
+/usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/sys/wait.h:
+
+/usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/sys/types.h:
+
+/usr/include/sys/inttypes.h:
+
+/usr/include/sys/m_types.h:
+
+/usr/include/sys/vm_types.h:
+
+/usr/include/sys/resource.h:
+
+/usr/include/sys/time.h:
+
+/usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/sys/signal.h:
+
+/usr/include/sys/context.h:
+
+/usr/include/sys/m_param.h:
+
+/usr/include/sys/mstsave.h:
+
+/usr/include/sys/m_signal.h:
+
+/usr/include/sys/localedef.h:
+
+/usr/include/sys/limits.h:
+
+/usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/float.h:
+
+/usr/include/sys/lc_core.h:
+
+/usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/locale.h:
+
+/usr/include/sys/localedef31.h:
+
+/usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/string.h:
+
+/usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/ctype.h:
+
+/usr/include/time.h:
+
+/usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/stddef.h:
+
+../../include/dosbox.h:
+
+../../config.h:
+
+../../include/logging.h:
+
+../../include/bios.h:
+
+../../include/mem.h:
+
+../../include/callback.h:
+
+../../include/regs.h:
+
+../../include/dos_inc.h:
+
+../../include/dos_system.h:
+
+/usr/local/include/c++/3.3/vector:
+
+/usr/local/include/c++/3.3/bits/functexcept.h:
+
+/usr/local/include/c++/3.3/exception_defines.h:
+
+/usr/local/include/c++/3.3/bits/stl_algobase.h:
+
+/usr/local/include/c++/3.3/powerpc-ibm-aix4.3.3.0/bits/c++config.h:
+
+/usr/local/include/c++/3.3/powerpc-ibm-aix4.3.3.0/bits/os_defines.h:
+
+/usr/local/include/c++/3.3/cstring:
+
+/usr/local/include/c++/3.3/cstddef:
+
+/usr/local/include/c++/3.3/climits:
+
+/usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/limits.h:
+
+/usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/local/include/c++/3.3/cstdlib:
+
+/usr/local/include/c++/3.3/new:
+
+/usr/local/include/c++/3.3/exception:
+
+/usr/local/include/c++/3.3/iosfwd:
+
+/usr/local/include/c++/3.3/powerpc-ibm-aix4.3.3.0/bits/c++locale.h:
+
+/usr/local/include/c++/3.3/clocale:
+
+/usr/local/include/c++/3.3/cctype:
+
+/usr/local/include/c++/3.3/bits/stringfwd.h:
+
+/usr/local/include/c++/3.3/bits/fpos.h:
+
+/usr/local/include/c++/3.3/powerpc-ibm-aix4.3.3.0/bits/c++io.h:
+
+/usr/local/include/c++/3.3/cstdio:
+
+/usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/stdio.h:
+
+/usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/stdarg.h:
+
+/usr/include/va_list.h:
+
+/usr/local/include/c++/3.3/powerpc-ibm-aix4.3.3.0/bits/gthr.h:
+
+/usr/local/include/c++/3.3/powerpc-ibm-aix4.3.3.0/bits/gthr-default.h:
+
+/usr/local/include/c++/3.3/powerpc-ibm-aix4.3.3.0/bits/gthr-posix.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sched.h:
+
+/usr/include/sys/sched.h:
+
+/usr/include/sys/pri.h:
+
+/usr/include/sys/proc.h:
+
+/usr/include/sys/ptrace.h:
+
+/usr/include/sys/thread.h:
+
+/usr/include/sys/processor.h:
+
+/usr/include/sys/lock_def.h:
+
+/usr/include/sys/var.h:
+
+/usr/include/sys/atomic_op.h:
+
+/usr/include/sys/timer.h:
+
+/usr/include/sys/lockl.h:
+
+/usr/include/unistd.h:
+
+/usr/include/sys/access.h:
+
+/usr/include/sys/lockf.h:
+
+/usr/include/sys/stat.h:
+
+/usr/include/sys/mode.h:
+
+/usr/local/include/c++/3.3/cwchar:
+
+/usr/local/include/c++/3.3/ctime:
+
+/usr/include/wchar.h:
+
+/usr/local/include/c++/3.3/bits/stl_pair.h:
+
+/usr/local/include/c++/3.3/bits/type_traits.h:
+
+/usr/local/include/c++/3.3/bits/stl_iterator_base_types.h:
+
+/usr/local/include/c++/3.3/bits/stl_iterator_base_funcs.h:
+
+/usr/local/include/c++/3.3/bits/concept_check.h:
+
+/usr/local/include/c++/3.3/bits/stl_iterator.h:
+
+/usr/local/include/c++/3.3/bits/stl_alloc.h:
+
+/usr/local/include/c++/3.3/bits/stl_threads.h:
+
+/usr/local/include/c++/3.3/powerpc-ibm-aix4.3.3.0/bits/atomicity.h:
+
+/usr/local/include/c++/3.3/bits/stl_construct.h:
+
+/usr/local/include/c++/3.3/bits/stl_uninitialized.h:
+
+/usr/local/include/c++/3.3/bits/stl_vector.h:
+
+/usr/local/include/c++/3.3/bits/stl_bvector.h:
+
+/usr/local/include/c++/3.3/bits/vector.tcc:
+
+../../include/cross.h:
+
+/usr/local/include/c++/3.3/string:
+
+/usr/local/include/c++/3.3/bits/char_traits.h:
+
+/usr/local/include/c++/3.3/memory:
+
+/usr/local/include/c++/3.3/bits/stl_raw_storage_iter.h:
+
+/usr/local/include/c++/3.3/bits/stl_function.h:
+
+/usr/local/include/c++/3.3/bits/basic_string.h:
+
+/usr/local/include/c++/3.3/algorithm:
+
+/usr/local/include/c++/3.3/bits/stl_algo.h:
+
+/usr/local/include/c++/3.3/bits/stl_heap.h:
+
+/usr/local/include/c++/3.3/bits/stl_tempbuf.h:
+
+/usr/local/include/c++/3.3/bits/basic_string.tcc:
+
+/usr/include/dirent.h:
+
+/usr/include/sys/dir.h:
+
+/usr/include/sys/lkup.h:
+
+/usr/local/lib/gcc-lib/powerpc-ibm-aix4.3.3.0/3.3/include/math.h:
+
+../../include/support.h:
+
+/usr/include/strings.h:
+
+../../include/setup.h:
+
+/usr/local/include/c++/3.3/list:
+
+/usr/local/include/c++/3.3/bits/stl_list.h:
+
+/usr/local/include/c++/3.3/bits/list.tcc:
+
+../../include/serialport.h:
+
+../../include/inout.h:
+
+../../include/timer.h:
+
+/opt/doom/include/SDL/SDL.h:
+
+/opt/doom/include/SDL/SDL_main.h:
+
+/opt/doom/include/SDL/SDL_stdinc.h:
+
+/opt/doom/include/SDL/SDL_config.h:
+
+/opt/doom/include/SDL/SDL_platform.h:
+
+/usr/include/inttypes.h:
+
+/opt/doom/include/SDL/begin_code.h:
+
+/opt/doom/include/SDL/close_code.h:
+
+/opt/doom/include/SDL/SDL_audio.h:
+
+/opt/doom/include/SDL/SDL_error.h:
+
+/opt/doom/include/SDL/SDL_endian.h:
+
+/opt/doom/include/SDL/SDL_mutex.h:
+
+/opt/doom/include/SDL/SDL_thread.h:
+
+/opt/doom/include/SDL/SDL_rwops.h:
+
+/opt/doom/include/SDL/SDL_cdrom.h:
+
+/opt/doom/include/SDL/SDL_cpuinfo.h:
+
+/opt/doom/include/SDL/SDL_events.h:
+
+/opt/doom/include/SDL/SDL_active.h:
+
+/opt/doom/include/SDL/SDL_keyboard.h:
+
+/opt/doom/include/SDL/SDL_keysym.h:
+
+/opt/doom/include/SDL/SDL_mouse.h:
+
+/opt/doom/include/SDL/SDL_video.h:
+
+/opt/doom/include/SDL/SDL_joystick.h:
+
+/opt/doom/include/SDL/SDL_quit.h:
+
+/opt/doom/include/SDL/SDL_loadso.h:
+
+/opt/doom/include/SDL/SDL_timer.h:
+
+/opt/doom/include/SDL/SDL_version.h:
+
+../../include/programs.h:
+
+../../include/cpu.h:

@@ -1,0 +1,8 @@
+core_dyn_x86.o: ../../config.h
+core_dyn_x86.o: ../../include/logging.h
+core_dyn_x86.o: ../../include/dosbox.h
+core_dyn_x86.o: core_dyn_x86.cpp
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+core_dyn_x86.cpp:

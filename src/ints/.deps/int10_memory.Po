@@ -1,0 +1,16 @@
+int10_memory.o: ../../include/vga.h
+int10_memory.o: int10.h
+int10_memory.o: ../../include/inout.h
+int10_memory.o: ../../include/mem.h
+int10_memory.o: ../../config.h
+int10_memory.o: ../../include/logging.h
+int10_memory.o: ../../include/dosbox.h
+int10_memory.o: int10_memory.cpp
+../../include/vga.h:
+int10.h:
+../../include/inout.h:
+../../include/mem.h:
+../../config.h:
+../../include/logging.h:
+../../include/dosbox.h:
+int10_memory.cpp:
