@@ -1,4 +1,4 @@
-# chocolate-doom-2.3.0-aix43
+# dosbox-0.74-aix43
 
 An attempt of porting dosbox 0.74 to AIX 4.3.3.
 
